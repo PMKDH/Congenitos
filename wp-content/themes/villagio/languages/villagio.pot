@@ -1,0 +1,344 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Villagio\n"
+"POT-Creation-Date: 2018-05-23 12:36+0300\n"
+"PO-Revision-Date: 2017-05-25 15:36+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: inc/tgmpa\n"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:37 comments.php:57
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:40 comments.php:60
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:42 comments.php:62
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:70
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:26
+msgid "Footer Links Menu"
+msgstr ""
+
+#: functions.php:50
+msgid "Primary"
+msgstr ""
+
+#: functions.php:51
+msgid "Header Right"
+msgstr ""
+
+#: functions.php:52
+msgid "Footer"
+msgstr ""
+
+#: functions.php:121
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:123 functions.php:168
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:130
+msgid "Footer Left"
+msgstr ""
+
+#: functions.php:132 functions.php:141 functions.php:150
+msgid "Appears in the footer section of the site."
+msgstr ""
+
+#: functions.php:139
+msgid "Footer Center"
+msgstr ""
+
+#: functions.php:148
+msgid "Footer Right"
+msgstr ""
+
+#: functions.php:157
+msgid "Front Page Top"
+msgstr ""
+
+#: functions.php:159
+msgid "Appears on the Front Page."
+msgstr ""
+
+#: functions.php:166
+msgid "Shop"
+msgstr ""
+
+#: functions.php:205
+msgid "expand child menu"
+msgstr ""
+
+#: functions.php:206
+msgid "collapse child menu"
+msgstr ""
+
+#: functions.php:300
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:340
+msgid "Page with sidebar"
+msgstr ""
+
+#: header.php:22
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:53
+msgid "Menu"
+msgstr ""
+
+#: header.php:95
+msgid "Top Links Menu"
+msgstr ""
+
+#: inc/customizer.php:149
+msgid "Main Text Color"
+msgstr ""
+
+#: inc/customizer.php:161
+msgid "Brand Color"
+msgstr ""
+
+#: inc/customizer.php:173
+msgid "Brand Color Hover for Buttons"
+msgstr ""
+
+#: inc/customizer.php:182
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer.php:210
+msgid "Enable Front Page slideshow"
+msgstr ""
+
+#: inc/customizer.php:222
+msgid "Animation"
+msgstr ""
+
+#: inc/customizer.php:225
+msgid "Slide"
+msgstr ""
+
+#: inc/customizer.php:226
+msgid "Fade"
+msgstr ""
+
+#: inc/customizer.php:246
+msgid "Speed (ms)"
+msgstr ""
+
+#: inc/customizer.php:322
+msgid "Default"
+msgstr ""
+
+#: inc/template-tags-mphb.php:7 inc/template-tags-mphb.php:20
+msgid "Read more"
+msgstr ""
+
+#: inc/template-tags.php:68
+#, php-format
+msgid "%1$s Comment<span class=\"screen-reader-text\"> on %2$s</span>"
+msgid_plural ""
+"%1$s Comments<span class=\"screen-reader-text\"> on %2$s</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/template-tags.php:71
+#, php-format
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:72
+#, php-format
+msgid "1 Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:102 template-parts/content-home.php:28
+#: template-parts/content-page-full-width.php:34
+#: template-parts/content-page.php:31
+#, php-format
+msgid "%2$s Edit %1$s"
+msgstr ""
+
+#: inc/template-tags.php:186 inc/template-tags.php:196
+#: template-parts/content-single.php:16 template-parts/content.php:17
+msgid "Featured"
+msgstr ""
+
+#: inc/template-tags.php:241
+msgid "next"
+msgstr ""
+
+#: inc/template-tags.php:242
+msgid "Next post:"
+msgstr ""
+
+#: inc/template-tags.php:244
+msgid "previous"
+msgstr ""
+
+#: inc/template-tags.php:245
+msgid "Previous post:"
+msgstr ""
+
+#: inc/template-tags.php:258
+msgid "Page"
+msgstr ""
+
+#: inc/template-tags.php:293
+msgctxt "Used between list items, there is a space."
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:296
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr ""
+
+#: inc/template-tags.php:322
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/template-tags.php:410
+msgid "Read More"
+msgstr ""
+
+#: inc/template-tags.php:446
+msgid "Related Posts"
+msgstr ""
+
+#: inc/woocommerce.php:311
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/woocommerce.php:313
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: search.php:15
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:11
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Keywords"
+msgstr ""
+
+#: searchform.php:17
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: template-parts/biography.php:13
+msgid "Author:"
+msgstr ""
+
+#: template-parts/biography.php:30
+#, php-format
+msgid "All Posts by %s"
+msgstr ""
+
+#: template-parts/content-home.php:16
+#: template-parts/content-page-full-width.php:18
+#: template-parts/content-page.php:19 template-parts/content-single.php:29
+#: template-parts/content.php:30
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:18
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:20
+msgid "Try again with some different keywords?"
+msgstr ""
+
+#: template-parts/content-none.php:23
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-single.php:25 template-parts/content.php:26
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Villagio"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://motopress.com/products/villagio/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Clean and responsive WordPress theme for your hospitality business."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "MotoPress"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://motopress.com/"
+msgstr ""

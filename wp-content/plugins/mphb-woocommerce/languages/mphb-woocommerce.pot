@@ -1,0 +1,225 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Hotel Booking\n"
+"POT-Creation-Date: 2018-04-03 18:15+0300\n"
+"PO-Revision-Date: 2017-02-10 17:51+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: mphb-woocommerce.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-Flags-xgettext: --add-comments\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/admin/groups/license-settings-group.php:15
+msgid ""
+"The License Key is required in order to get automatic plugin updates and "
+"support. You can manage your License Key in your personal account. <a "
+"href='https://motopress.zendesk.com/hc/en-us/articles/202812996-How-to-use-"
+"your-personal-MotoPress-account' target='blank'>Learn more</a>."
+msgstr ""
+
+#: includes/admin/groups/license-settings-group.php:20
+msgid "License Key"
+msgstr ""
+
+#: includes/admin/groups/license-settings-group.php:34
+msgid "Status"
+msgstr ""
+
+#: includes/admin/groups/license-settings-group.php:41
+msgid "Inactive"
+msgstr ""
+
+#: includes/admin/groups/license-settings-group.php:47
+msgid "Valid until"
+msgstr ""
+
+#: includes/admin/groups/license-settings-group.php:49
+msgid "Valid (Lifetime)"
+msgstr ""
+
+#: includes/admin/groups/license-settings-group.php:53
+msgid "Disabled"
+msgstr ""
+
+#: includes/admin/groups/license-settings-group.php:56
+msgid "Expired"
+msgstr ""
+
+#: includes/admin/groups/license-settings-group.php:59
+msgid "Invalid"
+msgstr ""
+
+#: includes/admin/groups/license-settings-group.php:62
+msgid ""
+"Your License Key does not match the installed plugin. <a href='https://"
+"motopress.zendesk.com/hc/en-us/articles/202957243-What-to-do-if-the-"
+"license-key-doesn-t-correspond-with-the-plugin-license' "
+"target='_blank'>How to fix this.</a>"
+msgstr ""
+
+#: includes/admin/groups/license-settings-group.php:65
+msgid "Product ID is not valid"
+msgstr ""
+
+#: includes/admin/groups/license-settings-group.php:74
+msgid "Action"
+msgstr ""
+
+#: includes/admin/groups/license-settings-group.php:82
+msgid "Activate License"
+msgstr ""
+
+#: includes/admin/groups/license-settings-group.php:88
+msgid "Deactivate License"
+msgstr ""
+
+#: includes/admin/groups/license-settings-group.php:95
+msgid "Renew License"
+msgstr ""
+
+#: includes/dependencies.php:72
+#, php-format
+msgid ""
+"Hotel Booking WooCommerce Payments plugin requires Hotel Booking plugin "
+"version %s or higher."
+msgstr ""
+
+#: includes/dependencies.php:76
+#, php-format
+msgid ""
+"Hotel Booking WooCommerce Payments requires WooCommerce plugin version %s "
+"or higher."
+msgstr ""
+
+#: includes/dependencies.php:80
+#, php-format
+msgid ""
+"Hotel Booking WooCommerce Payments requires equal currencies set up in "
+"WooCommerce(%s) and Hotel Booking(%s)."
+msgstr ""
+
+#: includes/libraries/edd-plugin-updater/edd-plugin-updater.php:203
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details"
+"%4$s."
+msgstr ""
+
+#: includes/libraries/edd-plugin-updater/edd-plugin-updater.php:211
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details"
+"%4$s or %5$supdate now%6$s."
+msgstr ""
+
+#: includes/libraries/edd-plugin-updater/edd-plugin-updater.php:398
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: includes/libraries/edd-plugin-updater/edd-plugin-updater.php:398
+msgid "Error"
+msgstr ""
+
+#: includes/woocommerce-gateway.php:163
+msgid "WooCommerce Payments"
+msgstr ""
+
+#: includes/woocommerce-gateway.php:174
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/woocommerce-gateway.php:178
+msgid "Select product"
+msgstr ""
+
+#: includes/woocommerce-gateway.php:208
+msgid "Product"
+msgstr ""
+
+#: includes/woocommerce-gateway.php:209
+#, php-format
+msgid ""
+"Go to <a href=\"%s\">WooCommerce > Products</a> and create a product that "
+"will be used to make reservations. <strong>Required</strong>."
+msgstr ""
+
+#: includes/woocommerce-gateway.php:215
+msgid "Checkout endpoints"
+msgstr ""
+
+#: includes/woocommerce-gateway.php:216
+msgid "Use Hotel Booking checkout endpoints instead of WooCommerce ones."
+msgstr ""
+
+#: includes/woocommerce-gateway.php:226
+msgid "License"
+msgstr ""
+
+#: includes/woocommerce-helper.php:321
+#, php-format
+msgid "Hotel Booking Payment: %s"
+msgstr ""
+
+#: includes/woocommerce-helper.php:347
+msgid "Dates"
+msgstr ""
+
+#: includes/woocommerce-helper.php:357
+#, php-format
+msgid "Accommodation #%s"
+msgstr ""
+
+#: includes/woocommerce-helper.php:357
+msgid "Accommodation"
+msgstr ""
+
+#: includes/woocommerce-helper.php:367
+#, php-format
+msgid "You have %s to complete the payment before your order is dropped."
+msgstr ""
+
+#: includes/woocommerce-helper.php:369
+msgid "Sorry, your order is dropped. Try again."
+msgstr ""
+
+#: includes/woocommerce-helper.php:475
+msgid "Cheatin&#8217; uh?"
+msgstr ""
+
+#: includes/woocommerce-helper.php:485
+msgid ""
+"Your cart contains product that cannot be purchased with other products. "
+"Finish your reservation first or empty the cart."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Hotel Booking WooCommerce Payments"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://motopress.com/products/hotel-booking-woocommerce-payments/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Use WooCommerce payment gateways to rent out your accommodations."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "MotoPress"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://motopress.com/"
+msgstr ""
