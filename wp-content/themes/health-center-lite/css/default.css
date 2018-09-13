@@ -1,0 +1,110 @@
+/*!
+ * Default Css created By Shahid - Scientech IT
+ * This css regarding to colors Schemes-------------------------------------------------!
+ */ 
+
+ /* Background Colors */
+.navigation_section, .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus, .slide_thumb, .hc_main_service, .hc_home_portfolio_showcase_overlay, .hc_callout_area, .hc_callout_area a, .hc_carousel-prev:hover, .hc_carousel-next:hover, .hc_portfolio_tabs li.active > a, .hc_portfolio_tabs li > a:hover, .hc_portfolio_showcase_overlay, .hc_portfolio_detail_pagi li a:hover, .hc_portfolio_detail_info a, .hc_sevice_icon, .hc_sevice_icon:hover, .hc_btn,#hc_btn, .hc_post_date span.date, a.hc_blog_btn, a.more-link, .hc_blog_pagi a:hover, .hc_blog_pagi a.active, .hc_widget_tags a:hover,.hc_sidebar .tagcloud a:hover,.hc_footer_widget_column  .tagcloud a:hover, .hc_btn_blue, .hc_dropcape_square span, .hc_dropcape_circle span, .hc_short_tabs li.active > a,
+.hc_short_tabs li > a:hover, .error_404_btn:hover, .hc_footer_widget_column #wp-calendar caption,.hc_sidebar #wp-calendar caption, .hc_sidebar #searchsubmit, a.hc_service_btn, a .hc_service_btn, table th { background-color: #31A3DD; }
+
+@media only screen and (min-width: 960px) and (max-width: 1200px) { .slide_thumb { background-color: #31A3DD; } }
+@media only screen and (min-width: 768px) and (max-width: 959px) { .slide_thumb { background-color: #31A3DD; } }
+@media only screen and (min-width: 480px) and (max-width: 767px) { .slide_thumb > li { background-color: #31A3DD; } }
+@media only screen and (min-width: 200px) and (max-width: 480px) { .slide_thumb > li { background-color: #31A3DD; } }
+
+
+/* Navigation *.
+
+/* Text Colors */
+a{color:#31A3DD;}
+a:hover, .widget li a:hover, .widget li a:focus, .sticky, .hc_logo h1 > a, .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus,  
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus, .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus, .dropdown-menu > .active > a, .hc_service_area i, .hc_service_area h2 > a:hover, .hc_service_area p a, .hc_home_title h1, .hc_home_callnow_title h1, .hc_home_portfolio_caption h3 a:hover, .hc_callout_area a:hover, .hc_testimonials_title, .hc_footer_area p a:hover, .hc_breadcrumb > .active, .hc_team_showcase .caption h3, .hc_team_about2_showcase .caption h3, .hc_portfolio_caption h3 a:hover, .hc_portfolio_detail_info a:hover, .hc_service_section h3 > a:hover, .hc_service_detail_area label > small, .hc_btn:hover,.hc_btn:focus,.hc_contactv1_area label > small, .hc_contactv2_area label > small, .hc_contactv1_address address a, .hc_contactv2_address address a, .hc_post_detail a:hover, a.hc_blog_btn:hover, a.hc_blog_btn:focus, .hc_comment_detail_title, .reply a:hover, .hc_comment_form_section label > small, .hc_sidebar_widget h3 a:hover, .hc_sidebar_calender small, .hc_widget_link a:hover,.hc_sidebar ul a:hover , .hc_widget_link a.active,.hc_sidebar ul a.active, .hc_left_sidebar_widget h3 a:hover, .hc_tooltip a, table th a, .error_404 h4, .error_404_btn, table tfoot a, .comment-reply-title a,.logged-in-as a, .hc_post-date-type .day, 
+.hc_testimonials_area_content:before, .hc_logo h1, .hc_service_area a:hover, .hc_service_area a:focus, .hc_blog_post_content a, .hc_blog_post_content a:focus, .section-title, .sidebar-project  div[class*="wbr_feature_page_widget"] h2 a:hover, .hc_post_area h4 a:hover, .sidebar-news  div[class*="wbr_feature_page_widget"] h2 a:hover, .sidebar-news  div[class*="wbr_feature_page_widget"] h2 a :focus, div[class*="wbr_feature_page_widget"] h2 a:hover, div[class*="wbr_feature_page_widget"] h2 a:focus, .hc_footer_widget_area div[class*=wbr_feature_page_widget] h2 a:hover, .hc_footer_widget_area div[class*=wbr_feature_page_widget] h2 a:focus, .hc_footer_widget_area .hc_home_portfolio_caption:hover, .hc_footer_widget_area .hc_home_portfolio_caption:focus, aside[class*="widget_wbr_feature_page_widget"] a:hover, aside[class*="widget_wbr_feature_page_widget"] a:focus, a .hc_service_btn:hover, a .hc_service_btn:focus, .hc_post_title_wrapper h2 a:hover, .site-description, #hc_btn:hover{ color:#31A3DD; }
+a.hc_blog_btn:hover { color:#31A3DD !important;}
+
+/* Border colors */
+
+.navbar-nav > li > a { border-right: 1px solid #2490C7; }
+
+.dropdown-menu, .hc_heading_title h3 { border-bottom: 3px solid #31A3DD; }
+
+.hc_google_map iframe, .hc_contactv2_address iframe, .hc_post-date-type { border-bottom: 2px solid #31A3DD; }
+
+.hc_portfolio_tabs li.active > a, .hc_portfolio_tabs li > a:hover, .hc_portfolio_detail_info a:hover, .hc_blog_pagi a:hover, .hc_blog_pagi a.active, .hc_widget_tags a:hover,.hc_sidebar .tagcloud a:hover,.hc_footer_widget_column  .tagcloud a:hover, .hc_short_tabs li.active > a, .hc_short_tabs li > a:hover, .error_404_btn { border: 1px solid #31A3DD; }
+
+.hc_service_area i, .index_ser_img { border: 2px solid #31A3DD; }
+
+.hc_team_showcase {border-bottom: 2px solid #31A3DD;}
+
+.hc_service_area i:hover { border: 4px solid #31A3DD; }
+
+.hc_blockquote_section blockquote, .hc_blog_post_content blockquote { border-left: 5px solid #31A3DD; }
+
+.hc_input_control:focus, .hc_textarea_control:focus, .hc_con_input_control:focus, .hc_con_textarea_control:focus, .hc_btn,#hc_btn, .hc_btn:hover,.hc_btn:focus,#hc_btn:hover,#hc_btn:focus, a.hc_blog_btn,a.more-link, a.hc_blog_btn:hover, a.hc_blog_btn:focus, a.hc_service_btn, a.hc_service_btn:hover, a.hc_service_btn:focus { border-color: #31A3DD; }
+
+#hc_btn:hover{background-color:#fff;}
+/* Shadow colors */
+
+.hc_input_control:focus, .hc_textarea_control:focus, .hc_con_input_control:focus, .hc_con_textarea_control:focus {
+	-webkit-box-shadow: inset 0 0px 0px #31A3DD, 0 0 5px #31A3DD;
+		  box-shadow: inset 0 0px 0px #31A3DD, 0 0 5px #31A3DD;
+}
+a.hc_blog_btn,a.more-link, a.hc_service_btn  { text-shadow: 0 1px 1px #31A3DD; }
+
+
+/* Slider Css */
+#carousel .flex-active, .slide_thumb > li:hover, .slide_thumb > li.active { background-color:#1786bf; }
+.slide_thumb > li { border-right: 1px solid #51C0F8; }
+
+/* Slider Caption --------------------------------------------------------------------------------------------------- */
+.slide-btn-sm {
+	background-color: #31A3DD;
+}
+aside[class*="widget_wbr_feature_page_widget"] a i, div[class*="wbr_feature_page_widget"] a i
+{
+	border: 2px solid #31A3DD;
+}
+
+
+
+/* default css */
+button,
+input[type="submit"], input[type="submit"]:hover, input[type="submit"]:focus, input[type="reset"]:hover, input[type="reset"]:focus {
+    border-color: #31A3DD;
+}
+button,
+input[type="submit"], input[type="reset"]{
+    background-color: #31A3DD;
+}
+
+
+
+/* widget css by prakash */
+input[type="submit"]:hover,
+input[type="submit"]:focus,
+input[type="reset"]:hover,
+input[type="reset"]:focus,
+button:hover,
+button:focus,
+reset:hover,
+reset:focus{
+	color:#31A3DD;
+}
+
+blockquote {border-left: 5px solid #31A3DD !important;}
+
+.widget .rsswidget{
+	color: #31A3DD;
+}
+
+.widget .tagcloud a:hover,
+.widget .tagcloud a:focus{
+    border: 1px solid #31A3DD;
+	background-color: #31A3DD;
+}
+
+.widget .calendar_wrap caption,
+.widget .calendar_wrap a{
+	background-color: #31A3DD;
+	text-align:center;
+}

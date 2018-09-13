@@ -1,0 +1,1052 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: health-center-lite\n"
+"POT-Creation-Date: 2018-07-31 16:32+0530\n"
+"PO-Revision-Date: 2018-07-31 16:32+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:6 404.php:16
+msgid "Error 404"
+msgstr ""
+
+#: 404.php:17
+msgid "Oops! Page not found"
+msgstr ""
+
+#: 404.php:18
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr ""
+
+#: 404.php:19
+msgid "Go Back"
+msgstr ""
+
+#: archive.php:7
+msgid "Daily Archive"
+msgstr ""
+
+#: archive.php:9
+msgid "Monthly Archive"
+msgstr ""
+
+#: archive.php:11
+msgid "Yearly Archive"
+msgstr ""
+
+#: archive.php:13
+msgid "Blog Archive"
+msgstr ""
+
+#: author.php:45 category.php:45 full-width.php:37 index.php:53 page.php:33
+#: template-blog-with-rightsb.php:53
+msgid "Read More"
+msgstr ""
+
+#: author.php:52 category.php:52 index.php:61 template-blog-with-rightsb.php:59
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: author.php:55 category.php:55 index.php:64
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: comments.php:2
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:16
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:17
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:18
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:22
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:26
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment"
+msgstr ""
+
+#: comments.php:31
+msgid "Name"
+msgstr ""
+
+#: comments.php:32
+msgid "Email"
+msgstr ""
+
+#: comments.php:33
+msgid "Website"
+msgstr ""
+
+#: comments.php:43
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:43
+msgid "Logout of this account"
+msgstr ""
+
+#: comments.php:43
+msgid "Logout"
+msgstr ""
+
+#: comments.php:45
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:47
+msgid "Leave a Reply"
+msgstr ""
+
+#: functions.php:52
+msgid "Page"
+msgstr ""
+
+#: functions.php:65
+msgid "Primary Menu"
+msgstr ""
+
+#: functions/commentbox/comment-function.php:12
+msgid "Reply"
+msgstr ""
+
+#: functions/commentbox/comment-function.php:20
+msgid "at"
+msgstr ""
+
+#: functions/commentbox/comment-function.php:26
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions/customizer/callout-panel.php:7
+msgid "Callout section"
+msgstr ""
+
+#: functions/customizer/callout-panel.php:14
+#: functions/customizer/faq-panel.php:14
+#: functions/customizer/project-panel.php:14
+#: functions/customizer/recent_news-panel.php:14
+#: functions/customizer/service-panel.php:14
+msgid "Settings"
+msgstr ""
+
+#: functions/customizer/callout-panel.php:28
+msgid "Hide callout section"
+msgstr ""
+
+#: functions/customizer/callout-panel.php:35
+#: functions/customizer/faq-panel.php:35
+#: functions/customizer/project-panel.php:35
+#: functions/customizer/service-panel.php:35
+msgid "Section Header"
+msgstr ""
+
+#: functions/customizer/callout-panel.php:52
+msgid "Text"
+msgstr ""
+
+#: functions/customizer/callout-panel.php:70
+msgid "Button Text"
+msgstr ""
+
+#: functions/customizer/callout-panel.php:88
+msgid "Button Link"
+msgstr ""
+
+#: functions/customizer/callout-panel.php:104
+msgid "Open link in new tab"
+msgstr ""
+
+#: functions/customizer/customizer-emailcourse.php:5
+msgid "CREATE TRUSTWORTHY WEBSITES"
+msgstr ""
+
+#: functions/customizer/customizer-emailcourse.php:20
+msgid "A website exists for one and ONLY one reason:"
+msgstr ""
+
+#: functions/customizer/customizer-emailcourse.php:21
+msgid "To bring you more business."
+msgstr ""
+
+#: functions/customizer/customizer-emailcourse.php:23
+msgid ""
+"Think of your website as a hardworking salesman who works 24/7 and never "
+"asks for a raise!"
+msgstr ""
+
+#: functions/customizer/customizer-emailcourse.php:25
+msgid ""
+"In this email course I deliver 4 highly actionable tips on how you can build "
+"a website which is trustworthy and which, in turn, brings more business to "
+"you."
+msgstr ""
+
+#: functions/customizer/customizer-emailcourse.php:29
+msgid "JOIN COURSE"
+msgstr ""
+
+#: functions/customizer/customizer-pro.php:16
+msgid "View Demo"
+msgstr ""
+
+#: functions/customizer/customizer-pro.php:47
+#: functions/customizer/customizer-pro.php:54
+msgid "Upgrade to pro"
+msgstr ""
+
+#: functions/customizer/customizer-pro.php:81
+msgid "ADD YOUR REVIEW"
+msgstr ""
+
+#: functions/customizer/customizer-pro.php:111
+msgid "DOCUMENTATION"
+msgstr ""
+
+#: functions/customizer/customizer-pro.php:115
+msgid ""
+"The Pro Version gives you more opportunities to enhance your site and "
+"business. In order to create effective online presence one have to showcase "
+"their wide range of products, have to use contact us enquiry form, have to "
+"make effective about us page, have to introduce team members, etc etc . The "
+"pro version will give it all. Buy the pro version and give us a chance to "
+"serve you better."
+msgstr ""
+
+#: functions/customizer/customizer_copyright.php:6
+#: functions/customizer/customizer_copyright.php:12
+msgid "Footer copyright settings"
+msgstr ""
+
+#: functions/customizer/customizer_copyright.php:28
+msgid "Copyright text"
+msgstr ""
+
+#: functions/customizer/customizer_header.php:7
+msgid "Header settings"
+msgstr ""
+
+#: functions/customizer/customizer_header.php:12
+#: functions/customizer/customizer_header.php:26
+msgid "Custom CSS"
+msgstr ""
+
+#: functions/customizer/faq-panel.php:7
+msgid "FAQ section"
+msgstr ""
+
+#: functions/customizer/faq-panel.php:28
+#: functions/customizer/project-panel.php:28
+#: functions/customizer/recent_news-panel.php:28
+#: functions/customizer/service-panel.php:28
+msgid "Hide section"
+msgstr ""
+
+#: functions/customizer/faq-panel.php:48
+#: functions/customizer/project-panel.php:48
+#: functions/customizer/service-panel.php:48
+#: functions/widget/wbr-resent-news-widget.php:64
+msgid "Title"
+msgstr ""
+
+#: functions/customizer/project-panel.php:7
+msgid "Project section"
+msgstr ""
+
+#: functions/customizer/project-panel.php:60
+#: functions/customizer/service-panel.php:60
+msgid "Subtitle"
+msgstr ""
+
+#: functions/customizer/recent_news-panel.php:7
+msgid "Recent news section"
+msgstr ""
+
+#: functions/customizer/service-panel.php:7
+msgid "Service section"
+msgstr ""
+
+#: functions/customizer/service-panel.php:75
+#: functions/customizer/service-panel.php:82
+msgid "Big intro section"
+msgstr ""
+
+#: functions/customizer/service-panel.php:94
+msgid "Site intro"
+msgstr ""
+
+#: functions/customizer/service-panel.php:107
+msgid "Call now text"
+msgstr ""
+
+#: functions/customizer/service-panel.php:120
+msgid "Call now number"
+msgstr ""
+
+#: functions/customizer/slider-panel.php:7
+#: functions/customizer/slider-panel.php:21
+msgid "Slider section"
+msgstr ""
+
+#: functions/customizer/slider-panel.php:13
+msgid "Choose Post"
+msgstr ""
+
+#: functions/customizer/slider-panel.php:40
+msgid "Hide Home Slider"
+msgstr ""
+
+#: functions/customizer/slider-panel.php:43
+msgid "Enable slider on front page."
+msgstr ""
+
+#: functions/customizer/slider-panel.php:49
+msgid "Select slider post"
+msgstr ""
+
+#: functions/customizer/slider-panel.php:62
+msgid "Select post"
+msgstr ""
+
+#: functions/health-info/sections/actions-required.php:13
+msgid "1. Creating Homepage using Home Page Template."
+msgstr ""
+
+#: functions/health-info/sections/actions-required.php:14
+msgid ""
+"To setup exact replica of home page as shown in our demo, you have to create "
+"a WordPress page using a template \"Business Template\". Business Template "
+"shows all the section like banner, services, portfolio, Latest News, Footer "
+"Callout etc which is ideal for any business site. Kindly refer the snapshot."
+msgstr ""
+
+#: functions/health-info/sections/actions-required.php:21
+msgid "2. Assign Homepage as Front Page Displays."
+msgstr ""
+
+#: functions/health-info/sections/actions-required.php:22
+msgid ""
+"If you want to show Homepage as Front Page? You need to set the Homepage as "
+"static page as shown in the snapshot below. Now go to custmizer and start "
+"configuring the sections in  Business Template. Hope you will find this "
+"theme useful"
+msgstr ""
+
+#: functions/health-info/sections/actions-required.php:30
+#: functions/health-info/sections/actions-required.php:37
+msgid "health Blue Child Theme"
+msgstr ""
+
+#: functions/health-info/sections/child-themes.php:16
+msgid "Install & Use Health Center Lite Child Themes"
+msgstr ""
+
+#: functions/health-info/sections/child-themes.php:18
+msgid ""
+"Below you will find a selection of Health center lite child themes that will "
+"totally transform the look of your site."
+msgstr ""
+
+#: functions/health-info/sections/child-themes.php:27
+msgid "Medical Treatment Child Theme"
+msgstr ""
+
+#: functions/health-info/sections/child-themes.php:29
+#: functions/health-info/sections/child-themes.php:35
+msgid "Medical Treatment"
+msgstr ""
+
+#: functions/health-info/sections/child-themes.php:37
+#: functions/health-info/sections/child-themes.php:68
+#: functions/health-info/sections/child-themes.php:100
+#, php-format
+msgid "Install %s now"
+msgstr ""
+
+#: functions/health-info/sections/child-themes.php:38
+#: functions/health-info/sections/child-themes.php:69
+#: functions/health-info/sections/child-themes.php:101
+msgid "Live Preview"
+msgstr ""
+
+#: functions/health-info/sections/child-themes.php:44
+msgid "medical-treatment - Current theme"
+msgstr ""
+
+#: functions/health-info/sections/child-themes.php:45
+#: functions/health-info/sections/child-themes.php:76
+#: functions/health-info/sections/child-themes.php:108
+msgid "Customize"
+msgstr ""
+
+#: functions/health-info/sections/child-themes.php:58
+msgid "Health Care Child Theme"
+msgstr ""
+
+#: functions/health-info/sections/child-themes.php:60
+msgid "Health care"
+msgstr ""
+
+#: functions/health-info/sections/child-themes.php:66
+msgid "Health Care"
+msgstr ""
+
+#: functions/health-info/sections/child-themes.php:75
+msgid "Health Care - Current theme"
+msgstr ""
+
+#: functions/health-info/sections/child-themes.php:90
+msgid "Health Press Child Theme"
+msgstr ""
+
+#: functions/health-info/sections/child-themes.php:92
+#: functions/health-info/sections/child-themes.php:98
+msgid "Health Press"
+msgstr ""
+
+#: functions/health-info/sections/child-themes.php:107
+msgid "Health Press - Current theme"
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:14
+msgid "Features"
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:19
+msgid "Frontpage Sections"
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:20
+msgid "You will find number of sections on front-page"
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:24
+msgid "Page Templates Support"
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:25
+msgid "Various Page Template included in Health Center Premium Theme."
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:30
+msgid "No of  sidebar on Homepage"
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:31
+msgid ""
+"Theme have many sidebar on Front page and Custom Page Template, Like Contact "
+"page template. "
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:35
+msgid "Custom Widget"
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:36
+msgid "Theme Have number of beautifuly designed Custom Widgets"
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:40
+msgid "Service Content type Widget"
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:41
+msgid "Add Services by using widget WBR: HC Page Widget"
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:45
+msgid "Homepage Section / Sidebar Layout"
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:46
+msgid "Customize Home page Sections Layout"
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:50
+#: functions/health-info/sections/github.php:124
+msgid "Jetpack Gallery Support"
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:51
+msgid "Create Awesome Gallery with Overlay Effects"
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:55
+msgid "Mobile Friendly"
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:56
+msgid "Responsive  layout in all devices."
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:61
+msgid "Contact Form Support"
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:62
+msgid ""
+"Default WordPress Contact Form and Contact Form 7 support. Add the forms "
+"using couple of predefined Contact Page Templates"
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:66
+#: functions/health-info/sections/github.php:16
+msgid "SEO Friendly URL"
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:67
+msgid ""
+"This feature allow you to change custom post type slug names in the url."
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:71
+#: functions/health-info/sections/github.php:88
+msgid "Mulitple Color Schemes"
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:72
+msgid ""
+"Enjoy with 8 preset color schemes. You can also create custom skin without "
+"adding any code."
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:76
+msgid "Google Map"
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:77
+msgid ""
+"Display your Shop and Business location on your website. Support for all the "
+"Google Map plugins which generates shortcode.  "
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:81
+msgid "Portfolio"
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:82
+msgid ""
+"Create Categorized Portfolio by using portfolio 2/3/4 column layout "
+"templates. Also show Diffrent set of portfolio on diffrent page. "
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:87
+msgid "WPML Support"
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:88
+msgid ""
+"Create Multilingual Website. Support for famous plugin like: WPML / Polylang "
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:92
+msgid "Access to Dummy Data File"
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:93
+msgid "Create exact replica of our demo site by importing the dummy data file."
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:97
+msgid "Support Forum"
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:98
+msgid "Get instant 24x7 support on Our Support Forum."
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:109
+msgid "Health Center Lite"
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:113
+msgid ""
+"Top Header Section, Banner Image ,Service ,Project / Product ,Latest News ,"
+"Footer Callout Section"
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:114
+msgid ""
+"Home Page Template, Full Width Page Template and Blog Right Sidebar Template"
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:116
+msgid "WBR: HC Page Widget [Service, Portfolio]"
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:117
+msgid "Support For Featured Image"
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:118
+msgid "Not Customizable"
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:119
+msgid "Simple Thumbnail Gallery"
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:128
+msgid "On WordPress.org Support Forum"
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:140
+msgid "Health Center Pro"
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:144
+msgid ""
+"Top Header, Slider [Unlimited Slides], Service [Unlimited Services], "
+"Portfolio [Unlimited Projects], Latest News, Faq, Patients Feedback , "
+"Testimonials, Additional Section, Callout and Footer widgetizeds area"
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:145
+msgid ""
+"About us, Portfolio 2/3/4 column, Blog Left Sidebar, Blog Right Sidebar, "
+"Blog Full Width, Page Full Width, Default Contact Page and Contact Page with "
+"contact form 7 Support."
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:147
+msgid ""
+"WBR: HC Icon Info Widget, WBR: HC Page / Service Widget,  WBR: HC Project "
+"Widget, WBR: HC Recent News Widget, WBR: HC Faq Widget, WBR: HC Testimonial "
+"Widget, WBR: HC Team Widget, WBR: HC Recent Post Widget, WBR: HC Footer "
+"Contact Widget"
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:148
+msgid ""
+"Support for thousands of Font-Awesome Icon , Featured Images and Read More "
+"Button / Link"
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:149
+msgid "Customizable"
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:150
+msgid "Overlay Effects Gallery"
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:159
+msgid "Premium Support Forum"
+msgstr ""
+
+#: functions/health-info/sections/free_pro.php:170
+msgid "Get Health Center PRO Now!"
+msgstr ""
+
+#: functions/health-info/sections/getting-started.php:14
+msgid "About Health Center Lite Theme"
+msgstr ""
+
+#: functions/health-info/sections/getting-started.php:20
+msgid ""
+"Health Centre is a clean, elegant and very flexible WordPress theme for "
+"Health and Medical business company. All the elements required in a medical "
+"theme are given in HealthCentre. The theme is designed in such a manner "
+"makes it suitable for other service company and corporate categories.\n"
+"\n"
+"Packed with everything you need to launch your site hassle free! Powerful "
+"and user friendly Customize Theme Options, Sidebar enabled HomePage Sections "
+"having support for all the WordPress core widgets. Premium theme is packed "
+"with many widgets like Service Page Widget, Portfolio Widget, Patient "
+"Testimonials Widget,Latest News Widget , Faq widgets , Info widget etc "
+msgstr ""
+
+#: functions/health-info/sections/getting-started.php:24
+msgid ""
+"Premium version even allows you to configure the layout of sidebars, for "
+"example if you want to show services, portfolio,testomonials in 2,3 and 4 "
+"column layout, than you are not required to add any css of php code just "
+"specify the section layout and get the desired result. Theme also support "
+"famous Page Builders since number of widgets are built in. "
+msgstr ""
+
+#: functions/health-info/sections/getting-started.php:28
+msgid ""
+"Note: Intresting fact about this theme is, after upgrade you can start from "
+"where you have left in the lite version. You have to install the premium "
+"version as a separate package like any other WordPress Theme."
+msgstr ""
+
+#: functions/health-info/sections/getting-started.php:35
+msgid "health-center-lite Blue Child Theme"
+msgstr ""
+
+#: functions/health-info/sections/getting-started.php:45
+msgid "Useful Links"
+msgstr ""
+
+#: functions/health-info/sections/getting-started.php:53
+msgid "Lite Demo"
+msgstr ""
+
+#: functions/health-info/sections/getting-started.php:57
+msgid "View Pro"
+msgstr ""
+
+#: functions/health-info/sections/getting-started.php:60
+msgid "Premium Theme Support"
+msgstr ""
+
+#: functions/health-info/sections/getting-started.php:69
+msgid "Rate This Theme"
+msgstr ""
+
+#: functions/health-info/sections/getting-started.php:72
+msgid "Support"
+msgstr ""
+
+#: functions/health-info/sections/github.php:11
+#: functions/health-info/welcome-screen.php:209
+msgid "Why Upgrade Pro"
+msgstr ""
+
+#: functions/health-info/sections/github.php:17
+msgid ""
+"This feature helps you to rename the slug names from the URL allowing you to "
+"make it SEO friendly."
+msgstr ""
+
+#: functions/health-info/sections/github.php:24
+msgid "Top Header Section"
+msgstr ""
+
+#: functions/health-info/sections/github.php:25
+msgid ""
+"In the premium version you will get top header sidebar area in which you can "
+"use any widget, all the widgets are styled. We have created number of "
+"widgets in the theme wich you can use it here. Specifically use the health "
+"Info Widget for showing email-id , contact number or any other info of your "
+"choice even social icons and many more."
+msgstr ""
+
+#: functions/health-info/sections/github.php:33
+msgid "Multi Level Navigation"
+msgstr ""
+
+#: functions/health-info/sections/github.php:34
+msgid ""
+"Beautifully style navigation/menu in health Theme. You can make multi level "
+"menu. Multi Level menu means that you can create sub menu."
+msgstr ""
+
+#: functions/health-info/sections/github.php:42
+msgid "Front Page Slider"
+msgstr ""
+
+#: functions/health-info/sections/github.php:43
+msgid ""
+"Premium theme have 2 type of sliders each can be shown usign different "
+"homepage templates. Add any number of slides having title, subtitle and "
+"custom read more button."
+msgstr ""
+
+#: functions/health-info/sections/github.php:51
+msgid "Service Features"
+msgstr ""
+
+#: functions/health-info/sections/github.php:53
+msgid ""
+"HomePage Service section is created via Service Sidebar. Use the widget HC: "
+"Featured Page for adding service type content. You can display as many "
+"services you want having support for thousands of Font Awesome Icons, custom "
+"icons and image graphics. Setting is provided for the changing the postion "
+"of image / icon around the title. Setting in customize screen allow you to "
+"select column layout for service section sidebar. "
+msgstr ""
+
+#: functions/health-info/sections/github.php:61
+msgid "Portfolio Features"
+msgstr ""
+
+#: functions/health-info/sections/github.php:62
+msgid ""
+"Showcase any number of projects. Theme will provide you an option for "
+"creating 2,3,4 cloumn grid layout by using portfolio 2,3,4 column  layout "
+"templates respectively. If you have number of projects to show than these "
+"templates will be the answer. You can also create categorised portfolio, "
+"which displays all the portfolio categories on single place. In fact we have "
+"coded in such a manner so that you can create any number of different set of "
+"portfolios."
+msgstr ""
+
+#: functions/health-info/sections/github.php:70
+msgid "Latest News Section"
+msgstr ""
+
+#: functions/health-info/sections/github.php:71
+msgid ""
+"Commonly this section is used to display  Latest News, Announcement and "
+"Events type of content. Since this section is created via latest news "
+"sidebar you can easily use other WordPress widgets. Powerful styling of all "
+"the sidebar areas on HomePage makes this theme very flexible. "
+msgstr ""
+
+#: functions/health-info/sections/github.php:78
+msgid "Testimonial Feature"
+msgstr ""
+
+#: functions/health-info/sections/github.php:79
+msgid ""
+"Testimonials are a powerful way to gain credibility created via a "
+"testimonail sidebar. Use the HC: Testimonial widget for showig testimonials."
+msgstr ""
+
+#: functions/health-info/sections/github.php:89
+msgid ""
+"You will get 8 predefined color skins and you can even make yours favorite "
+"color schemes using Custom Color Setting in the Custmizer."
+msgstr ""
+
+#: functions/health-info/sections/github.php:97
+msgid "Well Documented"
+msgstr ""
+
+#: functions/health-info/sections/github.php:98
+msgid ""
+"We provide good  knowledge base articles which helps you to create an "
+"effective wesbite. You can visit these articles on our  "
+msgstr ""
+
+#: functions/health-info/sections/github.php:98
+msgid "Help Section"
+msgstr ""
+
+#: functions/health-info/sections/github.php:106
+msgid "Custom widget "
+msgstr ""
+
+#: functions/health-info/sections/github.php:107
+msgid ""
+"Building website with our custom widgets is very simple. Just place them in "
+"inside the available Sidebar or even in the content"
+msgstr ""
+
+#: functions/health-info/sections/github.php:116
+msgid "Translation Ready"
+msgstr ""
+
+#: functions/health-info/sections/github.php:117
+msgid ""
+"Theme supports  yet another famous plugin WPML / Polylang. With the help of "
+"this support you can create website in multiple languages ."
+msgstr ""
+
+#: functions/health-info/sections/github.php:125
+msgid ""
+"The native WordPress image gallery displays as a grid of image thumbnails. "
+"If you want to show overlay effects on the gallery images? You need to "
+"install"
+msgstr ""
+
+#: functions/health-info/sections/github.php:125
+msgid "Jetpack plugin,"
+msgstr ""
+
+#: functions/health-info/sections/github.php:125
+msgid ""
+"Using Jetpack you can create four types of gallery style like Tiled Mosaic, "
+"Square Tiles, Circles and Tiled Columns. See gallery look on Health Center "
+"theme demo."
+msgstr ""
+
+#: functions/health-info/sections/github.php:125
+msgid "Click Here"
+msgstr ""
+
+#: functions/health-info/welcome-screen.php:56
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing health Lite! To fully take advantage of the "
+"best our theme can offer please make sure you visit our %swelcome page%s."
+msgstr ""
+
+#: functions/health-info/welcome-screen.php:57
+msgid "Get started with health Lite"
+msgstr ""
+
+#: functions/health-info/welcome-screen.php:100
+msgid "Hooray! There are no required actions for you right now."
+msgstr ""
+
+#: functions/health-info/welcome-screen.php:137
+msgid "View Theme Info"
+msgstr ""
+
+#: functions/health-info/welcome-screen.php:207
+msgid "Getting Started"
+msgstr ""
+
+#: functions/health-info/welcome-screen.php:208
+msgid "Actions Required"
+msgstr ""
+
+#: functions/health-info/welcome-screen.php:210
+msgid "Free VS PRO"
+msgstr ""
+
+#: functions/health-info/welcome-screen.php:211
+msgid "Child Themes"
+msgstr ""
+
+#: functions/widget/custom-sidebar.php:7 functions/widget/custom-sidebar.php:9
+msgid "Sidebar widget area"
+msgstr ""
+
+#: functions/widget/custom-sidebar.php:18
+#: functions/widget/custom-sidebar.php:20
+msgid "Top header sidebar"
+msgstr ""
+
+#: functions/widget/custom-sidebar.php:29
+msgid "Homepage service section - sidebar"
+msgstr ""
+
+#: functions/widget/custom-sidebar.php:31
+msgid "Use the widget WBR: Page Widget to add service type content"
+msgstr ""
+
+#: functions/widget/custom-sidebar.php:41
+msgid "Homepage project section - sidebar"
+msgstr ""
+
+#: functions/widget/custom-sidebar.php:43
+msgid "Use the widget WBR: Page Widget to add project type content"
+msgstr ""
+
+#: functions/widget/custom-sidebar.php:52
+#: functions/widget/custom-sidebar.php:54
+msgid "Homepage latest news section - sidebar"
+msgstr ""
+
+#: functions/widget/custom-sidebar.php:64
+msgid "Homepage faq section - sidebar"
+msgstr ""
+
+#: functions/widget/custom-sidebar.php:66
+msgid "Faq widget area"
+msgstr ""
+
+#: functions/widget/custom-sidebar.php:75
+#: functions/widget/custom-sidebar.php:77
+msgid "Footer widget area"
+msgstr ""
+
+#: functions/widget/custom-sidebar.php:86
+#: functions/widget/custom-sidebar.php:88
+msgid "Footer right section area"
+msgstr ""
+
+#: functions/widget/wbr-register-page-widget.php:17
+msgid "WBR : Page Widget"
+msgstr ""
+
+#: functions/widget/wbr-register-page-widget.php:18
+msgid "Feature page item widget"
+msgstr ""
+
+#: functions/widget/wbr-register-page-widget.php:72
+msgid "Select pages"
+msgstr ""
+
+#: functions/widget/wbr-register-page-widget.php:95
+msgid "Hide featured image"
+msgstr ""
+
+#: functions/widget/wbr-register-page-widget.php:100
+msgid "Display image below title"
+msgstr ""
+
+#: functions/widget/wbr-resent-news-widget.php:17
+msgid "WBR : Recent News Widget"
+msgstr ""
+
+#: functions/widget/wbr-resent-news-widget.php:18
+msgid "Recent News widget"
+msgstr ""
+
+#: functions/widget/wbr-resent-news-widget.php:69
+msgid "Number of news to show"
+msgstr ""
+
+#: search.php:8
+#, php-format
+msgid "Search results for %s"
+msgstr ""
+
+#: search.php:47
+msgid "Nothing found"
+msgstr ""
+
+#: search.php:49
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: single.php:16
+msgid "Leave a comment"
+msgstr ""
+
+#: single.php:16
+msgid "One Comment"
+msgstr ""
+
+#: single.php:16
+msgid "% Comments"
+msgstr ""
+
+#: tag.php:7
+#, php-format
+msgid "Tag Archive %s"
+msgstr ""
+
+#: template-blog-with-rightsb.php:60
+msgid "<span class=\"meta-nav\">&larr;</span> Newer posts"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "health-center-lite"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://webriti.com/health-center-lite-version-details-page/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Webriti"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://webriti.com/"
+msgstr ""

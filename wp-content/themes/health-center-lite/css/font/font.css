@@ -1,0 +1,12 @@
+/* Fely Fonts */
+@font-face {
+    font-family: 'Fely';
+    src: url('Fely.eot');
+    src: url('Fely.eot?#iefix') format('embedded-opentype'),
+         url('Fely.woff') format('woff'),
+         url('Fely.otf') format('truetype'),
+         url('Fely.svg#Fely') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

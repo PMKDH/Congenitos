@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: medical-treatment\n"
+"POT-Creation-Date: 2016-12-27 14:00+0530\n"
+"PO-Revision-Date: 2016-12-27 14:00+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: D:\\xampp\\htdocs\\wordpress\\wp-content\\themes\\medical-"
+"treatment\n"
+"X-Poedit-SearchPath-0: D:\\xampp\\htdocs\\wordpress\\wp-content\\themes"
+"\\medical-treatment\n"
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\medical-treatment/template-blog-fullwidth.php:52
+#: D:\xampp\htdocs\wordpress\wp-content\themes\medical-treatment/template-blog-leftsidbar.php:53
+msgid "Read More"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\medical-treatment/template-blog-fullwidth.php:57
+#: D:\xampp\htdocs\wordpress\wp-content\themes\medical-treatment/template-blog-leftsidbar.php:59
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\medical-treatment/template-blog-fullwidth.php:58
+#: D:\xampp\htdocs\wordpress\wp-content\themes\medical-treatment/template-blog-leftsidbar.php:60
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\medical-treatment/functions/customizer/customizer-pro.php:16
+msgid "View Demo"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\medical-treatment/functions/widget/custom-sidebar.php:4
+msgid "Homepage project section - sidebar"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\medical-treatment/functions/widget/custom-sidebar.php:6
+msgid "Use the widget WBR: HC Page Widget to add project type content"
+msgstr ""

@@ -1,0 +1,2569 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fury\n"
+"POT-Creation-Date: 2018-08-29 18:18+0200\n"
+"PO-Revision-Date: 2018-08-29 18:18+0200\n"
+"Last-Translator: Theme Vision <support@theme-vision.com>\n"
+"Language-Team: Theme Vision <support@theme-vision.com>\n"
+"Language: sr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:17 framework/classes/class-fury-breadcrumb.php:225
+msgid "404 Not Found"
+msgstr ""
+
+#: 404.php:21
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:23
+msgid "It seems we can't find page you are looking for. Maybe try a search ?"
+msgstr ""
+
+#: comments.php:41 framework/admin/fury-customizer.php:191
+msgid "Comments"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:19
+#: framework/admin/fury-customizer.php:450
+#: framework/admin/fury-customizer.php:1001
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:48
+msgid "Background Color"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:57
+#: framework/admin/fury-customizer.php:213
+#: framework/admin/fury-customizer.php:271
+#: framework/admin/fury-customizer.php:431
+#: framework/admin/fury-customizer.php:475
+#: framework/admin/fury-customizer.php:959
+#: framework/admin/fury-customizer.php:982
+msgid "General"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:64
+msgid "Body"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:68
+msgid "Body Font"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:69
+msgid "Customize website body font."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:89
+msgid "Body Background Color"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:90
+msgid "Customize body background color."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:107
+msgid "Extra"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:111
+msgid "Custom jQuery Head"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:112
+msgid "Add custom jQuery code into theme head area."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:121
+msgid "Custom jQuery Footer"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:122
+msgid "Add custom jQuery code into theme footer area."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:134
+msgid "Pages"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:138
+msgid "Page Title"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:139
+msgid "Enable or disable page titles globally."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:146
+msgid "Page Meta"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:147
+msgid ""
+"Enable or disable page meta globally. (Page author, category, comments count "
+"on very top.)"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:157
+#: framework/admin/fury-customizer.php:446
+#: framework/admin/fury-customizer.php:997
+msgid "Styling"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:161
+msgid "Primary Color"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:162
+msgid "Select theme primary color."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:195
+msgid "Tags Suggestion"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:196
+msgid "Enable or disable tags suggestion below comment form."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:206
+msgid "Layout"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:217
+msgid "Sidebar"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:218
+msgid "Select sidebar type."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:223
+msgid "Right Sidebar"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:224
+msgid "Left Sidebar"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:225
+msgid "No Sidebar"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:233
+msgid "Header"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:240
+#: framework/admin/fury-customizer.php:244
+msgid "Top Bar"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:245
+msgid "Enable or disable header top bar feature."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:252 framework/fury-functions.php:356
+#: framework/fury-functions.php:359 woocommerce/single-product-reviews.php:77
+msgid "Email"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:253
+msgid "Enter your contact email address."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:260
+msgid "Phone"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:261
+msgid "Enter your contact phone number."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:275
+msgid "Sticky Header"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:276
+msgid "Enable or disable sticky header feature."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:283
+msgid "Profile Icon"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:284
+msgid "Enable or disable user profile icon on header right area."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:291
+msgid "Search Icon"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:292
+msgid "Enable or disable search icon on header right area."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:302
+msgid "Logo"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:309
+msgid "Header Image"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:316
+msgid "Navigations"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:323
+msgid "Off-Canvas Navigation"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:327
+msgid "Enable Navigation"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:328
+msgid "Enable or disable Offcanvas navigation on header left side."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:335
+msgid "Wrapper Background Color"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:336
+msgid "Select off-canvas navigation wrapper background color."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:350
+#: framework/admin/fury-customizer.php:387
+msgid "Links Color"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:351
+msgid "Select off-canvas menu links color."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:365
+#: framework/admin/fury-customizer.php:402
+msgid "Links Hover Color"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:366
+msgid "Select off-canvas menu links hover color."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:383
+msgid "Primary Navigation"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:388
+msgid "Select primary navigation links color."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:403
+msgid "Select primary navigation links hover color."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:424
+msgid "Breadcrumb"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:435
+#: framework/admin/fury-customizer.php:479
+#: framework/admin/fury-customizer.php:511
+#: framework/admin/fury-customizer.php:611
+#: framework/admin/fury-customizer.php:826
+#: framework/admin/fury-customizer.php:916
+msgid "Enable"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:436
+msgid "Enable or disable breadcrumb feature."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:451
+msgid "Select breadcrumb background color."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:468
+msgid "Slider"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:480
+msgid "Enable or disable Fury slider."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:487
+msgid "Enable on Pages"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:488
+msgid "Enable Fury slider on custom pages."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:496
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:54
+msgid "Background Image"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:497
+msgid "Set custom slider background image."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:507
+msgid "Slide #1"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:512
+#: framework/admin/fury-customizer.php:612
+msgid "Enable slide ?"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:519
+#: framework/admin/fury-customizer.php:619
+msgid "Slide Text"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:520
+#: framework/admin/fury-customizer.php:620
+msgid "Add custom slide text."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:531
+#: framework/admin/fury-customizer.php:631
+#: framework/classes/abstract/class-fury-slider-defaults.php:133
+#: framework/classes/abstract/class-fury-slider-defaults.php:141
+msgid "Learn more about Fury"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:534
+#: framework/admin/fury-customizer.php:634
+msgid "Slide Image"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:535
+#: framework/admin/fury-customizer.php:635
+msgid "Set custom slide image."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:549
+#: framework/admin/fury-customizer.php:649
+msgid "Slider Button"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:550
+#: framework/admin/fury-customizer.php:650
+msgid "Enable or disable slider button."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:564
+#: framework/admin/fury-customizer.php:664
+msgid "Button URL"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:565
+#: framework/admin/fury-customizer.php:585
+#: framework/admin/fury-customizer.php:665
+#: framework/admin/fury-customizer.php:685
+msgid "Set button custom url."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:584
+#: framework/admin/fury-customizer.php:684
+msgid "Button Title"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:601
+#: framework/admin/fury-customizer.php:701
+#: framework/classes/abstract/class-fury-slider-defaults.php:137
+#: framework/classes/abstract/class-fury-slider-defaults.php:145
+msgid "Learn More"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:607
+msgid "Slide #2"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:707
+msgid "Blog"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:714
+msgid "Single Post"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:718
+msgid "Posts Title"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:719
+msgid "Enable or disable single post titles globally."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:726
+msgid "Posts Navigation"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:727
+msgid "Enable or disable single post prev/next navigation feature."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:734
+msgid "Related Articles"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:735
+msgid "Enable or disable single post related articles feature."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:742
+msgid "Related Articles Heading"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:743
+msgid "Enter custom title for Related Articles heading."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:754 framework/fury-actions.php:481
+msgid "You May Also Like"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:760
+msgid "Post Meta"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:764
+msgid "Post Author"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:765
+msgid "Enable or disable post meta author."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:772
+msgid "Post Date"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:773
+msgid "Enable or disable post meta date."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:780
+msgid "Post Tags"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:781
+msgid "Enable or disable post meta tags."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:788
+msgid "Post Comments"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:789
+msgid "Enable or disable post meta comments."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:796
+msgid "Read More Custom Link Text"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:797
+msgid "Change \"Read More\" link text with custom one."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:801 framework/fury-functions.php:145
+#: framework/fury-functions.php:159
+msgid "Read More"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:804
+msgid "Read More Link Color"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:805
+msgid "Select read more link color."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:822
+msgid "Social Icons"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:827
+#: framework/admin/fury-customizer.php:917
+msgid "Enable or disable social share feature."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:834
+#: framework/admin/fury-customizer.php:935
+msgid "Facebook"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:835
+msgid "Enter your Facebbok page url."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:849
+#: framework/admin/fury-customizer.php:936
+msgid "Twitter"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:850
+msgid "Enter your Twitter page url."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:864
+msgid "Youtube"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:865
+msgid "Enter your YouTube page url."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:879
+msgid "Instagram"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:880
+msgid "Enter your Instagram page url."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:894
+msgid "Pinterest"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:895
+msgid "Enter your Pinterest page url."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:912
+msgid "Social Share"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:926
+msgid "Make custom order."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:937
+msgid "LinkedIn"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:938
+msgid "Google+"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:952
+msgid "WooCommerce"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:964
+msgid "Related Products"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:965
+msgid ""
+"Enable WooCommerce related products section on single product page (bottom)."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:975
+msgid "Footer"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:986
+msgid "Footer Copyright"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:987
+msgid "Set custom footer copyright text."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:1002
+msgid "Select custom footer background color."
+msgstr ""
+
+#: framework/admin/fury-customizer.php:1020
+msgid "Homepage Settings"
+msgstr ""
+
+#: framework/admin/fury-customizer.php:1026
+msgid "Additional CSS"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:59
+#: framework/admin/kirki/controls/php/class-kirki-control-base.php:131
+#: framework/admin/kirki/controls/php/class-kirki-control-repeater.php:409
+#: framework/admin/kirki/controls/php/class-kirki-control-repeater.php:414
+msgid "No File Selected"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:62
+#: framework/admin/kirki/controls/php/class-kirki-control-base.php:132
+#: framework/admin/kirki/controls/php/class-kirki-control-image.php:52
+#: framework/admin/kirki/controls/php/class-kirki-control-repeater.php:387
+#: framework/admin/kirki/controls/php/class-kirki-control-repeater.php:444
+#: framework/admin/kirki/field/class-kirki-field-image.php:44
+msgid "Remove"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:63
+#: framework/admin/kirki/controls/php/class-kirki-control-base.php:134
+msgid "Select File"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:70
+msgid "Background Repeat"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:72
+msgid "No Repeat"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:73
+msgid "Repeat All"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:74
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:75
+msgid "Repeat Vertically"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:81
+msgid "Background Position"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:83
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:115
+msgid "Left Top"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:84
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:116
+msgid "Left Center"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:85
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:117
+msgid "Left Bottom"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:86
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:118
+msgid "Right Top"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:87
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:119
+msgid "Right Center"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:88
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:120
+msgid "Right Bottom"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:89
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:121
+msgid "Center Top"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:90
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:122
+msgid "Center Center"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:91
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:123
+msgid "Center Bottom"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:97
+msgid "Background Size"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:100
+msgid "Cover"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:103
+msgid "Contain"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:106
+msgid "Auto"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:113
+msgid "Background Attachment"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:116
+msgid "Scroll"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-background.php:119
+msgid "Fixed"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-base.php:133
+#: framework/admin/kirki/controls/php/class-kirki-control-image.php:51
+#: framework/admin/kirki/field/class-kirki-field-image.php:43
+msgid "Default"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-base.php:135
+msgid "Standard Fonts"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-base.php:136
+msgid "Google Fonts"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-base.php:137
+msgid "CSS Defaults"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-base.php:138
+msgid "Default Browser Font-Family"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-code.php:37
+msgid ""
+"Please update your WordPress installation to a version newer than 4.9 to "
+"access the code control."
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-dimension.php:39
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:140
+msgid "Invalid Value"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:124
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:106
+msgid "Font Size"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:125
+msgid "Font Weight"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:126
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:114
+msgid "Line Height"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:127
+msgid "Font Style"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:128
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:122
+msgid "Letter Spacing"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:129
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:130
+msgid "Word Spacing"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:130
+#: framework/admin/kirki/field/class-kirki-field-spacing.php:33
+msgid "Top"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:131
+#: framework/admin/kirki/field/class-kirki-field-spacing.php:34
+msgid "Bottom"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:132
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:149
+#: framework/admin/kirki/field/class-kirki-field-spacing.php:35
+msgid "Left"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:133
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:161
+#: framework/admin/kirki/field/class-kirki-field-spacing.php:36
+msgid "Right"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:134
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:155
+msgid "Center"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:135
+msgid "Size"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:136
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:139
+msgid "Height"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:137
+msgid "Spacing"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-dimensions.php:138
+msgid "Width"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-image.php:49
+#: framework/admin/kirki/controls/php/class-kirki-control-image.php:54
+#: framework/admin/kirki/field/class-kirki-field-image.php:41
+#: framework/admin/kirki/field/class-kirki-field-image.php:46
+msgid "Select image"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-image.php:50
+#: framework/admin/kirki/field/class-kirki-field-image.php:42
+msgid "Change image"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-image.php:53
+#: framework/admin/kirki/field/class-kirki-field-image.php:45
+msgid "No image selected"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-image.php:55
+#: framework/admin/kirki/field/class-kirki-field-image.php:47
+msgid "Choose image"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-repeater.php:78
+msgid "row"
+msgstr ""
+
+#. translators: %s represents the label of the row.
+#: framework/admin/kirki/controls/php/class-kirki-control-repeater.php:87
+#, php-format
+msgid "Add new %s"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-repeater.php:122
+msgid "Select a Page"
+msgstr ""
+
+#. translators: %s represents the number of rows we're limiting the repeater to allow.
+#: framework/admin/kirki/controls/php/class-kirki-control-repeater.php:228
+#, php-format
+msgid "Limit: %s rows"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-repeater.php:362
+msgid "Hex Value"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-repeater.php:377
+#: framework/admin/kirki/controls/php/class-kirki-control-repeater.php:382
+msgid "No Image Selected"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-repeater.php:388
+#: framework/admin/kirki/controls/php/class-kirki-control-repeater.php:392
+msgid "Add Image"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-repeater.php:388
+#: framework/admin/kirki/controls/php/class-kirki-control-repeater.php:390
+msgid "Change Image"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-repeater.php:420
+#: framework/admin/kirki/controls/php/class-kirki-control-repeater.php:424
+msgid "Add File"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-repeater.php:420
+#: framework/admin/kirki/controls/php/class-kirki-control-repeater.php:422
+msgid "Change File"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-slider.php:65
+msgid "Reset"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-switch.php:52
+#: framework/admin/kirki/field/class-kirki-field-switch.php:42
+msgid "On"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-switch.php:56
+#: framework/admin/kirki/field/class-kirki-field-switch.php:43
+msgid "Off"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:80
+msgid "Font Family"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:81
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:86
+msgid "Select Font Family"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:85
+msgid "Backup Font"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:91
+msgid "Variant"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:98
+msgid "Download font-family to server instead of using the Google CDN."
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:138
+msgid "Text Align"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:143
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:185
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:201
+msgid "Inherit"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:167
+msgid "Justify"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:177
+msgid "Text Transform"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:180
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:196
+msgid "None"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:181
+msgid "Capitalize"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:182
+msgid "Uppercase"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:183
+msgid "Lowercase"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:184
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:200
+msgid "Initial"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:193
+msgid "Text Decoration"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:197
+msgid "Underline"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:198
+msgid "Overline"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:199
+msgid "Line-Through"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:209
+msgid "Margin Top"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:217
+msgid "Margin Bottom"
+msgstr ""
+
+#: framework/admin/kirki/controls/php/class-kirki-control-typography.php:225
+msgid "Color"
+msgstr ""
+
+#. translators: %s represents the field ID where the error occurs.
+#: framework/admin/kirki/core/class-kirki-field.php:248
+#, php-format
+msgid "Typo found in field %s - setting instead of settings."
+msgstr ""
+
+#. translators: %1$s represents the field ID where the error occurs. %2$s is the URL in the documentation site.
+#: framework/admin/kirki/core/class-kirki-field.php:257
+#: framework/admin/kirki/core/class-kirki-field.php:267
+#, php-format
+msgid ""
+"Config not defined for field %1$s - See %2$s for details on how to properly "
+"add fields."
+msgstr ""
+
+#. translators: %1$s represents the field ID where the error occurs.
+#: framework/admin/kirki/core/class-kirki-field.php:407
+#, php-format
+msgid "Typo found in field %s - \"theme_mods\" vs \"theme_mod\""
+msgstr ""
+
+#. translators: %1$s represents the field ID where the error occurs.
+#: framework/admin/kirki/core/class-kirki-field.php:425
+#, php-format
+msgid "\"partial_refresh\" invalid entry in field %s"
+msgstr ""
+
+#. translators: The field ID where the error occurs.
+#: framework/admin/kirki/core/class-kirki-field.php:554
+#: framework/admin/kirki/core/class-kirki-field.php:564
+#, php-format
+msgid ""
+"\"output\" invalid format in field %s. The \"output\" argument should be "
+"defined as an array of arrays."
+msgstr ""
+
+#: framework/admin/kirki/core/class-kirki-init.php:282
+msgid ""
+"We detected you're using Kirki_Init::get_variables(). Please use Kirki_Util::"
+"get_variables() instead."
+msgstr ""
+
+#: framework/admin/kirki/core/class-kirki.php:228
+msgid ""
+"Kirki fields should not be added on customize_register. Please add them "
+"directly, or on init."
+msgstr ""
+
+#: framework/admin/kirki/deprecated/functions.php:19
+#, php-format
+msgid "%1$s or %2$s"
+msgstr ""
+
+#: framework/admin/kirki/field/class-kirki-field-color.php:55
+msgid ""
+"Do not use \"alpha\" as an argument in color controls. Use "
+"\"choices[alpha]\" instead."
+msgstr ""
+
+#. translators: %1$s represents the field ID where the error occurs. %2%s is buttonset/image.
+#: framework/admin/kirki/field/class-kirki-field-radio.php:37
+#, php-format
+msgid ""
+"Error in field %1$s. The \"mode\" argument has been deprecated since Kirki "
+"v0.8. Use the \"radio-%2$s\" type instead."
+msgstr ""
+
+#: framework/admin/kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:59
+msgid "Customizing"
+msgstr ""
+
+#. translators: The title.
+#: framework/admin/kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:62
+#, php-format
+msgid "Customizing &#9656; %s"
+msgstr ""
+
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:210
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:211
+msgid "Ultra-Light 100"
+msgstr ""
+
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:212
+msgid "Ultra-Light 100 Italic"
+msgstr ""
+
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:213
+msgid "Light 200"
+msgstr ""
+
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:214
+msgid "Light 200 Italic"
+msgstr ""
+
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:215
+msgid "Book 300"
+msgstr ""
+
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:216
+msgid "Book 300 Italic"
+msgstr ""
+
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:217
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:218
+msgid "Normal 400"
+msgstr ""
+
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:219
+msgid "Normal 400 Italic"
+msgstr ""
+
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:220
+msgid "Medium 500"
+msgstr ""
+
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:221
+msgid "Medium 500 Italic"
+msgstr ""
+
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:222
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:223
+msgid "Semi-Bold 600"
+msgstr ""
+
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:224
+msgid "Semi-Bold 600 Italic"
+msgstr ""
+
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:225
+msgid "Bold 700"
+msgstr ""
+
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:226
+msgid "Bold 700 Italic"
+msgstr ""
+
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:227
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:228
+msgid "Extra-Bold 800"
+msgstr ""
+
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:229
+msgid "Extra-Bold 800 Italic"
+msgstr ""
+
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:230
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:231
+msgid "Ultra-Bold 900"
+msgstr ""
+
+#: framework/admin/kirki/modules/webfonts/class-kirki-fonts.php:232
+msgid "Ultra-Bold 900 Italic"
+msgstr ""
+
+#: framework/admin/kirki/upgrade-notifications.php:30
+msgid "Important Upgrade Notice:"
+msgstr ""
+
+#: framework/admin/modules/fury-upsell/class-customize.php:86
+msgid "Fury Pro"
+msgstr ""
+
+#: framework/admin/modules/fury-upsell/class-customize.php:88
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: framework/admin/modules/fury-upsell/class-customize.php:103
+msgid "Slide #3"
+msgstr ""
+
+#: framework/admin/modules/fury-upsell/class-customize.php:104
+msgid "Slide #4"
+msgstr ""
+
+#: framework/admin/modules/fury-upsell/class-customize.php:105
+msgid "Slide #5"
+msgstr ""
+
+#: framework/admin/modules/fury-upsell/class-customize.php:106
+msgid "Slide #6"
+msgstr ""
+
+#: framework/admin/modules/fury-upsell/class-customize.php:107
+msgid "Slide #7"
+msgstr ""
+
+#: framework/admin/modules/fury-upsell/class-customize.php:108
+msgid "Slide #8"
+msgstr ""
+
+#: framework/admin/modules/fury-upsell/class-customize.php:109
+msgid "Slide #9"
+msgstr ""
+
+#: framework/admin/modules/fury-upsell/class-customize.php:110
+msgid "Slide #10"
+msgstr ""
+
+#: framework/admin/modules/fury-upsell/class-customize.php:113
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: framework/classes/class-fury-breadcrumb.php:222
+msgid "Browse:"
+msgstr ""
+
+#: framework/classes/class-fury-breadcrumb.php:223
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: framework/classes/class-fury-breadcrumb.php:224
+#: framework/fury-actions.php:456
+msgid "Home"
+msgstr ""
+
+#: framework/classes/class-fury-breadcrumb.php:226
+msgid "Archives"
+msgstr ""
+
+#: framework/classes/class-fury-breadcrumb.php:228
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: framework/classes/class-fury-breadcrumb.php:230
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: framework/classes/class-fury-breadcrumb.php:232
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: framework/classes/class-fury-breadcrumb.php:234
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: framework/classes/class-fury-breadcrumb.php:236
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: framework/classes/class-fury-breadcrumb.php:591
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: framework/classes/class-fury-breadcrumb.php:605
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: framework/classes/class-fury-breadcrumb.php:619
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: framework/classes/class-fury-breadcrumb.php:632
+#: framework/classes/class-fury-breadcrumb.php:655
+#: framework/classes/class-fury-breadcrumb.php:676
+#: framework/classes/class-fury-breadcrumb.php:697
+#: framework/classes/class-fury-breadcrumb.php:961
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: framework/classes/class-fury-breadcrumb.php:633
+#: framework/classes/class-fury-breadcrumb.php:677
+#: framework/classes/class-fury-breadcrumb.php:964
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: framework/classes/class-fury-breadcrumb.php:634
+#: framework/classes/class-fury-breadcrumb.php:967
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: framework/classes/class-fury-breadcrumb.php:656
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: framework/classes/class-fury-core.php:120
+msgid "Primary Menu"
+msgstr ""
+
+#: framework/classes/class-fury-core.php:121
+msgid "Mobile Menu"
+msgstr ""
+
+#: framework/classes/class-fury-core.php:127
+msgid "Off-Canvas Menu"
+msgstr ""
+
+#: framework/classes/class-fury-helper.php:42
+msgid "Tag"
+msgstr ""
+
+#: framework/classes/class-fury-helper.php:58
+msgid "no comments"
+msgstr ""
+
+#: framework/classes/class-fury-helper.php:62
+msgid "comment"
+msgstr ""
+
+#: framework/classes/class-fury-helper.php:64
+msgid "comments"
+msgstr ""
+
+#: framework/classes/class-fury-widgets.php:30
+msgid "Main Sidebar"
+msgstr ""
+
+#: framework/classes/class-fury-widgets.php:32
+msgid "Appears on posts & pages."
+msgstr ""
+
+#: framework/classes/class-fury-widgets.php:40
+msgid "Shop Sidebar"
+msgstr ""
+
+#: framework/classes/class-fury-widgets.php:42
+msgid "Appears on WooCommerce pages."
+msgstr ""
+
+#: framework/classes/class-fury-widgets.php:50
+msgid "Footer Widget 1"
+msgstr ""
+
+#: framework/classes/class-fury-widgets.php:52
+#: framework/classes/class-fury-widgets.php:61
+#: framework/classes/class-fury-widgets.php:70
+#: framework/classes/class-fury-widgets.php:79
+#: framework/classes/class-fury-widgets.php:88
+#: framework/classes/class-fury-widgets.php:97
+msgid "Appears on footer area."
+msgstr ""
+
+#: framework/classes/class-fury-widgets.php:59
+msgid "Footer Widget 2"
+msgstr ""
+
+#: framework/classes/class-fury-widgets.php:68
+msgid "Footer Widget 3"
+msgstr ""
+
+#: framework/classes/class-fury-widgets.php:77
+msgid "Footer Widget 4"
+msgstr ""
+
+#: framework/classes/class-fury-widgets.php:86
+msgid "Footer Widget 5"
+msgstr ""
+
+#: framework/classes/class-fury-widgets.php:95
+msgid "Footer Widget 6"
+msgstr ""
+
+#: framework/classes/class-fury-woocommerce.php:255
+#, php-format
+msgid "%d"
+msgid_plural "%d"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: framework/fury-actions.php:154
+msgid "No Product Categories Found"
+msgstr ""
+
+#: framework/fury-actions.php:189 woocommerce/cart/cart.php:56
+msgid "Remove this item"
+msgstr ""
+
+#: framework/fury-actions.php:215 woocommerce/cart/cart-totals.php:92
+#: woocommerce/cart/cart-totals.php:93 woocommerce/cart/cart.php:34
+#: woocommerce/cart/cart.php:112 woocommerce/checkout/review-order.php:27
+#: woocommerce/checkout/review-order.php:106
+#: woocommerce/myaccount/my-orders.php:16
+#: woocommerce/order/order-details.php:49
+msgid "Total"
+msgstr ""
+
+#: framework/fury-actions.php:224 header.php:173
+msgid "View Cart"
+msgstr ""
+
+#: framework/fury-actions.php:228
+msgid "Checkout"
+msgstr ""
+
+#: framework/fury-actions.php:233
+msgid "Cart is empty !"
+msgstr ""
+
+#: framework/fury-actions.php:404
+msgid "Share"
+msgstr ""
+
+#: framework/fury-actions.php:452
+msgid "Prev"
+msgstr ""
+
+#: framework/fury-actions.php:461 framework/fury-actions.php:605
+#: woocommerce/myaccount/orders.php:111
+msgid "Next"
+msgstr ""
+
+#: framework/fury-actions.php:580
+msgid "Page"
+msgstr ""
+
+#: framework/fury-functions.php:246
+msgid "Info"
+msgstr ""
+
+#: framework/fury-functions.php:247
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. translators: 1: date, 2: time
+#: framework/fury-functions.php:261
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: framework/fury-functions.php:271
+msgid "Reply"
+msgstr ""
+
+#: framework/fury-functions.php:277 woocommerce/myaccount/my-address.php:53
+msgid "Edit"
+msgstr ""
+
+#: framework/fury-functions.php:303
+msgid "Leave a"
+msgstr ""
+
+#: framework/fury-functions.php:303 framework/fury-functions.php:307
+msgid "Comment"
+msgstr ""
+
+#: framework/fury-functions.php:310
+msgid "Write your comment here..."
+msgstr ""
+
+#: framework/fury-functions.php:315
+msgid "Post Comment"
+msgstr ""
+
+#: framework/fury-functions.php:322
+msgid "You may use these"
+msgstr ""
+
+#: framework/fury-functions.php:323
+msgid "HyperText Markup Language"
+msgstr ""
+
+#: framework/fury-functions.php:324
+msgid "tags and attributes"
+msgstr ""
+
+#: framework/fury-functions.php:349 framework/fury-functions.php:352
+#: woocommerce/single-product-reviews.php:75
+msgid "Name"
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: framework/library/tgm/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: framework/library/tgm/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: framework/library/tgm/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: plugin name(s).
+#: framework/library/tgm/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: plugin name(s).
+#: framework/library/tgm/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: plugin name(s).
+#: framework/library/tgm/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: plugin name(s).
+#: framework/library/tgm/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: plugin name(s).
+#: framework/library/tgm/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:386
+#: framework/library/tgm/class-tgm-plugin-activation.php:827
+#: framework/library/tgm/class-tgm-plugin-activation.php:2533
+#: framework/library/tgm/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:387
+#: framework/library/tgm/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:388
+#: framework/library/tgm/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: plugin name.
+#: framework/library/tgm/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: framework/library/tgm/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: framework/library/tgm/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:934
+#: framework/library/tgm/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:1121
+#: framework/library/tgm/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: framework/library/tgm/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: framework/library/tgm/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: framework/library/tgm/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: number of plugins.
+#: framework/library/tgm/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: number of plugins.
+#: framework/library/tgm/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: number of plugins.
+#: framework/library/tgm/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:2554
+#: woocommerce/myaccount/my-orders.php:15
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: framework/library/tgm/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: framework/library/tgm/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: framework/library/tgm/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: framework/library/tgm/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: framework/library/tgm/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: framework/library/tgm/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: framework/library/tgm/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:3509
+#: framework/library/tgm/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:3509
+#: framework/library/tgm/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: framework/library/tgm/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: framework/library/tgm/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/library/tgm/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: framework/library/tgm/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: header.php:27
+msgid "Guest"
+msgstr ""
+
+#: header.php:28
+msgid "Welcome Guest"
+msgstr ""
+
+#: header.php:29
+msgid "Logout"
+msgstr ""
+
+#: header.php:29 woocommerce/myaccount/form-login.php:38
+#: woocommerce/myaccount/form-login.php:69
+msgid "Login"
+msgstr ""
+
+#: header.php:49
+msgid "Shop Categories"
+msgstr ""
+
+#: header.php:51
+msgid "Side Navigation"
+msgstr ""
+
+#: header.php:112
+msgid "Type to search..."
+msgstr ""
+
+#: header.php:113 woocommerce/single-product/add-to-cart/variable.php:47
+msgid "Clear"
+msgstr ""
+
+#: header.php:155 woocommerce/checkout/thankyou.php:86
+msgid "My Account"
+msgstr ""
+
+#: search.php:23
+msgid "Blog post"
+msgstr ""
+
+#: search.php:47 searchform.php:13
+msgid "Search"
+msgstr ""
+
+#: search.php:52
+msgid "Not Found"
+msgstr ""
+
+#: search.php:53
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: searchform.php:13 woocommerce/product-searchform.php:31
+msgctxt "Search for"
+msgid "Search for:"
+msgstr ""
+
+#: templates/page/content-page.php:40 templates/post/content-single.php:22
+msgid "By"
+msgstr ""
+
+#: templates/page/content-page.php:46 templates/post/content-single.php:28
+msgid "In"
+msgstr ""
+
+#: templates/page/content-page.php:79 templates/post/content-single.php:59
+msgid "Pages:"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:28
+msgid "Cart totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:33 woocommerce/cart/cart-totals.php:34
+#: woocommerce/checkout/review-order.php:59
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:55 woocommerce/cart/cart-totals.php:56
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:71
+#, php-format
+msgid "(estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:63
+#: woocommerce/checkout/review-order.php:26
+#: woocommerce/order/order-details.php:48
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:91
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:33 woocommerce/cart/cart.php:97
+#: woocommerce/global/quantity-input.php:31
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:54
+msgid "Remove item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:87
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:131
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:131 woocommerce/checkout/form-coupon.php:30
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:131 woocommerce/checkout/form-coupon.php:34
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:137
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/cart/proceed-to-checkout-button.php:27
+msgid "Proceed to checkout"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:30
+msgid "Calculate shipping"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:36
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:54
+#: woocommerce/cart/shipping-calculator.php:57
+#: woocommerce/cart/shipping-calculator.php:67
+msgid "State / County"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:58
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:77
+msgid "City"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:85
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:90
+#: woocommerce/checkout/payment.php:41
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:29
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:33
+msgid "Billing details"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:63
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:29
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:51
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:24
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:24
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:29
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:65
+#: woocommerce/single-product/tabs/additional-information.php:25
+msgid "Additional information"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:33
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:33
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:40
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:30
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:33
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:35
+msgid "My account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:41 woocommerce/checkout/thankyou.php:82
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:46
+msgid "Order number:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:51
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:57
+msgid "Email:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:63
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:69
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:85
+msgid "Go Back Shopping"
+msgstr ""
+
+#. translators: %s: Quantity.
+#: woocommerce/global/quantity-input.php:28
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:40
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:28
+msgid "Sale!"
+msgstr ""
+
+#. translators: 1: user display name 2: logout url
+#: woocommerce/myaccount/dashboard.php:28
+msgid "Hello"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:28
+msgid "not"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:28
+msgid "Log out"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:32
+msgid "From your account dashboard you can view your"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:32
+msgid "recent orders"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:32
+msgid "manage your"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:32
+msgid "shipping and billing addresses"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:32
+msgid "and"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:32
+msgid "edit your password and account details"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:24
+msgid "Account Details"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:36
+msgid "First name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:43
+msgid "Last name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:50
+msgid "Display name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:51
+msgid ""
+"This will be how your name will be displayed in the account section and in "
+"reviews"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:57
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:67
+msgid "Password change"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:74
+msgid "Current password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:80
+msgid "New password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:86
+msgid "Confirm new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:98
+msgid "Save changes"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:20
+#: woocommerce/myaccount/my-address.php:27
+#: woocommerce/myaccount/my-address.php:32
+msgid "Billing address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:20
+#: woocommerce/myaccount/my-address.php:28
+msgid "Shipping address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:62
+msgid "Save address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:41
+#: woocommerce/myaccount/form-login.php:100
+msgid "Email or username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:48
+#: woocommerce/myaccount/form-login.php:109
+msgid "Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:59
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:63
+#: woocommerce/myaccount/form-lost-password.php:24
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:84
+#: woocommerce/myaccount/form-login.php:121
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:93
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:27
+msgid "Please enter your username or email address.fury"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:28
+msgid "You will receive a link to create a new password via email."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:34
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:45
+msgid "Reset password"
+msgstr ""
+
+#: woocommerce/myaccount/my-account.php:45
+msgid "Joined"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:41
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:57
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:13
+msgid "Order"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:14
+msgid "Date"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:30
+msgid "Recent orders"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:55 woocommerce/myaccount/orders.php:51
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#. translators: 1: formatted order total 2: total order items
+#: woocommerce/myaccount/my-orders.php:67 woocommerce/myaccount/orders.php:81
+#, php-format
+msgid "%1$s for %2$s item"
+msgid_plural "%1$s for %2$s items"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: woocommerce/myaccount/orders.php:107
+msgid "Previous"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:119
+msgid "Go shop"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:121
+msgid "No order has been made yet."
+msgstr ""
+
+#: woocommerce/order/order-details.php:42
+msgid "Order details"
+msgstr ""
+
+#: woocommerce/order/order-details.php:87
+msgid "Note:"
+msgstr ""
+
+#: woocommerce/order/order-downloads.php:25
+msgid "Downloads"
+msgstr ""
+
+#: woocommerce/order/order-downloads.php:57
+msgid "&infin;"
+msgstr ""
+
+#: woocommerce/order/order-downloads.php:63
+msgid "Never"
+msgstr ""
+
+#: woocommerce/product-searchform.php:31
+msgid "Search Product"
+msgstr ""
+
+#. translators: 1: reviews count 2: product name
+#: woocommerce/single-product-reviews.php:34
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: woocommerce/single-product-reviews.php:36
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:56
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:69
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:69
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:70
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:80
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:86
+msgid "You must be"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:86
+msgid "logged in"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:86
+msgid "to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:90
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:91
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:92
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:93
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:94
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:95
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:96
+msgid "Very poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:100
+msgid "Your review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:109
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:30
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variation.php:25
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+
+#: woocommerce/single-product/product-attributes.php:28
+msgid "Weight"
+msgstr ""
+
+#: woocommerce/single-product/product-attributes.php:35
+msgid "Dimensions"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:114
+msgid "Awaiting product image"
+msgstr ""
+
+#: woocommerce/single-product/related.php:27
+msgid "Related products"
+msgstr ""
+
+#: woocommerce/single-product/sale-flash.php:28
+msgid "On Sale!"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:25
+msgid "Description"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Fury"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://theme-vision.com/fury-wordpress-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Fury is Multi-Purpose, responsive WordPress theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Theme Vision"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://theme-vision.com/"
+msgstr ""

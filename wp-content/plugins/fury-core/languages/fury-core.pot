@@ -1,0 +1,270 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Fury Core\n"
+"POT-Creation-Date: 2018-04-25 19:18+0200\n"
+"PO-Revision-Date: 2018-04-23 23:01+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: fury-core.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-fury-menu.php:32
+msgid "Fury Theme Panel"
+msgstr ""
+
+#: includes/class-fury-menu.php:33
+msgid "Fury Theme"
+msgstr ""
+
+#: includes/class-fury-menu.php:53 includes/class-fury-menu.php:54
+msgid "Extensions"
+msgstr ""
+
+#: includes/class-fury-menu.php:72
+msgid "Fury Core Theme Panel"
+msgstr ""
+
+#: includes/class-fury-menu.php:75
+msgid ""
+"Fury Core plugin extends Fury WordPress theme with page/post options "
+"metabox. You can change logo for every page or post, disable sidebar, "
+"disable social share icons or enable Fury slider and even more..."
+msgstr ""
+
+#: includes/class-fury-menu.php:82
+msgid "What's New"
+msgstr ""
+
+#: includes/class-fury-menu.php:86
+msgid "Maintenance and Security Releases"
+msgstr ""
+
+#: includes/class-fury-menu.php:87
+msgid "Version"
+msgstr ""
+
+#: includes/class-fury-menu.php:87
+msgid "initial relase"
+msgstr ""
+
+#: includes/class-fury-menu.php:92
+msgid "Fury Core Features"
+msgstr ""
+
+#: includes/class-fury-menu.php:107
+#: includes/metabox/class-fury-metabox.php:58
+msgid "Fury Slider"
+msgstr ""
+
+#: includes/metabox/butterbean/inc/controls/class-control-datetime.php:79
+msgid "Year"
+msgstr ""
+
+#: includes/metabox/butterbean/inc/controls/class-control-datetime.php:88
+msgid "Month"
+msgstr ""
+
+#: includes/metabox/butterbean/inc/controls/class-control-datetime.php:112
+msgid "Day"
+msgstr ""
+
+#: includes/metabox/butterbean/inc/controls/class-control-datetime.php:120
+msgid "Hour"
+msgstr ""
+
+#: includes/metabox/butterbean/inc/controls/class-control-datetime.php:128
+msgid "Minute"
+msgstr ""
+
+#: includes/metabox/butterbean/inc/controls/class-control-datetime.php:136
+msgid "Second"
+msgstr ""
+
+#: includes/metabox/butterbean/inc/controls/class-control-image.php:66
+msgid "Add image"
+msgstr ""
+
+#: includes/metabox/butterbean/inc/controls/class-control-image.php:67
+msgid "Set as image"
+msgstr ""
+
+#: includes/metabox/butterbean/inc/controls/class-control-image.php:68
+msgid "Choose image"
+msgstr ""
+
+#: includes/metabox/butterbean/inc/controls/class-control-image.php:69
+msgid "Change image"
+msgstr ""
+
+#: includes/metabox/butterbean/inc/controls/class-control-image.php:70
+msgid "Remove image"
+msgstr ""
+
+#: includes/metabox/butterbean/inc/controls/class-control-image.php:71
+msgid "No image selected"
+msgstr ""
+
+#: includes/metabox/butterbean/tmpl/control-datetime.php:46
+#, php-format
+msgid "%1$s %2$s, %3$s @ %4$s:%5$s:%6$s"
+msgstr ""
+
+#: includes/metabox/butterbean/tmpl/control-datetime.php:52
+#, php-format
+msgid "%1$s %2$s, %3$s"
+msgstr ""
+
+#: includes/metabox/class-fury-metabox.php:57
+msgid "Select Slider"
+msgstr ""
+
+#: includes/metabox/class-fury-metabox.php:63
+msgid "Layer Slider"
+msgstr ""
+
+#: includes/metabox/class-fury-metabox.php:69
+msgid "Revolution Slider"
+msgstr ""
+
+#: includes/metabox/class-fury-metabox.php:85
+#: includes/metabox/class-fury-metabox.php:109
+#: includes/metabox/class-fury-metabox.php:121
+msgid "Select Category"
+msgstr ""
+
+#: includes/metabox/class-fury-metabox.php:139
+msgid "Fury Theme Options"
+msgstr ""
+
+#: includes/metabox/class-fury-metabox.php:154
+msgid "General"
+msgstr ""
+
+#: includes/metabox/class-fury-metabox.php:163
+#, php-format
+msgid "%s Title"
+msgstr ""
+
+#: includes/metabox/class-fury-metabox.php:164
+#, php-format
+msgid "Enable or disable %s title."
+msgstr ""
+
+#: includes/metabox/class-fury-metabox.php:166
+#: includes/metabox/class-fury-metabox.php:186
+#: includes/metabox/class-fury-metabox.php:206
+msgid "Default"
+msgstr ""
+
+#: includes/metabox/class-fury-metabox.php:167
+#: includes/metabox/class-fury-metabox.php:187
+#: includes/metabox/class-fury-metabox.php:260
+msgid "Enable"
+msgstr ""
+
+#: includes/metabox/class-fury-metabox.php:168
+#: includes/metabox/class-fury-metabox.php:188
+msgid "Disable"
+msgstr ""
+
+#: includes/metabox/class-fury-metabox.php:183
+msgid "Social Share"
+msgstr ""
+
+#: includes/metabox/class-fury-metabox.php:184
+#, php-format
+msgid "Enable social share icons for this %s."
+msgstr ""
+
+#: includes/metabox/class-fury-metabox.php:203
+msgid "Sidebar"
+msgstr ""
+
+#: includes/metabox/class-fury-metabox.php:204
+msgid "Select sidebar posititon."
+msgstr ""
+
+#: includes/metabox/class-fury-metabox.php:207
+msgid "Right Sidebar"
+msgstr ""
+
+#: includes/metabox/class-fury-metabox.php:208
+msgid "Left Sidebar"
+msgstr ""
+
+#: includes/metabox/class-fury-metabox.php:209
+msgid "No Sidebar"
+msgstr ""
+
+#: includes/metabox/class-fury-metabox.php:225
+msgid "Header"
+msgstr ""
+
+#: includes/metabox/class-fury-metabox.php:234
+msgid "Logo"
+msgstr ""
+
+#: includes/metabox/class-fury-metabox.php:235
+#, php-format
+msgid "Select custom logo for this %s."
+msgstr ""
+
+#: includes/metabox/class-fury-metabox.php:251
+msgid "Slider"
+msgstr ""
+
+#: includes/metabox/class-fury-metabox.php:261
+#, php-format
+msgid "Enable slider on this %s."
+msgstr ""
+
+#: includes/metabox/class-fury-metabox.php:275
+msgid "Slider Type"
+msgstr ""
+
+#: includes/metabox/class-fury-metabox.php:276
+msgid "Select slider type."
+msgstr ""
+
+#: includes/metabox/class-fury-metabox.php:291
+#: includes/metabox/class-fury-metabox.php:309
+#: includes/metabox/class-fury-metabox.php:328
+msgid "Slider Category"
+msgstr ""
+
+#: includes/metabox/class-fury-metabox.php:292
+#: includes/metabox/class-fury-metabox.php:310
+#: includes/metabox/class-fury-metabox.php:329
+msgid "Select slider category."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Fury Core"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Fury Core add extra features to Fury WordPress theme, like theme "
+"metaboxes, import/export and more."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ThemeVision"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://theme-vision.com/"
+msgstr ""

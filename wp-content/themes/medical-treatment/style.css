@@ -1,0 +1,177 @@
+/*
+Theme Name:    Medical Treatment
+ Description:  A  theme which is ideal for creating a Health / Doctor / Clinic / Medical Business related website. Theme has couple of extra templates makes it even more powerful.
+ Author:       webriti
+ Author URI:   https://www.webriti.com
+ Theme URI:    https://webriti.com/medical-treatment-child-version-details-page/
+ Template:     health-center-lite
+ Version:      1.4
+ Tags: 		   three-columns , right-sidebar , custom-menu , featured-images , full-width-template , threaded-comments , translation-ready, footer-widgets, blog, full-width-template, sticky-post, custom-background, custom-menu
+ Text Domain:  medical-treatment
+*/
+.slide-caption {	
+	float: left;
+    height: auto;
+    left: 5%;
+    margin: 0;
+    padding: 15px;
+    position: absolute;
+    right: 0;
+    top: 50%;
+	-webkit-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	transform: translateY(-50%);
+    width: 50%;
+    z-index: 0;	
+}
+.slide-text-bg1 {
+	z-index: 773;
+	width: 95%;
+	text-align: left;
+	position: relative;
+	margin: 0 0 20px;
+	padding: 0;
+	float: left;
+}
+.slide-text-bg1 h1 {
+	font-family: 'Roboto';
+	font-weight:400;
+	border-radius: 1px;
+	padding: 6px 12px;
+	display: inline-block;
+	letter-spacing: 0;
+	line-height: 35px;
+	margin: 0 0 0px; 
+}
+.slide-text-bg2 {
+    float: left;
+	text-align: left;
+    margin: 0 0 20px;
+    padding: 0;
+    position: relative;
+    width: 95%;
+    z-index: 773; 
+}
+.slide-text-bg2 span {
+	font-family: 'Roboto';
+	font-weight:400;
+	font-size: 18px;
+	font-weight: normal;
+	display: inline-block;
+	border-radius: 1px;
+	line-height: 27px;
+	padding: 5px 13px;
+	margin: 0 0 0px; 
+}
+.slide-btn-area-sm { margin: 0px 0 0px; float: left; width: 80%; }
+.slide-btn-sm {
+	border-radius: 1px;
+    cursor: pointer;
+    display: inline-block;
+    font-family: 'Open Sans';
+	font-weight:600;
+	transition: all 0.3s ease-in-out 0s;
+    font-size: 13px;
+    letter-spacing: 0.5px;
+    line-height: 20px;
+    padding: 10px 25px;
+	margin: 0;
+    text-align: center;
+    text-transform: uppercase;
+    vertical-align: middle;
+}
+
+.slide-text-bg1 h1 {
+	background-color: rgba(59, 61, 66, 0.6);
+    color: #ffffff;
+    text-shadow: 0 0 1px rgba(155, 155, 155, 0.7);
+}
+.slide-text-bg2 span {
+	background: rgba(255, 255, 244, 0.7) none repeat scroll 0 0;
+    color: #444444;
+}
+.slide-btn-area-sm { margin: 0px 0 0px; float: left; width: 80%; }
+.slide-btn-sm {
+	color: #ffffff;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+}
+.slide-btn-sm:hover, .slide-btn-sm a:focus { color: #ffffff !important; }
+
+.slide-btn-sm {
+    background-color: #dc143c;
+    color: #ffffff;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+}
+.home_post {margin-bottom:54px;}
+
+
+@media only screen and (min-width: 960px) and (max-width: 1200px) {
+
+/* Flexslider css for responsivness */
+.slide_thumb {	
+	border-radius: 0 0 10px 10px;
+	width: 970px !important;
+	height: 85px;
+    margin: 0 auto !important;
+    overflow: hidden;	
+	}
+.slide_thumb > li {
+	cursor: pointer;
+	padding: 22px 22px 0px;    
+    float: left;
+    height: 85px;
+    width: 234px !important;
+	}
+	.slide_thumb > li:last-child {
+	border: 0px !important;
+	}
+	.slide_thumb > li h5 {
+    font-size: 13px;
+    margin: 0 0 5px;
+	}
+.slide_thumb > li p {
+	font-size: 12px;
+    line-height: 21px;
+    margin: 0 0 25px;
+	} 
+/* Slider Caption */
+.slide-text-bg1, .slide-text-bg2 { margin: 0 0 15px; }
+.slide-text-bg1 h1 { font-size: 24px; line-height: 30px; padding: 3px 10px; }
+.slide-text-bg2 span { font-size: 14px; line-height: 22px; padding: 3px 10px; }
+.slide-btn-sm { font-size: 11px; padding: 7px 18px; }
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+
+/* Slider Caption */
+.slide-caption { width: 60%; }
+.slide-text-bg1, .slide-text-bg2 { margin: 0 0 12px; }
+.slide-text-bg1 h1 { font-size: 20px; line-height: 25px; padding: 3px 10px; }
+.slide-text-bg2 span { font-size: 12px; line-height: 20px; padding: 3px 10px; }
+.slide-btn-sm { font-size: 10px; padding: 5px 15px; }	
+}	
+
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+/* Slider Caption */
+.slide-caption { width: 60%; left: 10%; }
+.slide-text-bg1, .slide-text-bg2 { margin: 0 0 10px; }
+.slide-text-bg1 h1 { font-size: 18px; line-height: 22px; padding: 3px 10px; }
+.slide-text-bg2 span { font-size: 11px; line-height: 20px; padding: 3px 10px; }
+.slide-btn-sm { font-size: 9px; padding: 4px 14px; }	
+} 
+
+
+@media only screen and (min-width: 200px) and (max-width: 480px) {
+
+/* Flexslider css for responsivness */
+
+/* Slider Caption */
+.slide-caption { width: 75%; left: 10% }
+.slide-text-bg1, .slide-text-bg2 { margin: 0 0 4px; }
+.slide-text-bg1 h1 { font-size: 12px; line-height: 15px; padding: 2px 5px; }
+.slide-text-bg2 span { font-size: 9px; line-height: 13px; padding: 2px 5px; }
+.slide-btn-sm { font-size: 7px; padding: 0px 9px; }
+}

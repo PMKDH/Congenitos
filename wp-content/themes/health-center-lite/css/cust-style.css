@@ -1,0 +1,63 @@
+/* Customizer css */
+.demo
+ {
+  background-color: #31A3DD;
+  border-color: #31A3DD;
+ }
+ .upgrade {
+  background-color: #1d4467;
+  border-color: #1d4467;
+}
+.review {
+  background-color: #82b541;
+  border-color: #1ec846;
+}
+.document{
+  background-color: #ee591f;
+  border-color: #ef9c28;
+}
+ 
+.demo, .upgrade, .review, .document, .service  {
+  color: #fff !important;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 0px;
+  padding: 13px 30px 14px 29px;
+  text-transform: uppercase;
+  width: 54%;
+  border-radius:2px;
+ }  
+ 
+.pro-box
+{display:block;text-align:center; margin-bottom: 0px;}
+.pro-vesrion 
+{text-align:center; margin-top:15px;}
+
+.pro-vesrion p{line-height:20px;}
+
+li#accordion-section-health_pro_section h3.accordion-section-title { background-color: #31A3DD; color:#fff;}
+
+.course{
+  background-color: #0d6db8;
+  border-color: #ef9c28;
+  color: #fff !important;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 0px;
+  padding: 13px 30px 14px 29px;
+  text-transform: uppercase;
+  width: 54%;
+  border-radius:2px;
+  text-decoration:none;
+}
+
+.pro-box
+{display:block;text-align:center; margin-bottom: 0px;}
+.pro-vesrion 
+{text-align:center; margin-top:15px;}
+
+#accordion-section-health_center_email_course_section h3{ font-size: 14px;font-weight: 700;}

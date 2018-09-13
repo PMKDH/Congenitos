@@ -1,0 +1,8782 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Registration Forms\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-11 17:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <erformswp@gmail.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: includes/class-do-actions.php:142
+msgid "You not not allowed to edit this submission"
+msgstr ""
+
+#: includes/class-do-actions.php:165 includes/class-do-actions.php:171
+#: includes/class-do-actions.php:178
+msgid "Operation not allowed"
+msgstr ""
+
+#: includes/class-emails.php:39 includes/class-emails.php:346
+#: includes/functions.php:447 includes/functions.php:1050
+#: includes/functions.php:1416
+msgid "Unique Submission ID"
+msgstr ""
+
+#: includes/class-emails.php:49 includes/class-emails.php:52
+#: includes/class-emails.php:356 includes/class-emails.php:359
+msgid "View File"
+msgstr ""
+
+#: includes/class-emails.php:61 includes/functions.php:1054
+#: includes/admin/submission/html/payment-part.php:11
+msgid "Amount"
+msgstr ""
+
+#: includes/class-emails.php:62 includes/functions.php:1056
+#: includes/admin/submission/html/payment-part.php:15
+msgid "Payment Status"
+msgstr ""
+
+#: includes/class-emails.php:63
+#: includes/admin/submission/html/payment-part.php:20
+msgid "Payment Invoice"
+msgstr ""
+
+#: includes/class-emails.php:64
+msgid "Payment Method"
+msgstr ""
+
+#: includes/class-emails.php:253
+#: includes/admin/submission/class-submission.php:106
+#: includes/admin/submission/class-submission.php:133
+msgid "Notification"
+msgstr ""
+
+#: includes/class-emails.php:458
+msgid "Account Verification"
+msgstr ""
+
+#: includes/class-emails.php:518 includes/class-emails.php:567
+msgid "Submission Deleted"
+msgstr ""
+
+#: includes/class-form-widget.php:125
+msgctxt "Widget"
+msgid "Form:"
+msgstr ""
+
+#: includes/class-form-widget.php:137
+msgctxt "Widget"
+msgid "No forms"
+msgstr ""
+
+#: includes/class-form.php:177
+msgid "Error creating form"
+msgstr ""
+
+#: includes/class-form.php:235
+msgid "No data provided"
+msgstr ""
+
+#: includes/class-form.php:243
+msgid "No such Form existsyyy"
+msgstr ""
+
+#: includes/class-form.php:247 includes/class-form.php:421
+#: includes/class-form.php:424 includes/class-frontend.php:237
+msgid "No such Form exists"
+msgstr ""
+
+#: includes/class-form.php:252
+msgid "Invalid form data."
+msgstr ""
+
+#: includes/class-form.php:261
+msgid "An error occurred and the form could not be saved"
+msgstr ""
+
+#: includes/class-frontend.php:195
+msgid "No such form exists in Database."
+msgstr ""
+
+#: includes/class-frontend.php:207
+msgid "No form fields."
+msgstr ""
+
+#: includes/class-frontend.php:296
+msgid "Invalid/Expired Recapctha"
+msgstr ""
+
+#: includes/class-label.php:38
+msgid "Label"
+msgstr ""
+
+#: includes/class-label.php:111 includes/class-label.php:139
+#: includes/class-label.php:192 includes/class-label.php:205
+msgid "Invalid request."
+msgstr ""
+
+#: includes/class-label.php:122 includes/admin/labels/class-label.php:58
+msgid "Label already in use."
+msgstr ""
+
+#: includes/class-label.php:129
+msgid "Label updated."
+msgstr ""
+
+#: includes/class-label.php:148
+msgid "Label deleted"
+msgstr ""
+
+#: includes/class-options.php:99
+msgid "This is the ERForms internal page."
+msgstr ""
+
+#: includes/class-options.php:100
+msgid ""
+"The page is set to private, so it is not publicly accessible. Please do not "
+"delete this page :) ."
+msgstr ""
+
+#: includes/class-options.php:106
+msgid "ERForms Preview"
+msgstr ""
+
+#: includes/class-submission-formatter.php:54
+#: includes/class-submission-formatter.php:91
+msgid ""
+"Unable to fetch file URL. Possible reasons: File might have deleted from "
+"WordPress media section."
+msgstr ""
+
+#: includes/class-submission-formatter.php:118
+#: includes/admin/form/html/report.php:191
+msgid "Deactive"
+msgstr ""
+
+#: includes/class-submission-formatter.php:118 includes/class-user.php:228
+#: includes/admin/form/html/report.php:190
+msgid "Active"
+msgstr ""
+
+#: includes/class-submission.php:502
+msgid "Seems to be an invalid URL."
+msgstr ""
+
+#: includes/class-submission.php:528
+msgid "Submission Edited"
+msgstr ""
+
+#: includes/class-submission.php:913
+#, php-format
+msgid "%s status added."
+msgstr ""
+
+#: includes/class-submission.php:921
+#, php-format
+msgid "%s status removed."
+msgstr ""
+
+#: includes/class-user.php:178
+msgid "ERROR: No such user exists."
+msgstr ""
+
+#: includes/class-user.php:216 includes/functions.php:1060
+msgid "User Status"
+msgstr ""
+
+#: includes/class-user.php:226
+msgid "Inactive"
+msgstr ""
+
+#: includes/class-user.php:240
+msgid "Please wait, While we are setting up your account."
+msgstr ""
+
+#: includes/class-user.php:247
+msgid "Submission edited successfully"
+msgstr ""
+
+#: includes/class-user.php:263
+msgid "ERROR: Your account is not active."
+msgstr ""
+
+#: includes/class-user.php:275
+msgid "Check your email for the confirmation link."
+msgstr ""
+
+#: includes/class-user.php:383
+msgid "The email could not be sent."
+msgstr ""
+
+#: includes/class-user.php:397
+msgid "Username already exists."
+msgstr ""
+
+#: includes/class-user.php:412
+msgid "Invalid Security Token, Please refresh the page and try again"
+msgstr ""
+
+#: includes/class-user.php:419
+msgid "Current Password Required."
+msgstr ""
+
+#: includes/class-user.php:427
+msgid "Current Password Incorrect."
+msgstr ""
+
+#: includes/class-user.php:434
+msgid "New Password Required."
+msgstr ""
+
+#: includes/class-user.php:444
+msgid "Password changed successfully."
+msgstr ""
+
+#: includes/class-user.php:452
+msgid "Missing verification hash"
+msgstr ""
+
+#: includes/class-user.php:459
+msgid "Form not found."
+msgstr ""
+
+#: includes/class-user.php:473
+msgid "No such users exists"
+msgstr ""
+
+#: includes/class-user.php:481 includes/class-user.php:542
+msgid "User account is already activated"
+msgstr ""
+
+#: includes/class-user.php:530
+msgid "Verification link does not match with any User's record."
+msgstr ""
+
+#: includes/class-validator.php:11
+msgid ""
+"Security token seems to be incorrect. Please reload the page and try again"
+msgstr ""
+
+#: includes/class-validator.php:25
+msgid "You are not allowed to edit this submission"
+msgstr ""
+
+#: includes/class-validator.php:124
+msgid "Value already exists in database."
+msgstr ""
+
+#: includes/class-validator.php:242
+msgid "Payment method not selected."
+msgstr ""
+
+#: includes/class-validator.php:247
+msgid "Selected payment method is not available."
+msgstr ""
+
+#: includes/class-wc.php:61 includes/admin/class-admin.php:103
+#: includes/html/my_account.php:10
+#: includes/admin/overview/class-form-cards.php:161
+#: includes/admin/form/html/dashboard-header-menu.php:12
+#: includes/admin/form/html/dashboard.php:33
+msgid "Submissions"
+msgstr ""
+
+#: includes/functions.php:173
+msgid ""
+"Thank you for registering with us. You will soon receive an account "
+"activation email. After that you can log into our website through login page."
+msgstr ""
+
+#: includes/functions.php:273
+msgid "Subscribe for emails"
+msgstr ""
+
+#: includes/functions.php:333 includes/functions.php:344
+msgid "This value seems to be invalid."
+msgstr ""
+
+#: includes/functions.php:335
+msgid "This value should be a valid email."
+msgstr ""
+
+#: includes/functions.php:336
+msgid "This value should be a valid url."
+msgstr ""
+
+#: includes/functions.php:337
+msgid "This value should be a valid number."
+msgstr ""
+
+#: includes/functions.php:338
+msgid "This value should be a valid integer."
+msgstr ""
+
+#: includes/functions.php:339
+msgid "This value should be digits."
+msgstr ""
+
+#: includes/functions.php:340
+msgid "This value should be alphanumeric."
+msgstr ""
+
+#: includes/functions.php:342
+msgid "This value should not be blank."
+msgstr ""
+
+#: includes/functions.php:343
+msgid "This value is required."
+msgstr ""
+
+#: includes/functions.php:345
+#, php-format
+msgid "This value should be greater than or equal to %s."
+msgstr ""
+
+#: includes/functions.php:346
+#, php-format
+msgid "This value should be lower than or equal to %s."
+msgstr ""
+
+#: includes/functions.php:347
+#, php-format
+msgid "This value should be between %s and %s."
+msgstr ""
+
+#: includes/functions.php:348
+#, php-format
+msgid "This value is too short. It should have %s characters or more."
+msgstr ""
+
+#: includes/functions.php:349
+#, php-format
+msgid "This value is too long. It should have %s characters or fewer."
+msgstr ""
+
+#: includes/functions.php:350
+#, php-format
+msgid ""
+"This value length is invalid. It should be between %s and %s characters long."
+msgstr ""
+
+#: includes/functions.php:351
+#, php-format
+msgid "You must select at least %s choices."
+msgstr ""
+
+#: includes/functions.php:352
+#, php-format
+msgid "You must select %s choices or fewer."
+msgstr ""
+
+#: includes/functions.php:353
+#, php-format
+msgid "You must select between %s and %s choices."
+msgstr ""
+
+#: includes/functions.php:354
+msgid "This value should be the same."
+msgstr ""
+
+#: includes/functions.php:355
+msgid "Invalid date value"
+msgstr ""
+
+#: includes/functions.php:356
+msgid "These passwords are not similar to each other. Try again?"
+msgstr ""
+
+#: includes/functions.php:444
+msgid "Submission Date"
+msgstr ""
+
+#: includes/functions.php:464 includes/functions.php:1048
+msgid "Modified Date"
+msgstr ""
+
+#: includes/functions.php:471
+msgid "External Request Information"
+msgstr ""
+
+#: includes/functions.php:475
+#: includes/admin/form/html/configuration-type.php:716
+msgid "URL"
+msgstr ""
+
+#: includes/functions.php:480 includes/functions.php:506
+#: includes/admin/form/html/notifications.php:14
+#: includes/admin/form/html/report.php:186
+#: includes/admin/form/html/reports.php:39
+#: includes/admin/submission/html/payment-part.php:49
+msgid "Status"
+msgstr ""
+
+#: includes/functions.php:481
+msgid "Success"
+msgstr ""
+
+#: includes/functions.php:481
+msgid "Failure"
+msgstr ""
+
+#: includes/functions.php:486
+msgid "Error"
+msgstr ""
+
+#: includes/functions.php:513
+msgid "Deactivated users won't be able to login."
+msgstr ""
+
+#: includes/functions.php:522 includes/html/my_account.php:128
+#: includes/html/wc_my_account.php:77
+msgid "Next"
+msgstr ""
+
+#: includes/functions.php:522
+msgid "Previous"
+msgstr ""
+
+#: includes/functions.php:523
+msgid "Loading Form..."
+msgstr ""
+
+#: includes/functions.php:524
+msgid "Unable to load form data."
+msgstr ""
+
+#: includes/functions.php:525
+msgid "Loading submission data..."
+msgstr ""
+
+#: includes/functions.php:526
+msgid "The password is too short"
+msgstr ""
+
+#: includes/functions.php:527
+msgid "Weak; try combining letters & numbers"
+msgstr ""
+
+#: includes/functions.php:528
+msgid "Medium; try using special charecters"
+msgstr ""
+
+#: includes/functions.php:529
+msgid "Strong password"
+msgstr ""
+
+#: includes/functions.php:530
+msgid "Type your password"
+msgstr ""
+
+#: includes/functions.php:544
+msgid "United Arab Emirates dirham"
+msgstr ""
+
+#: includes/functions.php:545
+msgid "Afghan afghani"
+msgstr ""
+
+#: includes/functions.php:546
+msgid "Albanian lek"
+msgstr ""
+
+#: includes/functions.php:547
+msgid "Armenian dram"
+msgstr ""
+
+#: includes/functions.php:548
+msgid "Netherlands Antillean guilder"
+msgstr ""
+
+#: includes/functions.php:549
+msgid "Angolan kwanza"
+msgstr ""
+
+#: includes/functions.php:550
+msgid "Argentine peso"
+msgstr ""
+
+#: includes/functions.php:551
+msgid "Australian dollar"
+msgstr ""
+
+#: includes/functions.php:552
+msgid "Aruban florin"
+msgstr ""
+
+#: includes/functions.php:553
+msgid "Azerbaijani manat"
+msgstr ""
+
+#: includes/functions.php:554
+msgid "Bosnia and Herzegovina convertible mark"
+msgstr ""
+
+#: includes/functions.php:555
+msgid "Barbadian dollar"
+msgstr ""
+
+#: includes/functions.php:556
+msgid "Bangladeshi taka"
+msgstr ""
+
+#: includes/functions.php:557
+msgid "Bulgarian lev"
+msgstr ""
+
+#: includes/functions.php:558
+msgid "Bahraini dinar"
+msgstr ""
+
+#: includes/functions.php:559
+msgid "Burundian franc"
+msgstr ""
+
+#: includes/functions.php:560
+msgid "Bermudian dollar"
+msgstr ""
+
+#: includes/functions.php:561
+msgid "Brunei dollar"
+msgstr ""
+
+#: includes/functions.php:562
+msgid "Bolivian boliviano"
+msgstr ""
+
+#: includes/functions.php:563
+msgid "Brazilian real"
+msgstr ""
+
+#: includes/functions.php:564
+msgid "Bahamian dollar"
+msgstr ""
+
+#: includes/functions.php:565
+msgid "Bitcoin"
+msgstr ""
+
+#: includes/functions.php:566
+msgid "Bhutanese ngultrum"
+msgstr ""
+
+#: includes/functions.php:567
+msgid "Botswana pula"
+msgstr ""
+
+#: includes/functions.php:568
+msgid "Belarusian ruble (old)"
+msgstr ""
+
+#: includes/functions.php:569
+msgid "Belarusian ruble"
+msgstr ""
+
+#: includes/functions.php:570
+msgid "Belize dollar"
+msgstr ""
+
+#: includes/functions.php:571
+msgid "Canadian dollar"
+msgstr ""
+
+#: includes/functions.php:572
+msgid "Congolese franc"
+msgstr ""
+
+#: includes/functions.php:573
+msgid "Swiss franc"
+msgstr ""
+
+#: includes/functions.php:574
+msgid "Chilean peso"
+msgstr ""
+
+#: includes/functions.php:575
+msgid "Chinese yuan"
+msgstr ""
+
+#: includes/functions.php:576
+msgid "Colombian peso"
+msgstr ""
+
+#: includes/functions.php:577
+msgid "Costa Rican col&oacute;n"
+msgstr ""
+
+#: includes/functions.php:578
+msgid "Cuban convertible peso"
+msgstr ""
+
+#: includes/functions.php:579
+msgid "Cuban peso"
+msgstr ""
+
+#: includes/functions.php:580
+msgid "Cape Verdean escudo"
+msgstr ""
+
+#: includes/functions.php:581
+msgid "Czech koruna"
+msgstr ""
+
+#: includes/functions.php:582
+msgid "Djiboutian franc"
+msgstr ""
+
+#: includes/functions.php:583
+msgid "Danish krone"
+msgstr ""
+
+#: includes/functions.php:584
+msgid "Dominican peso"
+msgstr ""
+
+#: includes/functions.php:585
+msgid "Algerian dinar"
+msgstr ""
+
+#: includes/functions.php:586
+msgid "Egyptian pound"
+msgstr ""
+
+#: includes/functions.php:587
+msgid "Eritrean nakfa"
+msgstr ""
+
+#: includes/functions.php:588
+msgid "Ethiopian birr"
+msgstr ""
+
+#: includes/functions.php:589
+msgid "Euro"
+msgstr ""
+
+#: includes/functions.php:590
+msgid "Fijian dollar"
+msgstr ""
+
+#: includes/functions.php:591
+msgid "Falkland Islands pound"
+msgstr ""
+
+#: includes/functions.php:592
+msgid "Pound sterling"
+msgstr ""
+
+#: includes/functions.php:593
+msgid "Georgian lari"
+msgstr ""
+
+#: includes/functions.php:594
+msgid "Guernsey pound"
+msgstr ""
+
+#: includes/functions.php:595
+msgid "Ghana cedi"
+msgstr ""
+
+#: includes/functions.php:596
+msgid "Gibraltar pound"
+msgstr ""
+
+#: includes/functions.php:597
+msgid "Gambian dalasi"
+msgstr ""
+
+#: includes/functions.php:598
+msgid "Guinean franc"
+msgstr ""
+
+#: includes/functions.php:599
+msgid "Guatemalan quetzal"
+msgstr ""
+
+#: includes/functions.php:600
+msgid "Guyanese dollar"
+msgstr ""
+
+#: includes/functions.php:601
+msgid "Hong Kong dollar"
+msgstr ""
+
+#: includes/functions.php:602
+msgid "Honduran lempira"
+msgstr ""
+
+#: includes/functions.php:603
+msgid "Croatian kuna"
+msgstr ""
+
+#: includes/functions.php:604
+msgid "Haitian gourde"
+msgstr ""
+
+#: includes/functions.php:605
+msgid "Hungarian forint"
+msgstr ""
+
+#: includes/functions.php:606
+msgid "Indonesian rupiah"
+msgstr ""
+
+#: includes/functions.php:607
+msgid "Israeli new shekel"
+msgstr ""
+
+#: includes/functions.php:608
+msgid "Manx pound"
+msgstr ""
+
+#: includes/functions.php:609
+msgid "Indian rupee"
+msgstr ""
+
+#: includes/functions.php:610
+msgid "Iraqi dinar"
+msgstr ""
+
+#: includes/functions.php:611
+msgid "Iranian rial"
+msgstr ""
+
+#: includes/functions.php:612
+msgid "Iranian toman"
+msgstr ""
+
+#: includes/functions.php:613
+msgid "Icelandic kr&oacute;na"
+msgstr ""
+
+#: includes/functions.php:614
+msgid "Jersey pound"
+msgstr ""
+
+#: includes/functions.php:615
+msgid "Jamaican dollar"
+msgstr ""
+
+#: includes/functions.php:616
+msgid "Jordanian dinar"
+msgstr ""
+
+#: includes/functions.php:617
+msgid "Japanese yen"
+msgstr ""
+
+#: includes/functions.php:618
+msgid "Kenyan shilling"
+msgstr ""
+
+#: includes/functions.php:619
+msgid "Kyrgyzstani som"
+msgstr ""
+
+#: includes/functions.php:620
+msgid "Cambodian riel"
+msgstr ""
+
+#: includes/functions.php:621
+msgid "Comorian franc"
+msgstr ""
+
+#: includes/functions.php:622
+msgid "North Korean won"
+msgstr ""
+
+#: includes/functions.php:623
+msgid "South Korean won"
+msgstr ""
+
+#: includes/functions.php:624
+msgid "Kuwaiti dinar"
+msgstr ""
+
+#: includes/functions.php:625
+msgid "Cayman Islands dollar"
+msgstr ""
+
+#: includes/functions.php:626
+msgid "Kazakhstani tenge"
+msgstr ""
+
+#: includes/functions.php:627
+msgid "Lao kip"
+msgstr ""
+
+#: includes/functions.php:628
+msgid "Lebanese pound"
+msgstr ""
+
+#: includes/functions.php:629
+msgid "Sri Lankan rupee"
+msgstr ""
+
+#: includes/functions.php:630
+msgid "Liberian dollar"
+msgstr ""
+
+#: includes/functions.php:631
+msgid "Lesotho loti"
+msgstr ""
+
+#: includes/functions.php:632
+msgid "Libyan dinar"
+msgstr ""
+
+#: includes/functions.php:633
+msgid "Moroccan dirham"
+msgstr ""
+
+#: includes/functions.php:634
+msgid "Moldovan leu"
+msgstr ""
+
+#: includes/functions.php:635
+msgid "Malagasy ariary"
+msgstr ""
+
+#: includes/functions.php:636
+msgid "Macedonian denar"
+msgstr ""
+
+#: includes/functions.php:637
+msgid "Burmese kyat"
+msgstr ""
+
+#: includes/functions.php:638
+msgid "Mongolian t&ouml;gr&ouml;g"
+msgstr ""
+
+#: includes/functions.php:639
+msgid "Macanese pataca"
+msgstr ""
+
+#: includes/functions.php:640
+msgid "Mauritanian ouguiya"
+msgstr ""
+
+#: includes/functions.php:641
+msgid "Mauritian rupee"
+msgstr ""
+
+#: includes/functions.php:642
+msgid "Maldivian rufiyaa"
+msgstr ""
+
+#: includes/functions.php:643
+msgid "Malawian kwacha"
+msgstr ""
+
+#: includes/functions.php:644
+msgid "Mexican peso"
+msgstr ""
+
+#: includes/functions.php:645
+msgid "Malaysian ringgit"
+msgstr ""
+
+#: includes/functions.php:646
+msgid "Mozambican metical"
+msgstr ""
+
+#: includes/functions.php:647
+msgid "Namibian dollar"
+msgstr ""
+
+#: includes/functions.php:648
+msgid "Nigerian naira"
+msgstr ""
+
+#: includes/functions.php:649
+msgid "Nicaraguan c&oacute;rdoba"
+msgstr ""
+
+#: includes/functions.php:650
+msgid "Norwegian krone"
+msgstr ""
+
+#: includes/functions.php:651
+msgid "Nepalese rupee"
+msgstr ""
+
+#: includes/functions.php:652
+msgid "New Zealand dollar"
+msgstr ""
+
+#: includes/functions.php:653
+msgid "Omani rial"
+msgstr ""
+
+#: includes/functions.php:654
+msgid "Panamanian balboa"
+msgstr ""
+
+#: includes/functions.php:655
+msgid "Peruvian nuevo sol"
+msgstr ""
+
+#: includes/functions.php:656
+msgid "Papua New Guinean kina"
+msgstr ""
+
+#: includes/functions.php:657
+msgid "Philippine peso"
+msgstr ""
+
+#: includes/functions.php:658
+msgid "Pakistani rupee"
+msgstr ""
+
+#: includes/functions.php:659
+msgid "Polish z&#x142;oty"
+msgstr ""
+
+#: includes/functions.php:660
+msgid "Transnistrian ruble"
+msgstr ""
+
+#: includes/functions.php:661
+msgid "Paraguayan guaran&iacute;"
+msgstr ""
+
+#: includes/functions.php:662
+msgid "Qatari riyal"
+msgstr ""
+
+#: includes/functions.php:663
+msgid "Romanian leu"
+msgstr ""
+
+#: includes/functions.php:664
+msgid "Serbian dinar"
+msgstr ""
+
+#: includes/functions.php:665
+msgid "Russian ruble"
+msgstr ""
+
+#: includes/functions.php:666
+msgid "Rwandan franc"
+msgstr ""
+
+#: includes/functions.php:667
+msgid "Saudi riyal"
+msgstr ""
+
+#: includes/functions.php:668
+msgid "Solomon Islands dollar"
+msgstr ""
+
+#: includes/functions.php:669
+msgid "Seychellois rupee"
+msgstr ""
+
+#: includes/functions.php:670
+msgid "Sudanese pound"
+msgstr ""
+
+#: includes/functions.php:671
+msgid "Swedish krona"
+msgstr ""
+
+#: includes/functions.php:672
+msgid "Singapore dollar"
+msgstr ""
+
+#: includes/functions.php:673
+msgid "Saint Helena pound"
+msgstr ""
+
+#: includes/functions.php:674
+msgid "Sierra Leonean leone"
+msgstr ""
+
+#: includes/functions.php:675
+msgid "Somali shilling"
+msgstr ""
+
+#: includes/functions.php:676
+msgid "Surinamese dollar"
+msgstr ""
+
+#: includes/functions.php:677
+msgid "South Sudanese pound"
+msgstr ""
+
+#: includes/functions.php:678
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe dobra"
+msgstr ""
+
+#: includes/functions.php:679
+msgid "Syrian pound"
+msgstr ""
+
+#: includes/functions.php:680
+msgid "Swazi lilangeni"
+msgstr ""
+
+#: includes/functions.php:681
+msgid "Thai baht"
+msgstr ""
+
+#: includes/functions.php:682
+msgid "Tajikistani somoni"
+msgstr ""
+
+#: includes/functions.php:683
+msgid "Turkmenistan manat"
+msgstr ""
+
+#: includes/functions.php:684
+msgid "Tunisian dinar"
+msgstr ""
+
+#: includes/functions.php:685
+msgid "Tongan pa&#x2bb;anga"
+msgstr ""
+
+#: includes/functions.php:686
+msgid "Turkish lira"
+msgstr ""
+
+#: includes/functions.php:687
+msgid "Trinidad and Tobago dollar"
+msgstr ""
+
+#: includes/functions.php:688
+msgid "New Taiwan dollar"
+msgstr ""
+
+#: includes/functions.php:689
+msgid "Tanzanian shilling"
+msgstr ""
+
+#: includes/functions.php:690
+msgid "Ukrainian hryvnia"
+msgstr ""
+
+#: includes/functions.php:691
+msgid "Ugandan shilling"
+msgstr ""
+
+#: includes/functions.php:692
+msgid "United States dollar"
+msgstr ""
+
+#: includes/functions.php:693
+msgid "Uruguayan peso"
+msgstr ""
+
+#: includes/functions.php:694
+msgid "Uzbekistani som"
+msgstr ""
+
+#: includes/functions.php:695
+msgid "Venezuelan bol&iacute;var"
+msgstr ""
+
+#: includes/functions.php:696
+msgid "Vietnamese &#x111;&#x1ed3;ng"
+msgstr ""
+
+#: includes/functions.php:697
+msgid "Vanuatu vatu"
+msgstr ""
+
+#: includes/functions.php:698
+msgid "Samoan t&#x101;l&#x101;"
+msgstr ""
+
+#: includes/functions.php:699
+msgid "Central African CFA franc"
+msgstr ""
+
+#: includes/functions.php:700
+msgid "East Caribbean dollar"
+msgstr ""
+
+#: includes/functions.php:701
+msgid "West African CFA franc"
+msgstr ""
+
+#: includes/functions.php:702
+msgid "CFP franc"
+msgstr ""
+
+#: includes/functions.php:703
+msgid "Yemeni rial"
+msgstr ""
+
+#: includes/functions.php:704
+msgid "South African rand"
+msgstr ""
+
+#: includes/functions.php:705
+msgid "Zambian kwacha"
+msgstr ""
+
+#: includes/functions.php:1047
+msgid "Created Date"
+msgstr ""
+
+#: includes/functions.php:1055
+msgid "Invoice"
+msgstr ""
+
+#: includes/functions.php:1061
+msgid "User Role"
+msgstr ""
+
+#: includes/functions.php:1063
+msgid "Submission ID"
+msgstr ""
+
+#: includes/functions.php:1089
+msgid "Select Country"
+msgstr ""
+
+#: includes/functions.php:1090
+msgid "Afghanistan"
+msgstr ""
+
+#: includes/functions.php:1091
+msgid "Aland Islands"
+msgstr ""
+
+#: includes/functions.php:1092
+msgid "Albania"
+msgstr ""
+
+#: includes/functions.php:1093
+msgid "Algeria"
+msgstr ""
+
+#: includes/functions.php:1094
+msgid "American Samoa"
+msgstr ""
+
+#: includes/functions.php:1095
+msgid "Andorra"
+msgstr ""
+
+#: includes/functions.php:1096
+msgid "Angola"
+msgstr ""
+
+#: includes/functions.php:1097
+msgid "Anguilla"
+msgstr ""
+
+#: includes/functions.php:1098
+msgid "Antarctica"
+msgstr ""
+
+#: includes/functions.php:1099
+msgid "Antigua and Barbuda"
+msgstr ""
+
+#: includes/functions.php:1100
+msgid "Argentina"
+msgstr ""
+
+#: includes/functions.php:1101
+msgid "Armenia"
+msgstr ""
+
+#: includes/functions.php:1102
+msgid "Aruba"
+msgstr ""
+
+#: includes/functions.php:1103
+msgid "Australia"
+msgstr ""
+
+#: includes/functions.php:1104
+msgid "Austria"
+msgstr ""
+
+#: includes/functions.php:1105
+msgid "Azerbaijan"
+msgstr ""
+
+#: includes/functions.php:1106
+msgid "Bahamas"
+msgstr ""
+
+#: includes/functions.php:1107
+msgid "Bahrain"
+msgstr ""
+
+#: includes/functions.php:1108
+msgid "Bangladesh"
+msgstr ""
+
+#: includes/functions.php:1109
+msgid "Barbados"
+msgstr ""
+
+#: includes/functions.php:1110
+msgid "Belarus"
+msgstr ""
+
+#: includes/functions.php:1111
+msgid "Belgium"
+msgstr ""
+
+#: includes/functions.php:1112
+msgid "Belau"
+msgstr ""
+
+#: includes/functions.php:1113
+msgid "Belize"
+msgstr ""
+
+#: includes/functions.php:1114
+msgid "Benin"
+msgstr ""
+
+#: includes/functions.php:1115
+msgid "Bermuda"
+msgstr ""
+
+#: includes/functions.php:1116
+msgid "Bhutan"
+msgstr ""
+
+#: includes/functions.php:1117
+msgid "Bolivia"
+msgstr ""
+
+#: includes/functions.php:1118
+msgid "Bonaire, Saint Eustatius and Saba"
+msgstr ""
+
+#: includes/functions.php:1119
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+#: includes/functions.php:1120
+msgid "Botswana"
+msgstr ""
+
+#: includes/functions.php:1121
+msgid "Bouvet Island"
+msgstr ""
+
+#: includes/functions.php:1122
+msgid "Brazil"
+msgstr ""
+
+#: includes/functions.php:1123
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: includes/functions.php:1124
+msgid "British Virgin Islands"
+msgstr ""
+
+#: includes/functions.php:1125
+msgid "Brunei"
+msgstr ""
+
+#: includes/functions.php:1126
+msgid "Bulgaria"
+msgstr ""
+
+#: includes/functions.php:1127
+msgid "Burkina Faso"
+msgstr ""
+
+#: includes/functions.php:1128
+msgid "Burundi"
+msgstr ""
+
+#: includes/functions.php:1129
+msgid "Cambodia"
+msgstr ""
+
+#: includes/functions.php:1130
+msgid "Cameroon"
+msgstr ""
+
+#: includes/functions.php:1131
+msgid "Canada"
+msgstr ""
+
+#: includes/functions.php:1132
+msgid "Cape Verde"
+msgstr ""
+
+#: includes/functions.php:1133
+msgid "Cayman Islands"
+msgstr ""
+
+#: includes/functions.php:1134
+msgid "Central African Republic"
+msgstr ""
+
+#: includes/functions.php:1135
+msgid "Chad"
+msgstr ""
+
+#: includes/functions.php:1136
+msgid "Chile"
+msgstr ""
+
+#: includes/functions.php:1137
+msgid "China"
+msgstr ""
+
+#: includes/functions.php:1138
+msgid "Christmas Island"
+msgstr ""
+
+#: includes/functions.php:1139
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+#: includes/functions.php:1140
+msgid "Colombia"
+msgstr ""
+
+#: includes/functions.php:1141
+msgid "Comoros"
+msgstr ""
+
+#: includes/functions.php:1142
+msgid "Congo (Brazzaville)"
+msgstr ""
+
+#: includes/functions.php:1143
+msgid "Congo (Kinshasa)"
+msgstr ""
+
+#: includes/functions.php:1144
+msgid "Cook Islands"
+msgstr ""
+
+#: includes/functions.php:1145
+msgid "Costa Rica"
+msgstr ""
+
+#: includes/functions.php:1146
+msgid "Croatia"
+msgstr ""
+
+#: includes/functions.php:1147
+msgid "Cuba"
+msgstr ""
+
+#: includes/functions.php:1148
+msgid "Cura&ccedil;ao"
+msgstr ""
+
+#: includes/functions.php:1149
+msgid "Cyprus"
+msgstr ""
+
+#: includes/functions.php:1150
+msgid "Czech Republic"
+msgstr ""
+
+#: includes/functions.php:1151
+msgid "Denmark"
+msgstr ""
+
+#: includes/functions.php:1152
+msgid "Djibouti"
+msgstr ""
+
+#: includes/functions.php:1153
+msgid "Dominica"
+msgstr ""
+
+#: includes/functions.php:1154
+msgid "Dominican Republic"
+msgstr ""
+
+#: includes/functions.php:1155
+msgid "Ecuador"
+msgstr ""
+
+#: includes/functions.php:1156
+msgid "Egypt"
+msgstr ""
+
+#: includes/functions.php:1157
+msgid "El Salvador"
+msgstr ""
+
+#: includes/functions.php:1158
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: includes/functions.php:1159
+msgid "Eritrea"
+msgstr ""
+
+#: includes/functions.php:1160
+msgid "Estonia"
+msgstr ""
+
+#: includes/functions.php:1161
+msgid "Ethiopia"
+msgstr ""
+
+#: includes/functions.php:1162
+msgid "Falkland Islands"
+msgstr ""
+
+#: includes/functions.php:1163
+msgid "Faroe Islands"
+msgstr ""
+
+#: includes/functions.php:1164
+msgid "Fiji"
+msgstr ""
+
+#: includes/functions.php:1165
+msgid "Finland"
+msgstr ""
+
+#: includes/functions.php:1166
+msgid "France"
+msgstr ""
+
+#: includes/functions.php:1167
+msgid "French Guiana"
+msgstr ""
+
+#: includes/functions.php:1168
+msgid "French Polynesia"
+msgstr ""
+
+#: includes/functions.php:1169
+msgid "French Southern Territories"
+msgstr ""
+
+#: includes/functions.php:1170
+msgid "Gabon"
+msgstr ""
+
+#: includes/functions.php:1171
+msgid "Gambia"
+msgstr ""
+
+#: includes/functions.php:1172
+msgid "Georgia"
+msgstr ""
+
+#: includes/functions.php:1173
+msgid "Germany"
+msgstr ""
+
+#: includes/functions.php:1174
+msgid "Ghana"
+msgstr ""
+
+#: includes/functions.php:1175
+msgid "Gibraltar"
+msgstr ""
+
+#: includes/functions.php:1176
+msgid "Greece"
+msgstr ""
+
+#: includes/functions.php:1177
+msgid "Greenland"
+msgstr ""
+
+#: includes/functions.php:1178
+msgid "Grenada"
+msgstr ""
+
+#: includes/functions.php:1179
+msgid "Guadeloupe"
+msgstr ""
+
+#: includes/functions.php:1180
+msgid "Guam"
+msgstr ""
+
+#: includes/functions.php:1181
+msgid "Guatemala"
+msgstr ""
+
+#: includes/functions.php:1182
+msgid "Guernsey"
+msgstr ""
+
+#: includes/functions.php:1183
+msgid "Guinea"
+msgstr ""
+
+#: includes/functions.php:1184
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: includes/functions.php:1185
+msgid "Guyana"
+msgstr ""
+
+#: includes/functions.php:1186
+msgid "Haiti"
+msgstr ""
+
+#: includes/functions.php:1187
+msgid "Heard Island and McDonald Islands"
+msgstr ""
+
+#: includes/functions.php:1188
+msgid "Honduras"
+msgstr ""
+
+#: includes/functions.php:1189
+msgid "Hong Kong"
+msgstr ""
+
+#: includes/functions.php:1190
+msgid "Hungary"
+msgstr ""
+
+#: includes/functions.php:1191
+msgid "Iceland"
+msgstr ""
+
+#: includes/functions.php:1192
+msgid "India"
+msgstr ""
+
+#: includes/functions.php:1193
+msgid "Indonesia"
+msgstr ""
+
+#: includes/functions.php:1194
+msgid "Iran"
+msgstr ""
+
+#: includes/functions.php:1195
+msgid "Iraq"
+msgstr ""
+
+#: includes/functions.php:1196
+msgid "Ireland"
+msgstr ""
+
+#: includes/functions.php:1197
+msgid "Isle of Man"
+msgstr ""
+
+#: includes/functions.php:1198
+msgid "Israel"
+msgstr ""
+
+#: includes/functions.php:1199
+msgid "Italy"
+msgstr ""
+
+#: includes/functions.php:1200
+msgid "Ivory Coast"
+msgstr ""
+
+#: includes/functions.php:1201
+msgid "Jamaica"
+msgstr ""
+
+#: includes/functions.php:1202
+msgid "Japan"
+msgstr ""
+
+#: includes/functions.php:1203
+msgid "Jersey"
+msgstr ""
+
+#: includes/functions.php:1204
+msgid "Jordan"
+msgstr ""
+
+#: includes/functions.php:1205
+msgid "Kazakhstan"
+msgstr ""
+
+#: includes/functions.php:1206
+msgid "Kenya"
+msgstr ""
+
+#: includes/functions.php:1207
+msgid "Kiribati"
+msgstr ""
+
+#: includes/functions.php:1208
+msgid "Kuwait"
+msgstr ""
+
+#: includes/functions.php:1209
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: includes/functions.php:1210
+msgid "Laos"
+msgstr ""
+
+#: includes/functions.php:1211
+msgid "Latvia"
+msgstr ""
+
+#: includes/functions.php:1212
+msgid "Lebanon"
+msgstr ""
+
+#: includes/functions.php:1213
+msgid "Lesotho"
+msgstr ""
+
+#: includes/functions.php:1214
+msgid "Liberia"
+msgstr ""
+
+#: includes/functions.php:1215
+msgid "Libya"
+msgstr ""
+
+#: includes/functions.php:1216
+msgid "Liechtenstein"
+msgstr ""
+
+#: includes/functions.php:1217
+msgid "Lithuania"
+msgstr ""
+
+#: includes/functions.php:1218
+msgid "Luxembourg"
+msgstr ""
+
+#: includes/functions.php:1219
+msgid "Macao S.A.R., China"
+msgstr ""
+
+#: includes/functions.php:1220
+msgid "Macedonia"
+msgstr ""
+
+#: includes/functions.php:1221
+msgid "Madagascar"
+msgstr ""
+
+#: includes/functions.php:1222
+msgid "Malawi"
+msgstr ""
+
+#: includes/functions.php:1223
+msgid "Malaysia"
+msgstr ""
+
+#: includes/functions.php:1224
+msgid "Maldives"
+msgstr ""
+
+#: includes/functions.php:1225
+msgid "Mali"
+msgstr ""
+
+#: includes/functions.php:1226
+msgid "Malta"
+msgstr ""
+
+#: includes/functions.php:1227
+msgid "Marshall Islands"
+msgstr ""
+
+#: includes/functions.php:1228
+msgid "Martinique"
+msgstr ""
+
+#: includes/functions.php:1229
+msgid "Mauritania"
+msgstr ""
+
+#: includes/functions.php:1230
+msgid "Mauritius"
+msgstr ""
+
+#: includes/functions.php:1231
+msgid "Mayotte"
+msgstr ""
+
+#: includes/functions.php:1232
+msgid "Mexico"
+msgstr ""
+
+#: includes/functions.php:1233
+msgid "Micronesia"
+msgstr ""
+
+#: includes/functions.php:1234
+msgid "Moldova"
+msgstr ""
+
+#: includes/functions.php:1235
+msgid "Monaco"
+msgstr ""
+
+#: includes/functions.php:1236
+msgid "Mongolia"
+msgstr ""
+
+#: includes/functions.php:1237
+msgid "Montenegro"
+msgstr ""
+
+#: includes/functions.php:1238
+msgid "Montserrat"
+msgstr ""
+
+#: includes/functions.php:1239
+msgid "Morocco"
+msgstr ""
+
+#: includes/functions.php:1240
+msgid "Mozambique"
+msgstr ""
+
+#: includes/functions.php:1241
+msgid "Myanmar"
+msgstr ""
+
+#: includes/functions.php:1242
+msgid "Namibia"
+msgstr ""
+
+#: includes/functions.php:1243
+msgid "Nauru"
+msgstr ""
+
+#: includes/functions.php:1244
+msgid "Nepal"
+msgstr ""
+
+#: includes/functions.php:1245
+msgid "Netherlands"
+msgstr ""
+
+#: includes/functions.php:1246
+msgid "New Caledonia"
+msgstr ""
+
+#: includes/functions.php:1247
+msgid "New Zealand"
+msgstr ""
+
+#: includes/functions.php:1248
+msgid "Nicaragua"
+msgstr ""
+
+#: includes/functions.php:1249 assets/states/NG.php:37
+msgid "Niger"
+msgstr ""
+
+#: includes/functions.php:1250
+msgid "Nigeria"
+msgstr ""
+
+#: includes/functions.php:1251
+msgid "Niue"
+msgstr ""
+
+#: includes/functions.php:1252
+msgid "Norfolk Island"
+msgstr ""
+
+#: includes/functions.php:1253
+msgid "Northern Mariana Islands"
+msgstr ""
+
+#: includes/functions.php:1254
+msgid "North Korea"
+msgstr ""
+
+#: includes/functions.php:1255
+msgid "Norway"
+msgstr ""
+
+#: includes/functions.php:1256
+msgid "Oman"
+msgstr ""
+
+#: includes/functions.php:1257
+msgid "Pakistan"
+msgstr ""
+
+#: includes/functions.php:1258
+msgid "Palestinian Territory"
+msgstr ""
+
+#: includes/functions.php:1259
+msgid "Panama"
+msgstr ""
+
+#: includes/functions.php:1260
+msgid "Papua New Guinea"
+msgstr ""
+
+#: includes/functions.php:1261
+msgid "Paraguay"
+msgstr ""
+
+#: includes/functions.php:1262
+msgid "Peru"
+msgstr ""
+
+#: includes/functions.php:1263
+msgid "Philippines"
+msgstr ""
+
+#: includes/functions.php:1264
+msgid "Pitcairn"
+msgstr ""
+
+#: includes/functions.php:1265
+msgid "Poland"
+msgstr ""
+
+#: includes/functions.php:1266
+msgid "Portugal"
+msgstr ""
+
+#: includes/functions.php:1267
+msgid "Puerto Rico"
+msgstr ""
+
+#: includes/functions.php:1268
+msgid "Qatar"
+msgstr ""
+
+#: includes/functions.php:1269
+msgid "Reunion"
+msgstr ""
+
+#: includes/functions.php:1270
+msgid "Romania"
+msgstr ""
+
+#: includes/functions.php:1271
+msgid "Russia"
+msgstr ""
+
+#: includes/functions.php:1272
+msgid "Rwanda"
+msgstr ""
+
+#: includes/functions.php:1273
+msgid "Saint Barth&eacute;lemy"
+msgstr ""
+
+#: includes/functions.php:1274
+msgid "Saint Helena"
+msgstr ""
+
+#: includes/functions.php:1275
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: includes/functions.php:1276
+msgid "Saint Lucia"
+msgstr ""
+
+#: includes/functions.php:1277
+msgid "Saint Martin (French part)"
+msgstr ""
+
+#: includes/functions.php:1278
+msgid "Saint Martin (Dutch part)"
+msgstr ""
+
+#: includes/functions.php:1279
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+#: includes/functions.php:1280
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+#: includes/functions.php:1281
+msgid "San Marino"
+msgstr ""
+
+#: includes/functions.php:1282
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe"
+msgstr ""
+
+#: includes/functions.php:1283
+msgid "Saudi Arabia"
+msgstr ""
+
+#: includes/functions.php:1284
+msgid "Senegal"
+msgstr ""
+
+#: includes/functions.php:1285
+msgid "Serbia"
+msgstr ""
+
+#: includes/functions.php:1286
+msgid "Seychelles"
+msgstr ""
+
+#: includes/functions.php:1287
+msgid "Sierra Leone"
+msgstr ""
+
+#: includes/functions.php:1288
+msgid "Singapore"
+msgstr ""
+
+#: includes/functions.php:1289
+msgid "Slovakia"
+msgstr ""
+
+#: includes/functions.php:1290
+msgid "Slovenia"
+msgstr ""
+
+#: includes/functions.php:1291
+msgid "Solomon Islands"
+msgstr ""
+
+#: includes/functions.php:1292
+msgid "Somalia"
+msgstr ""
+
+#: includes/functions.php:1293
+msgid "South Africa"
+msgstr ""
+
+#: includes/functions.php:1294
+msgid "South Georgia/Sandwich Islands"
+msgstr ""
+
+#: includes/functions.php:1295
+msgid "South Korea"
+msgstr ""
+
+#: includes/functions.php:1296
+msgid "South Sudan"
+msgstr ""
+
+#: includes/functions.php:1297
+msgid "Spain"
+msgstr ""
+
+#: includes/functions.php:1298
+msgid "Sri Lanka"
+msgstr ""
+
+#: includes/functions.php:1299
+msgid "Sudan"
+msgstr ""
+
+#: includes/functions.php:1300
+msgid "Suriname"
+msgstr ""
+
+#: includes/functions.php:1301
+msgid "Svalbard and Jan Mayen"
+msgstr ""
+
+#: includes/functions.php:1302
+msgid "Swaziland"
+msgstr ""
+
+#: includes/functions.php:1303
+msgid "Sweden"
+msgstr ""
+
+#: includes/functions.php:1304
+msgid "Switzerland"
+msgstr ""
+
+#: includes/functions.php:1305
+msgid "Syria"
+msgstr ""
+
+#: includes/functions.php:1306
+msgid "Taiwan"
+msgstr ""
+
+#: includes/functions.php:1307
+msgid "Tajikistan"
+msgstr ""
+
+#: includes/functions.php:1308
+msgid "Tanzania"
+msgstr ""
+
+#: includes/functions.php:1309
+msgid "Thailand"
+msgstr ""
+
+#: includes/functions.php:1310
+msgid "Timor-Leste"
+msgstr ""
+
+#: includes/functions.php:1311
+msgid "Togo"
+msgstr ""
+
+#: includes/functions.php:1312
+msgid "Tokelau"
+msgstr ""
+
+#: includes/functions.php:1313
+msgid "Tonga"
+msgstr ""
+
+#: includes/functions.php:1314
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: includes/functions.php:1315
+msgid "Tunisia"
+msgstr ""
+
+#: includes/functions.php:1316
+msgid "Turkey"
+msgstr ""
+
+#: includes/functions.php:1317
+msgid "Turkmenistan"
+msgstr ""
+
+#: includes/functions.php:1318
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+#: includes/functions.php:1319
+msgid "Tuvalu"
+msgstr ""
+
+#: includes/functions.php:1320
+msgid "Uganda"
+msgstr ""
+
+#: includes/functions.php:1321
+msgid "Ukraine"
+msgstr ""
+
+#: includes/functions.php:1322
+msgid "United Arab Emirates"
+msgstr ""
+
+#: includes/functions.php:1323
+msgid "United Kingdom (UK)"
+msgstr ""
+
+#: includes/functions.php:1324
+msgid "United States (US)"
+msgstr ""
+
+#: includes/functions.php:1325
+msgid "United States (US) Minor Outlying Islands"
+msgstr ""
+
+#: includes/functions.php:1326
+msgid "United States (US) Virgin Islands"
+msgstr ""
+
+#: includes/functions.php:1327
+msgid "Uruguay"
+msgstr ""
+
+#: includes/functions.php:1328
+msgid "Uzbekistan"
+msgstr ""
+
+#: includes/functions.php:1329
+msgid "Vanuatu"
+msgstr ""
+
+#: includes/functions.php:1330
+msgid "Vatican"
+msgstr ""
+
+#: includes/functions.php:1331
+msgid "Venezuela"
+msgstr ""
+
+#: includes/functions.php:1332
+msgid "Vietnam"
+msgstr ""
+
+#: includes/functions.php:1333
+msgid "Wallis and Futuna"
+msgstr ""
+
+#: includes/functions.php:1334
+msgid "Western Sahara"
+msgstr ""
+
+#: includes/functions.php:1335
+msgid "Samoa"
+msgstr ""
+
+#: includes/functions.php:1336
+msgid "Yemen"
+msgstr ""
+
+#: includes/functions.php:1337
+msgid "Zambia"
+msgstr ""
+
+#: includes/functions.php:1338
+msgid "Zimbabwe"
+msgstr ""
+
+#: includes/functions.php:1651
+msgid "User Auto Reply"
+msgstr ""
+
+#: includes/functions.php:1651
+#: includes/admin/form/html/notification-type.php:280
+#: includes/admin/form/html/notification-type.php:408
+msgid "Admin Notification"
+msgstr ""
+
+#: includes/functions.php:1652 includes/functions.php:1691
+#: includes/html/my_account.php:106 includes/html/wc_my_account.php:56
+msgid "Edit Submission"
+msgstr ""
+
+#: includes/functions.php:1652
+msgid "Delete Submission"
+msgstr ""
+
+#: includes/functions.php:1654
+msgid "User Activation"
+msgstr ""
+
+#: includes/functions.php:1655
+msgid "User Verification"
+msgstr ""
+
+#: includes/functions.php:1663
+msgid "Auto reply emails are sent to the User who is filling the form."
+msgstr ""
+
+#: includes/functions.php:1664
+msgid ""
+"These emails are sent to recipient(s) or to site Admin for every submission."
+msgstr ""
+
+#: includes/functions.php:1665 includes/functions.php:1668
+msgid "User's Email Address"
+msgstr ""
+
+#: includes/functions.php:1665
+msgid "This email is sent to the User when user is activated after submission."
+msgstr ""
+
+#: includes/functions.php:1666 includes/functions.php:1667
+msgid "User's and Admin Email Address"
+msgstr ""
+
+#: includes/functions.php:1666
+msgid "These emails are sent to the User and Admin on every edit submission."
+msgstr ""
+
+#: includes/functions.php:1667
+msgid ""
+"These emails are sent to the User and Admin on every submission deletion "
+"from front end <b>My Account</b> <code>[erforms_my_account]</code>"
+msgstr ""
+
+#: includes/functions.php:1668
+msgid "User verification allows to verify User's email account."
+msgstr ""
+
+#: includes/functions.php:1676 includes/functions.php:1687
+#: includes/admin/form/html/configuration-type.php:14
+msgid "General Settings"
+msgstr ""
+
+#: includes/functions.php:1676
+msgid "Default Registration,Upload Directory,reCaptcha"
+msgstr ""
+
+#: includes/functions.php:1677
+msgid "Login Options"
+msgstr ""
+
+#: includes/functions.php:1677
+msgid "Social Login,After Login Redirection,Role Based Login Redirection"
+msgstr ""
+
+#: includes/functions.php:1678
+msgid "Payments"
+msgstr ""
+
+#: includes/functions.php:1678
+msgid "Currency,Offline"
+msgstr ""
+
+#: includes/functions.php:1679
+msgid "External Integration"
+msgstr ""
+
+#: includes/functions.php:1679 includes/admin/settings/html/setting-tab.php:119
+msgid "WooCommerce My Account Integration"
+msgstr ""
+
+#: includes/functions.php:1682
+msgid "Disable JS libraries"
+msgstr ""
+
+#: includes/functions.php:1687
+msgid "reCaptcha,Login Form,Unique Submission ID"
+msgstr ""
+
+#: includes/functions.php:1688
+#: includes/admin/form/html/configuration-type.php:621
+msgid "Display Settings"
+msgstr ""
+
+#: includes/functions.php:1688
+msgid "Layout,Label position,Content above the Form"
+msgstr ""
+
+#: includes/functions.php:1689
+msgid "After submission redirection,Success message,Post to external URL"
+msgstr ""
+
+#: includes/functions.php:1690
+msgid "Restrictions"
+msgstr ""
+
+#: includes/functions.php:1690
+msgid "Allowed User by role,Password restriction,Limit Submissions"
+msgstr ""
+
+#: includes/functions.php:1691
+msgid "Enable edit submission"
+msgstr ""
+
+#: includes/functions.php:1695
+msgid "User Account"
+msgstr ""
+
+#: includes/functions.php:1695
+msgid ""
+"Auto User activation,Login after registration,User verification link,User "
+"role assignment"
+msgstr ""
+
+#: includes/functions.php:1696 includes/admin/plan/html/plans.php:4
+msgid "Plans"
+msgstr ""
+
+#: includes/functions.php:1696
+msgid "Configure plan"
+msgstr ""
+
+#: assets/states/AO.php:10
+msgid "Bengo"
+msgstr ""
+
+#: assets/states/AO.php:11
+msgid "Benguela"
+msgstr ""
+
+#: assets/states/AO.php:12
+msgid "Bié"
+msgstr ""
+
+#: assets/states/AO.php:13
+msgid "Cabinda"
+msgstr ""
+
+#: assets/states/AO.php:14
+msgid "Cunene"
+msgstr ""
+
+#: assets/states/AO.php:15
+msgid "Huambo"
+msgstr ""
+
+#: assets/states/AO.php:16
+msgid "Huíla"
+msgstr ""
+
+#: assets/states/AO.php:17
+msgid "Kuando Kubango"
+msgstr ""
+
+#: assets/states/AO.php:18
+msgid "Kwanza-Norte"
+msgstr ""
+
+#: assets/states/AO.php:19
+msgid "Kwanza-Sul"
+msgstr ""
+
+#: assets/states/AO.php:20
+msgid "Luanda"
+msgstr ""
+
+#: assets/states/AO.php:21
+msgid "Lunda-Norte"
+msgstr ""
+
+#: assets/states/AO.php:22
+msgid "Lunda-Sul"
+msgstr ""
+
+#: assets/states/AO.php:23
+msgid "Malanje"
+msgstr ""
+
+#: assets/states/AO.php:24
+msgid "Moxico"
+msgstr ""
+
+#: assets/states/AO.php:25
+msgid "Namibe"
+msgstr ""
+
+#: assets/states/AO.php:26
+msgid "Uíge"
+msgstr ""
+
+#: assets/states/AO.php:27
+msgid "Zaire"
+msgstr ""
+
+#: assets/states/AR.php:11
+msgid "Ciudad Aut&oacute;noma de Buenos Aires"
+msgstr ""
+
+#: assets/states/AR.php:12
+msgid "Buenos Aires"
+msgstr ""
+
+#: assets/states/AR.php:13
+msgid "Catamarca"
+msgstr ""
+
+#: assets/states/AR.php:14
+msgid "Chaco"
+msgstr ""
+
+#: assets/states/AR.php:15
+msgid "Chubut"
+msgstr ""
+
+#: assets/states/AR.php:16 assets/states/ES.php:28
+msgid "C&oacute;rdoba"
+msgstr ""
+
+#: assets/states/AR.php:17
+msgid "Corrientes"
+msgstr ""
+
+#: assets/states/AR.php:18
+msgid "Entre R&iacute;os"
+msgstr ""
+
+#: assets/states/AR.php:19
+msgid "Formosa"
+msgstr ""
+
+#: assets/states/AR.php:20
+msgid "Jujuy"
+msgstr ""
+
+#: assets/states/AR.php:21
+msgid "La Pampa"
+msgstr ""
+
+#: assets/states/AR.php:22 assets/states/ES.php:37
+msgid "La Rioja"
+msgstr ""
+
+#: assets/states/AR.php:23
+msgid "Mendoza"
+msgstr ""
+
+#: assets/states/AR.php:24
+msgid "Misiones"
+msgstr ""
+
+#: assets/states/AR.php:25
+msgid "Neuqu&eacute;n"
+msgstr ""
+
+#: assets/states/AR.php:26
+msgid "R&iacute;o Negro"
+msgstr ""
+
+#: assets/states/AR.php:27
+msgid "Salta"
+msgstr ""
+
+#: assets/states/AR.php:28
+msgid "San Juan"
+msgstr ""
+
+#: assets/states/AR.php:29
+msgid "San Luis"
+msgstr ""
+
+#: assets/states/AR.php:30 assets/states/BO.php:18
+msgid "Santa Cruz"
+msgstr ""
+
+#: assets/states/AR.php:31
+msgid "Santa Fe"
+msgstr ""
+
+#: assets/states/AR.php:32
+msgid "Santiago del Estero"
+msgstr ""
+
+#: assets/states/AR.php:33
+msgid "Tierra del Fuego"
+msgstr ""
+
+#: assets/states/AR.php:34
+msgid "Tucum&aacute;n"
+msgstr ""
+
+#: assets/states/AU.php:13
+msgid "Australian Capital Territory"
+msgstr ""
+
+#: assets/states/AU.php:14
+msgid "New South Wales"
+msgstr ""
+
+#: assets/states/AU.php:15
+msgid "Northern Territory"
+msgstr ""
+
+#: assets/states/AU.php:16
+msgid "Queensland"
+msgstr ""
+
+#: assets/states/AU.php:17
+msgid "South Australia"
+msgstr ""
+
+#: assets/states/AU.php:18
+msgid "Tasmania"
+msgstr ""
+
+#: assets/states/AU.php:19
+msgid "Victoria"
+msgstr ""
+
+#: assets/states/AU.php:20
+msgid "Western Australia"
+msgstr ""
+
+#: assets/states/BD.php:12
+msgid "Bagerhat"
+msgstr ""
+
+#: assets/states/BD.php:13
+msgid "Bandarban"
+msgstr ""
+
+#: assets/states/BD.php:14
+msgid "Barguna"
+msgstr ""
+
+#: assets/states/BD.php:15
+msgid "Barisal"
+msgstr ""
+
+#: assets/states/BD.php:16
+msgid "Bhola"
+msgstr ""
+
+#: assets/states/BD.php:17
+msgid "Bogra"
+msgstr ""
+
+#: assets/states/BD.php:18
+msgid "Brahmanbaria"
+msgstr ""
+
+#: assets/states/BD.php:19
+msgid "Chandpur"
+msgstr ""
+
+#: assets/states/BD.php:20
+msgid "Chittagong"
+msgstr ""
+
+#: assets/states/BD.php:21
+msgid "Chuadanga"
+msgstr ""
+
+#: assets/states/BD.php:22
+msgid "Comilla"
+msgstr ""
+
+#: assets/states/BD.php:23
+msgid "Cox's Bazar"
+msgstr ""
+
+#: assets/states/BD.php:24
+msgid "Dhaka"
+msgstr ""
+
+#: assets/states/BD.php:25
+msgid "Dinajpur"
+msgstr ""
+
+#: assets/states/BD.php:26
+msgid "Faridpur "
+msgstr ""
+
+#: assets/states/BD.php:27
+msgid "Feni"
+msgstr ""
+
+#: assets/states/BD.php:28
+msgid "Gaibandha"
+msgstr ""
+
+#: assets/states/BD.php:29
+msgid "Gazipur"
+msgstr ""
+
+#: assets/states/BD.php:30
+msgid "Gopalganj"
+msgstr ""
+
+#: assets/states/BD.php:31
+msgid "Habiganj"
+msgstr ""
+
+#: assets/states/BD.php:32
+msgid "Jamalpur"
+msgstr ""
+
+#: assets/states/BD.php:33
+msgid "Jessore"
+msgstr ""
+
+#: assets/states/BD.php:34
+msgid "Jhalokati"
+msgstr ""
+
+#: assets/states/BD.php:35
+msgid "Jhenaidah"
+msgstr ""
+
+#: assets/states/BD.php:36
+msgid "Joypurhat"
+msgstr ""
+
+#: assets/states/BD.php:37
+msgid "Khagrachhari"
+msgstr ""
+
+#: assets/states/BD.php:38
+msgid "Khulna"
+msgstr ""
+
+#: assets/states/BD.php:39
+msgid "Kishoreganj"
+msgstr ""
+
+#: assets/states/BD.php:40
+msgid "Kurigram"
+msgstr ""
+
+#: assets/states/BD.php:41
+msgid "Kushtia"
+msgstr ""
+
+#: assets/states/BD.php:42
+msgid "Lakshmipur"
+msgstr ""
+
+#: assets/states/BD.php:43
+msgid "Lalmonirhat"
+msgstr ""
+
+#: assets/states/BD.php:44
+msgid "Madaripur"
+msgstr ""
+
+#: assets/states/BD.php:45
+msgid "Magura"
+msgstr ""
+
+#: assets/states/BD.php:46
+msgid "Manikganj "
+msgstr ""
+
+#: assets/states/BD.php:47
+msgid "Meherpur"
+msgstr ""
+
+#: assets/states/BD.php:48
+msgid "Moulvibazar"
+msgstr ""
+
+#: assets/states/BD.php:49
+msgid "Munshiganj"
+msgstr ""
+
+#: assets/states/BD.php:50
+msgid "Mymensingh"
+msgstr ""
+
+#: assets/states/BD.php:51
+msgid "Naogaon"
+msgstr ""
+
+#: assets/states/BD.php:52
+msgid "Narail"
+msgstr ""
+
+#: assets/states/BD.php:53
+msgid "Narayanganj"
+msgstr ""
+
+#: assets/states/BD.php:54
+msgid "Narsingdi"
+msgstr ""
+
+#: assets/states/BD.php:55
+msgid "Natore"
+msgstr ""
+
+#: assets/states/BD.php:56
+msgid "Nawabganj"
+msgstr ""
+
+#: assets/states/BD.php:57
+msgid "Netrakona"
+msgstr ""
+
+#: assets/states/BD.php:58
+msgid "Nilphamari"
+msgstr ""
+
+#: assets/states/BD.php:59
+msgid "Noakhali"
+msgstr ""
+
+#: assets/states/BD.php:60
+msgid "Pabna"
+msgstr ""
+
+#: assets/states/BD.php:61
+msgid "Panchagarh"
+msgstr ""
+
+#: assets/states/BD.php:62
+msgid "Patuakhali"
+msgstr ""
+
+#: assets/states/BD.php:63
+msgid "Pirojpur"
+msgstr ""
+
+#: assets/states/BD.php:64
+msgid "Rajbari"
+msgstr ""
+
+#: assets/states/BD.php:65
+msgid "Rajshahi"
+msgstr ""
+
+#: assets/states/BD.php:66
+msgid "Rangamati"
+msgstr ""
+
+#: assets/states/BD.php:67
+msgid "Rangpur"
+msgstr ""
+
+#: assets/states/BD.php:68
+msgid "Satkhira"
+msgstr ""
+
+#: assets/states/BD.php:69
+msgid "Shariatpur"
+msgstr ""
+
+#: assets/states/BD.php:70
+msgid "Sherpur"
+msgstr ""
+
+#: assets/states/BD.php:71
+msgid "Sirajganj"
+msgstr ""
+
+#: assets/states/BD.php:72
+msgid "Sunamganj"
+msgstr ""
+
+#: assets/states/BD.php:73
+msgid "Sylhet"
+msgstr ""
+
+#: assets/states/BD.php:74
+msgid "Tangail"
+msgstr ""
+
+#: assets/states/BD.php:75
+msgid "Thakurgaon"
+msgstr ""
+
+#: assets/states/BG.php:12
+msgid "Blagoevgrad"
+msgstr ""
+
+#: assets/states/BG.php:13
+msgid "Burgas"
+msgstr ""
+
+#: assets/states/BG.php:14
+msgid "Dobrich"
+msgstr ""
+
+#: assets/states/BG.php:15
+msgid "Gabrovo"
+msgstr ""
+
+#: assets/states/BG.php:16
+msgid "Haskovo"
+msgstr ""
+
+#: assets/states/BG.php:17
+msgid "Kardzhali"
+msgstr ""
+
+#: assets/states/BG.php:18
+msgid "Kyustendil"
+msgstr ""
+
+#: assets/states/BG.php:19
+msgid "Lovech"
+msgstr ""
+
+#: assets/states/BG.php:20 assets/states/US.php:37
+msgid "Montana"
+msgstr ""
+
+#: assets/states/BG.php:21
+msgid "Pazardzhik"
+msgstr ""
+
+#: assets/states/BG.php:22
+msgid "Pernik"
+msgstr ""
+
+#: assets/states/BG.php:23
+msgid "Pleven"
+msgstr ""
+
+#: assets/states/BG.php:24
+msgid "Plovdiv"
+msgstr ""
+
+#: assets/states/BG.php:25
+msgid "Razgrad"
+msgstr ""
+
+#: assets/states/BG.php:26
+msgid "Ruse"
+msgstr ""
+
+#: assets/states/BG.php:27
+msgid "Shumen"
+msgstr ""
+
+#: assets/states/BG.php:28
+msgid "Silistra"
+msgstr ""
+
+#: assets/states/BG.php:29
+msgid "Sliven"
+msgstr ""
+
+#: assets/states/BG.php:30
+msgid "Smolyan"
+msgstr ""
+
+#: assets/states/BG.php:31
+msgid "Sofia"
+msgstr ""
+
+#: assets/states/BG.php:32
+msgid "Sofia-Grad"
+msgstr ""
+
+#: assets/states/BG.php:33
+msgid "Stara Zagora"
+msgstr ""
+
+#: assets/states/BG.php:34
+msgid "Targovishte"
+msgstr ""
+
+#: assets/states/BG.php:35
+msgid "Varna"
+msgstr ""
+
+#: assets/states/BG.php:36
+msgid "Veliko Tarnovo"
+msgstr ""
+
+#: assets/states/BG.php:37
+msgid "Vidin"
+msgstr ""
+
+#: assets/states/BG.php:38
+msgid "Vratsa"
+msgstr ""
+
+#: assets/states/BG.php:39
+msgid "Yambol"
+msgstr ""
+
+#: assets/states/BO.php:11
+msgid "Chuquisaca"
+msgstr ""
+
+#: assets/states/BO.php:12
+msgid "Beni"
+msgstr ""
+
+#: assets/states/BO.php:13
+msgid "Cochabamba"
+msgstr ""
+
+#: assets/states/BO.php:14
+msgid "La Paz"
+msgstr ""
+
+#: assets/states/BO.php:15
+msgid "Oruro"
+msgstr ""
+
+#: assets/states/BO.php:16
+msgid "Pando"
+msgstr ""
+
+#: assets/states/BO.php:17
+msgid "Potosí"
+msgstr ""
+
+#: assets/states/BO.php:19
+msgid "Tarija"
+msgstr ""
+
+#: assets/states/BR.php:11
+msgid "Acre"
+msgstr ""
+
+#: assets/states/BR.php:12
+msgid "Alagoas"
+msgstr ""
+
+#: assets/states/BR.php:13
+msgid "Amap&aacute;"
+msgstr ""
+
+#: assets/states/BR.php:14 assets/states/PE.php:13
+msgid "Amazonas"
+msgstr ""
+
+#: assets/states/BR.php:15
+msgid "Bahia"
+msgstr ""
+
+#: assets/states/BR.php:16
+msgid "Cear&aacute;"
+msgstr ""
+
+#: assets/states/BR.php:17
+msgid "Distrito Federal"
+msgstr ""
+
+#: assets/states/BR.php:18
+msgid "Esp&iacute;rito Santo"
+msgstr ""
+
+#: assets/states/BR.php:19
+msgid "Goi&aacute;s"
+msgstr ""
+
+#: assets/states/BR.php:20
+msgid "Maranh&atilde;o"
+msgstr ""
+
+#: assets/states/BR.php:21
+msgid "Mato Grosso"
+msgstr ""
+
+#: assets/states/BR.php:22
+msgid "Mato Grosso do Sul"
+msgstr ""
+
+#: assets/states/BR.php:23
+msgid "Minas Gerais"
+msgstr ""
+
+#: assets/states/BR.php:24
+msgid "Par&aacute;"
+msgstr ""
+
+#: assets/states/BR.php:25
+msgid "Para&iacute;ba"
+msgstr ""
+
+#: assets/states/BR.php:26
+msgid "Paran&aacute;"
+msgstr ""
+
+#: assets/states/BR.php:27
+msgid "Pernambuco"
+msgstr ""
+
+#: assets/states/BR.php:28
+msgid "Piau&iacute;"
+msgstr ""
+
+#: assets/states/BR.php:29
+msgid "Rio de Janeiro"
+msgstr ""
+
+#: assets/states/BR.php:30
+msgid "Rio Grande do Norte"
+msgstr ""
+
+#: assets/states/BR.php:31
+msgid "Rio Grande do Sul"
+msgstr ""
+
+#: assets/states/BR.php:32
+msgid "Rond&ocirc;nia"
+msgstr ""
+
+#: assets/states/BR.php:33
+msgid "Roraima"
+msgstr ""
+
+#: assets/states/BR.php:34
+msgid "Santa Catarina"
+msgstr ""
+
+#: assets/states/BR.php:35
+msgid "S&atilde;o Paulo"
+msgstr ""
+
+#: assets/states/BR.php:36
+msgid "Sergipe"
+msgstr ""
+
+#: assets/states/BR.php:37
+msgid "Tocantins"
+msgstr ""
+
+#: assets/states/CA.php:12
+msgid "Alberta"
+msgstr ""
+
+#: assets/states/CA.php:13
+msgid "British Columbia"
+msgstr ""
+
+#: assets/states/CA.php:14
+msgid "Manitoba"
+msgstr ""
+
+#: assets/states/CA.php:15
+msgid "New Brunswick"
+msgstr ""
+
+#: assets/states/CA.php:16
+msgid "Newfoundland and Labrador"
+msgstr ""
+
+#: assets/states/CA.php:17
+msgid "Northwest Territories"
+msgstr ""
+
+#: assets/states/CA.php:18
+msgid "Nova Scotia"
+msgstr ""
+
+#: assets/states/CA.php:19
+msgid "Nunavut"
+msgstr ""
+
+#: assets/states/CA.php:20
+msgid "Ontario"
+msgstr ""
+
+#: assets/states/CA.php:21
+msgid "Prince Edward Island"
+msgstr ""
+
+#: assets/states/CA.php:22
+msgid "Quebec"
+msgstr ""
+
+#: assets/states/CA.php:23
+msgid "Saskatchewan"
+msgstr ""
+
+#: assets/states/CA.php:24
+msgid "Yukon Territory"
+msgstr ""
+
+#: assets/states/CH.php:12
+msgid "Aargau"
+msgstr ""
+
+#: assets/states/CH.php:13
+msgid "Appenzell Ausserrhoden"
+msgstr ""
+
+#: assets/states/CH.php:14
+msgid "Appenzell Innerrhoden"
+msgstr ""
+
+#: assets/states/CH.php:15
+msgid "Basel-Landschaft"
+msgstr ""
+
+#: assets/states/CH.php:16
+msgid "Basel-Stadt"
+msgstr ""
+
+#: assets/states/CH.php:17
+msgid "Bern"
+msgstr ""
+
+#: assets/states/CH.php:18
+msgid "Fribourg"
+msgstr ""
+
+#: assets/states/CH.php:19
+msgid "Geneva"
+msgstr ""
+
+#: assets/states/CH.php:20
+msgid "Glarus"
+msgstr ""
+
+#: assets/states/CH.php:21
+msgid "Graub&uuml;nden"
+msgstr ""
+
+#: assets/states/CH.php:22
+msgid "Jura"
+msgstr ""
+
+#: assets/states/CH.php:23
+msgid "Luzern"
+msgstr ""
+
+#: assets/states/CH.php:24
+msgid "Neuch&acirc;tel"
+msgstr ""
+
+#: assets/states/CH.php:25
+msgid "Nidwalden"
+msgstr ""
+
+#: assets/states/CH.php:26
+msgid "Obwalden"
+msgstr ""
+
+#: assets/states/CH.php:27
+msgid "Schaffhausen"
+msgstr ""
+
+#: assets/states/CH.php:28
+msgid "Schwyz"
+msgstr ""
+
+#: assets/states/CH.php:29
+msgid "Solothurn"
+msgstr ""
+
+#: assets/states/CH.php:30
+msgid "St. Gallen"
+msgstr ""
+
+#: assets/states/CH.php:31
+msgid "Thurgau"
+msgstr ""
+
+#: assets/states/CH.php:32
+msgid "Ticino"
+msgstr ""
+
+#: assets/states/CH.php:33
+msgid "Uri"
+msgstr ""
+
+#: assets/states/CH.php:34
+msgid "Valais"
+msgstr ""
+
+#: assets/states/CH.php:35
+msgid "Vaud"
+msgstr ""
+
+#: assets/states/CH.php:36
+msgid "Zug"
+msgstr ""
+
+#: assets/states/CH.php:37
+msgid "Z&uuml;rich"
+msgstr ""
+
+#: assets/states/CN.php:10
+msgid "Yunnan / &#20113;&#21335;"
+msgstr ""
+
+#: assets/states/CN.php:11
+msgid "Beijing / &#21271;&#20140;"
+msgstr ""
+
+#: assets/states/CN.php:12
+msgid "Tianjin / &#22825;&#27941;"
+msgstr ""
+
+#: assets/states/CN.php:13
+msgid "Hebei / &#27827;&#21271;"
+msgstr ""
+
+#: assets/states/CN.php:14
+msgid "Shanxi / &#23665;&#35199;"
+msgstr ""
+
+#: assets/states/CN.php:15
+msgid "Inner Mongolia / &#20839;&#33945;&#21476;"
+msgstr ""
+
+#: assets/states/CN.php:16
+msgid "Liaoning / &#36797;&#23425;"
+msgstr ""
+
+#: assets/states/CN.php:17
+msgid "Jilin / &#21513;&#26519;"
+msgstr ""
+
+#: assets/states/CN.php:18
+msgid "Heilongjiang / &#40657;&#40857;&#27743;"
+msgstr ""
+
+#: assets/states/CN.php:19
+msgid "Shanghai / &#19978;&#28023;"
+msgstr ""
+
+#: assets/states/CN.php:20
+msgid "Jiangsu / &#27743;&#33487;"
+msgstr ""
+
+#: assets/states/CN.php:21
+msgid "Zhejiang / &#27993;&#27743;"
+msgstr ""
+
+#: assets/states/CN.php:22
+msgid "Anhui / &#23433;&#24509;"
+msgstr ""
+
+#: assets/states/CN.php:23
+msgid "Fujian / &#31119;&#24314;"
+msgstr ""
+
+#: assets/states/CN.php:24
+msgid "Jiangxi / &#27743;&#35199;"
+msgstr ""
+
+#: assets/states/CN.php:25
+msgid "Shandong / &#23665;&#19996;"
+msgstr ""
+
+#: assets/states/CN.php:26
+msgid "Henan / &#27827;&#21335;"
+msgstr ""
+
+#: assets/states/CN.php:27
+msgid "Hubei / &#28246;&#21271;"
+msgstr ""
+
+#: assets/states/CN.php:28
+msgid "Hunan / &#28246;&#21335;"
+msgstr ""
+
+#: assets/states/CN.php:29
+msgid "Guangdong / &#24191;&#19996;"
+msgstr ""
+
+#: assets/states/CN.php:30
+msgid "Guangxi Zhuang / &#24191;&#35199;&#22766;&#26063;"
+msgstr ""
+
+#: assets/states/CN.php:31
+msgid "Hainan / &#28023;&#21335;"
+msgstr ""
+
+#: assets/states/CN.php:32
+msgid "Chongqing / &#37325;&#24198;"
+msgstr ""
+
+#: assets/states/CN.php:33
+msgid "Sichuan / &#22235;&#24029;"
+msgstr ""
+
+#: assets/states/CN.php:34
+msgid "Guizhou / &#36149;&#24030;"
+msgstr ""
+
+#: assets/states/CN.php:35
+msgid "Shaanxi / &#38485;&#35199;"
+msgstr ""
+
+#: assets/states/CN.php:36
+msgid "Gansu / &#29976;&#32899;"
+msgstr ""
+
+#: assets/states/CN.php:37
+msgid "Qinghai / &#38738;&#28023;"
+msgstr ""
+
+#: assets/states/CN.php:38
+msgid "Ningxia Hui / &#23425;&#22799;"
+msgstr ""
+
+#: assets/states/CN.php:39
+msgid "Macau / &#28595;&#38376;"
+msgstr ""
+
+#: assets/states/CN.php:40
+msgid "Tibet / &#35199;&#34255;"
+msgstr ""
+
+#: assets/states/CN.php:41
+msgid "Xinjiang / &#26032;&#30086;"
+msgstr ""
+
+#: assets/states/ES.php:11
+msgid "A Coru&ntilde;a"
+msgstr ""
+
+#: assets/states/ES.php:12
+msgid "Araba/&Aacute;lava"
+msgstr ""
+
+#: assets/states/ES.php:13
+msgid "Albacete"
+msgstr ""
+
+#: assets/states/ES.php:14
+msgid "Alicante"
+msgstr ""
+
+#: assets/states/ES.php:15
+msgid "Almer&iacute;a"
+msgstr ""
+
+#: assets/states/ES.php:16
+msgid "Asturias"
+msgstr ""
+
+#: assets/states/ES.php:17
+msgid "&Aacute;vila"
+msgstr ""
+
+#: assets/states/ES.php:18
+msgid "Badajoz"
+msgstr ""
+
+#: assets/states/ES.php:19
+msgid "Baleares"
+msgstr ""
+
+#: assets/states/ES.php:20
+msgid "Barcelona"
+msgstr ""
+
+#: assets/states/ES.php:21
+msgid "Burgos"
+msgstr ""
+
+#: assets/states/ES.php:22
+msgid "C&aacute;ceres"
+msgstr ""
+
+#: assets/states/ES.php:23
+msgid "C&aacute;diz"
+msgstr ""
+
+#: assets/states/ES.php:24
+msgid "Cantabria"
+msgstr ""
+
+#: assets/states/ES.php:25
+msgid "Castell&oacute;n"
+msgstr ""
+
+#: assets/states/ES.php:26
+msgid "Ceuta"
+msgstr ""
+
+#: assets/states/ES.php:27
+msgid "Ciudad Real"
+msgstr ""
+
+#: assets/states/ES.php:29
+msgid "Cuenca"
+msgstr ""
+
+#: assets/states/ES.php:30
+msgid "Girona"
+msgstr ""
+
+#: assets/states/ES.php:31
+msgid "Granada"
+msgstr ""
+
+#: assets/states/ES.php:32
+msgid "Guadalajara"
+msgstr ""
+
+#: assets/states/ES.php:33
+msgid "Gipuzkoa"
+msgstr ""
+
+#: assets/states/ES.php:34
+msgid "Huelva"
+msgstr ""
+
+#: assets/states/ES.php:35
+msgid "Huesca"
+msgstr ""
+
+#: assets/states/ES.php:36
+msgid "Ja&eacute;n"
+msgstr ""
+
+#: assets/states/ES.php:38
+msgid "Las Palmas"
+msgstr ""
+
+#: assets/states/ES.php:39
+msgid "Le&oacute;n"
+msgstr ""
+
+#: assets/states/ES.php:40
+msgid "Lleida"
+msgstr ""
+
+#: assets/states/ES.php:41
+msgid "Lugo"
+msgstr ""
+
+#: assets/states/ES.php:42
+msgid "Madrid"
+msgstr ""
+
+#: assets/states/ES.php:43
+msgid "M&aacute;laga"
+msgstr ""
+
+#: assets/states/ES.php:44
+msgid "Melilla"
+msgstr ""
+
+#: assets/states/ES.php:45
+msgid "Murcia"
+msgstr ""
+
+#: assets/states/ES.php:46
+msgid "Navarra"
+msgstr ""
+
+#: assets/states/ES.php:47
+msgid "Ourense"
+msgstr ""
+
+#: assets/states/ES.php:48
+msgid "Palencia"
+msgstr ""
+
+#: assets/states/ES.php:49
+msgid "Pontevedra"
+msgstr ""
+
+#: assets/states/ES.php:50
+msgid "Salamanca"
+msgstr ""
+
+#: assets/states/ES.php:51
+msgid "Santa Cruz de Tenerife"
+msgstr ""
+
+#: assets/states/ES.php:52
+msgid "Segovia"
+msgstr ""
+
+#: assets/states/ES.php:53
+msgid "Sevilla"
+msgstr ""
+
+#: assets/states/ES.php:54
+msgid "Soria"
+msgstr ""
+
+#: assets/states/ES.php:55
+msgid "Tarragona"
+msgstr ""
+
+#: assets/states/ES.php:56
+msgid "Teruel"
+msgstr ""
+
+#: assets/states/ES.php:57
+msgid "Toledo"
+msgstr ""
+
+#: assets/states/ES.php:58
+msgid "Valencia"
+msgstr ""
+
+#: assets/states/ES.php:59
+msgid "Valladolid"
+msgstr ""
+
+#: assets/states/ES.php:60
+msgid "Bizkaia"
+msgstr ""
+
+#: assets/states/ES.php:61
+msgid "Zamora"
+msgstr ""
+
+#: assets/states/ES.php:62
+msgid "Zaragoza"
+msgstr ""
+
+#: assets/states/GR.php:11
+msgid "Αττική"
+msgstr ""
+
+#: assets/states/GR.php:12
+msgid "Ανατολική Μακεδονία και Θράκη"
+msgstr ""
+
+#: assets/states/GR.php:13
+msgid "Κεντρική Μακεδονία"
+msgstr ""
+
+#: assets/states/GR.php:14
+msgid "Δυτική Μακεδονία"
+msgstr ""
+
+#: assets/states/GR.php:15
+msgid "Ήπειρος"
+msgstr ""
+
+#: assets/states/GR.php:16
+msgid "Θεσσαλία"
+msgstr ""
+
+#: assets/states/GR.php:17
+msgid "Ιόνιοι Νήσοι"
+msgstr ""
+
+#: assets/states/GR.php:18
+msgid "Δυτική Ελλάδα"
+msgstr ""
+
+#: assets/states/GR.php:19
+msgid "Στερεά Ελλάδα"
+msgstr ""
+
+#: assets/states/GR.php:20
+msgid "Πελοπόννησος"
+msgstr ""
+
+#: assets/states/GR.php:21
+msgid "Βόρειο Αιγαίο"
+msgstr ""
+
+#: assets/states/GR.php:22
+msgid "Νότιο Αιγαίο"
+msgstr ""
+
+#: assets/states/GR.php:23
+msgid "Κρήτη"
+msgstr ""
+
+#: assets/states/HK.php:11
+msgid "Hong Kong Island"
+msgstr ""
+
+#: assets/states/HK.php:12
+msgid "Kowloon"
+msgstr ""
+
+#: assets/states/HK.php:13
+msgid "New Territories"
+msgstr ""
+
+#: assets/states/HU.php:11
+msgid "Bács-Kiskun"
+msgstr ""
+
+#: assets/states/HU.php:12
+msgid "Békés"
+msgstr ""
+
+#: assets/states/HU.php:13
+msgid "Baranya"
+msgstr ""
+
+#: assets/states/HU.php:14
+msgid "Borsod-Abaúj-Zemplén"
+msgstr ""
+
+#: assets/states/HU.php:15
+msgid "Budapest"
+msgstr ""
+
+#: assets/states/HU.php:16
+msgid "Csongrád"
+msgstr ""
+
+#: assets/states/HU.php:17
+msgid "Fejér"
+msgstr ""
+
+#: assets/states/HU.php:18
+msgid "Győr-Moson-Sopron"
+msgstr ""
+
+#: assets/states/HU.php:19
+msgid "Hajdú-Bihar"
+msgstr ""
+
+#: assets/states/HU.php:20
+msgid "Heves"
+msgstr ""
+
+#: assets/states/HU.php:21
+msgid "Jász-Nagykun-Szolnok"
+msgstr ""
+
+#: assets/states/HU.php:22
+msgid "Komárom-Esztergom"
+msgstr ""
+
+#: assets/states/HU.php:23
+msgid "Nógrád"
+msgstr ""
+
+#: assets/states/HU.php:24
+msgid "Pest"
+msgstr ""
+
+#: assets/states/HU.php:25
+msgid "Somogy"
+msgstr ""
+
+#: assets/states/HU.php:26
+msgid "Szabolcs-Szatmár-Bereg"
+msgstr ""
+
+#: assets/states/HU.php:27
+msgid "Tolna"
+msgstr ""
+
+#: assets/states/HU.php:28
+msgid "Vas"
+msgstr ""
+
+#: assets/states/HU.php:29
+msgid "Veszprém"
+msgstr ""
+
+#: assets/states/HU.php:30
+msgid "Zala"
+msgstr ""
+
+#: assets/states/ID.php:12
+msgid "Daerah Istimewa Aceh"
+msgstr ""
+
+#: assets/states/ID.php:13
+msgid "Sumatera Utara"
+msgstr ""
+
+#: assets/states/ID.php:14
+msgid "Sumatera Barat"
+msgstr ""
+
+#: assets/states/ID.php:15
+msgid "Riau"
+msgstr ""
+
+#: assets/states/ID.php:16
+msgid "Kepulauan Riau"
+msgstr ""
+
+#: assets/states/ID.php:17
+msgid "Jambi"
+msgstr ""
+
+#: assets/states/ID.php:18
+msgid "Sumatera Selatan"
+msgstr ""
+
+#: assets/states/ID.php:19
+msgid "Bangka Belitung"
+msgstr ""
+
+#: assets/states/ID.php:20
+msgid "Bengkulu"
+msgstr ""
+
+#: assets/states/ID.php:21
+msgid "Lampung"
+msgstr ""
+
+#: assets/states/ID.php:22
+msgid "DKI Jakarta"
+msgstr ""
+
+#: assets/states/ID.php:23
+msgid "Jawa Barat"
+msgstr ""
+
+#: assets/states/ID.php:24
+msgid "Banten"
+msgstr ""
+
+#: assets/states/ID.php:25
+msgid "Jawa Tengah"
+msgstr ""
+
+#: assets/states/ID.php:26
+msgid "Jawa Timur"
+msgstr ""
+
+#: assets/states/ID.php:27
+msgid "Daerah Istimewa Yogyakarta"
+msgstr ""
+
+#: assets/states/ID.php:28
+msgid "Bali"
+msgstr ""
+
+#: assets/states/ID.php:29
+msgid "Nusa Tenggara Barat"
+msgstr ""
+
+#: assets/states/ID.php:30
+msgid "Nusa Tenggara Timur"
+msgstr ""
+
+#: assets/states/ID.php:31
+msgid "Kalimantan Barat"
+msgstr ""
+
+#: assets/states/ID.php:32
+msgid "Kalimantan Tengah"
+msgstr ""
+
+#: assets/states/ID.php:33
+msgid "Kalimantan Timur"
+msgstr ""
+
+#: assets/states/ID.php:34
+msgid "Kalimantan Selatan"
+msgstr ""
+
+#: assets/states/ID.php:35
+msgid "Kalimantan Utara"
+msgstr ""
+
+#: assets/states/ID.php:36
+msgid "Sulawesi Utara"
+msgstr ""
+
+#: assets/states/ID.php:37
+msgid "Sulawesi Tengah"
+msgstr ""
+
+#: assets/states/ID.php:38
+msgid "Sulawesi Tenggara"
+msgstr ""
+
+#: assets/states/ID.php:39
+msgid "Sulawesi Barat"
+msgstr ""
+
+#: assets/states/ID.php:40
+msgid "Sulawesi Selatan"
+msgstr ""
+
+#: assets/states/ID.php:41
+msgid "Gorontalo"
+msgstr ""
+
+#: assets/states/ID.php:42
+msgid "Maluku"
+msgstr ""
+
+#: assets/states/ID.php:43
+msgid "Maluku Utara"
+msgstr ""
+
+#: assets/states/ID.php:44
+msgid "Papua"
+msgstr ""
+
+#: assets/states/ID.php:45
+msgid "Papua Barat"
+msgstr ""
+
+#: assets/states/IE.php:12
+msgid "Carlow"
+msgstr ""
+
+#: assets/states/IE.php:13
+msgid "Cavan"
+msgstr ""
+
+#: assets/states/IE.php:14
+msgid "Clare"
+msgstr ""
+
+#: assets/states/IE.php:15
+msgid "Cork"
+msgstr ""
+
+#: assets/states/IE.php:16
+msgid "Donegal"
+msgstr ""
+
+#: assets/states/IE.php:17
+msgid "Dublin"
+msgstr ""
+
+#: assets/states/IE.php:18
+msgid "Galway"
+msgstr ""
+
+#: assets/states/IE.php:19
+msgid "Kerry"
+msgstr ""
+
+#: assets/states/IE.php:20
+msgid "Kildare"
+msgstr ""
+
+#: assets/states/IE.php:21
+msgid "Kilkenny"
+msgstr ""
+
+#: assets/states/IE.php:22
+msgid "Laois"
+msgstr ""
+
+#: assets/states/IE.php:23
+msgid "Leitrim"
+msgstr ""
+
+#: assets/states/IE.php:24
+msgid "Limerick"
+msgstr ""
+
+#: assets/states/IE.php:25
+msgid "Longford"
+msgstr ""
+
+#: assets/states/IE.php:26
+msgid "Louth"
+msgstr ""
+
+#: assets/states/IE.php:27
+msgid "Mayo"
+msgstr ""
+
+#: assets/states/IE.php:28
+msgid "Meath"
+msgstr ""
+
+#: assets/states/IE.php:29
+msgid "Monaghan"
+msgstr ""
+
+#: assets/states/IE.php:30
+msgid "Offaly"
+msgstr ""
+
+#: assets/states/IE.php:31
+msgid "Roscommon"
+msgstr ""
+
+#: assets/states/IE.php:32
+msgid "Sligo"
+msgstr ""
+
+#: assets/states/IE.php:33
+msgid "Tipperary"
+msgstr ""
+
+#: assets/states/IE.php:34
+msgid "Waterford"
+msgstr ""
+
+#: assets/states/IE.php:35
+msgid "Westmeath"
+msgstr ""
+
+#: assets/states/IE.php:36
+msgid "Wexford"
+msgstr ""
+
+#: assets/states/IE.php:37
+msgid "Wicklow"
+msgstr ""
+
+#: assets/states/IN.php:12
+msgid "Andhra Pradesh"
+msgstr ""
+
+#: assets/states/IN.php:13
+msgid "Arunachal Pradesh"
+msgstr ""
+
+#: assets/states/IN.php:14
+msgid "Assam"
+msgstr ""
+
+#: assets/states/IN.php:15
+msgid "Bihar"
+msgstr ""
+
+#: assets/states/IN.php:16
+msgid "Chhattisgarh"
+msgstr ""
+
+#: assets/states/IN.php:17
+msgid "Goa"
+msgstr ""
+
+#: assets/states/IN.php:18
+msgid "Gujarat"
+msgstr ""
+
+#: assets/states/IN.php:19
+msgid "Haryana"
+msgstr ""
+
+#: assets/states/IN.php:20
+msgid "Himachal Pradesh"
+msgstr ""
+
+#: assets/states/IN.php:21
+msgid "Jammu and Kashmir"
+msgstr ""
+
+#: assets/states/IN.php:22
+msgid "Jharkhand"
+msgstr ""
+
+#: assets/states/IN.php:23
+msgid "Karnataka"
+msgstr ""
+
+#: assets/states/IN.php:24
+msgid "Kerala"
+msgstr ""
+
+#: assets/states/IN.php:25
+msgid "Madhya Pradesh"
+msgstr ""
+
+#: assets/states/IN.php:26
+msgid "Maharashtra"
+msgstr ""
+
+#: assets/states/IN.php:27
+msgid "Manipur"
+msgstr ""
+
+#: assets/states/IN.php:28
+msgid "Meghalaya"
+msgstr ""
+
+#: assets/states/IN.php:29
+msgid "Mizoram"
+msgstr ""
+
+#: assets/states/IN.php:30
+msgid "Nagaland"
+msgstr ""
+
+#: assets/states/IN.php:31
+msgid "Orissa"
+msgstr ""
+
+#: assets/states/IN.php:32 assets/states/PK.php:17
+msgid "Punjab"
+msgstr ""
+
+#: assets/states/IN.php:33
+msgid "Rajasthan"
+msgstr ""
+
+#: assets/states/IN.php:34
+msgid "Sikkim"
+msgstr ""
+
+#: assets/states/IN.php:35
+msgid "Tamil Nadu"
+msgstr ""
+
+#: assets/states/IN.php:36
+msgid "Telangana"
+msgstr ""
+
+#: assets/states/IN.php:37
+msgid "Tripura"
+msgstr ""
+
+#: assets/states/IN.php:38
+msgid "Uttarakhand"
+msgstr ""
+
+#: assets/states/IN.php:39
+msgid "Uttar Pradesh"
+msgstr ""
+
+#: assets/states/IN.php:40
+msgid "West Bengal"
+msgstr ""
+
+#: assets/states/IN.php:41
+msgid "Andaman and Nicobar Islands"
+msgstr ""
+
+#: assets/states/IN.php:42
+msgid "Chandigarh"
+msgstr ""
+
+#: assets/states/IN.php:43
+msgid "Dadra and Nagar Haveli"
+msgstr ""
+
+#: assets/states/IN.php:44
+msgid "Daman and Diu"
+msgstr ""
+
+#: assets/states/IN.php:45
+msgid "Delhi"
+msgstr ""
+
+#: assets/states/IN.php:46
+msgid "Lakshadeep"
+msgstr ""
+
+#: assets/states/IN.php:47
+msgid "Pondicherry (Puducherry)"
+msgstr ""
+
+#: assets/states/IR.php:12
+msgid "Khuzestan  (خوزستان)"
+msgstr ""
+
+#: assets/states/IR.php:13
+msgid "Tehran  (تهران)"
+msgstr ""
+
+#: assets/states/IR.php:14
+msgid "Ilaam (ایلام)"
+msgstr ""
+
+#: assets/states/IR.php:15
+msgid "Bushehr (بوشهر)"
+msgstr ""
+
+#: assets/states/IR.php:16
+msgid "Ardabil (اردبیل)"
+msgstr ""
+
+#: assets/states/IR.php:17
+msgid "Isfahan (اصفهان)"
+msgstr ""
+
+#: assets/states/IR.php:18
+msgid "Yazd (یزد)"
+msgstr ""
+
+#: assets/states/IR.php:19
+msgid "Kermanshah (کرمانشاه)"
+msgstr ""
+
+#: assets/states/IR.php:20
+msgid "Kerman (کرمان)"
+msgstr ""
+
+#: assets/states/IR.php:21
+msgid "Hamadan (همدان)"
+msgstr ""
+
+#: assets/states/IR.php:22
+msgid "Ghazvin (قزوین)"
+msgstr ""
+
+#: assets/states/IR.php:23
+msgid "Zanjan (زنجان)"
+msgstr ""
+
+#: assets/states/IR.php:24
+msgid "Luristan (لرستان)"
+msgstr ""
+
+#: assets/states/IR.php:25
+msgid "Alborz (البرز)"
+msgstr ""
+
+#: assets/states/IR.php:26
+msgid "East Azarbaijan (آذربایجان شرقی)"
+msgstr ""
+
+#: assets/states/IR.php:27
+msgid "West Azarbaijan (آذربایجان غربی)"
+msgstr ""
+
+#: assets/states/IR.php:28
+msgid "Chaharmahal and Bakhtiari (چهارمحال و بختیاری)"
+msgstr ""
+
+#: assets/states/IR.php:29
+msgid "South Khorasan (خراسان جنوبی)"
+msgstr ""
+
+#: assets/states/IR.php:30
+msgid "Razavi Khorasan (خراسان رضوی)"
+msgstr ""
+
+#: assets/states/IR.php:31
+msgid "North Khorasan (خراسان جنوبی)"
+msgstr ""
+
+#: assets/states/IR.php:32
+msgid "Semnan (سمنان)"
+msgstr ""
+
+#: assets/states/IR.php:33
+msgid "Fars (فارس)"
+msgstr ""
+
+#: assets/states/IR.php:34
+msgid "Qom (قم)"
+msgstr ""
+
+#: assets/states/IR.php:35
+msgid "Kurdistan / کردستان)"
+msgstr ""
+
+#: assets/states/IR.php:36
+msgid "Kohgiluyeh and BoyerAhmad (کهگیلوییه و بویراحمد)"
+msgstr ""
+
+#: assets/states/IR.php:37
+msgid "Golestan (گلستان)"
+msgstr ""
+
+#: assets/states/IR.php:38
+msgid "Gilan (گیلان)"
+msgstr ""
+
+#: assets/states/IR.php:39
+msgid "Mazandaran (مازندران)"
+msgstr ""
+
+#: assets/states/IR.php:40
+msgid "Markazi (مرکزی)"
+msgstr ""
+
+#: assets/states/IR.php:41
+msgid "Hormozgan (هرمزگان)"
+msgstr ""
+
+#: assets/states/IR.php:42
+msgid "Sistan and Baluchestan (سیستان و بلوچستان)"
+msgstr ""
+
+#: assets/states/IT.php:12
+msgid "Agrigento"
+msgstr ""
+
+#: assets/states/IT.php:13
+msgid "Alessandria"
+msgstr ""
+
+#: assets/states/IT.php:14
+msgid "Ancona"
+msgstr ""
+
+#: assets/states/IT.php:15
+msgid "Aosta"
+msgstr ""
+
+#: assets/states/IT.php:16
+msgid "Arezzo"
+msgstr ""
+
+#: assets/states/IT.php:17
+msgid "Ascoli Piceno"
+msgstr ""
+
+#: assets/states/IT.php:18
+msgid "Asti"
+msgstr ""
+
+#: assets/states/IT.php:19
+msgid "Avellino"
+msgstr ""
+
+#: assets/states/IT.php:20
+msgid "Bari"
+msgstr ""
+
+#: assets/states/IT.php:21
+msgid "Barletta-Andria-Trani"
+msgstr ""
+
+#: assets/states/IT.php:22
+msgid "Belluno"
+msgstr ""
+
+#: assets/states/IT.php:23
+msgid "Benevento"
+msgstr ""
+
+#: assets/states/IT.php:24
+msgid "Bergamo"
+msgstr ""
+
+#: assets/states/IT.php:25
+msgid "Biella"
+msgstr ""
+
+#: assets/states/IT.php:26
+msgid "Bologna"
+msgstr ""
+
+#: assets/states/IT.php:27
+msgid "Bolzano"
+msgstr ""
+
+#: assets/states/IT.php:28
+msgid "Brescia"
+msgstr ""
+
+#: assets/states/IT.php:29
+msgid "Brindisi"
+msgstr ""
+
+#: assets/states/IT.php:30
+msgid "Cagliari"
+msgstr ""
+
+#: assets/states/IT.php:31
+msgid "Caltanissetta"
+msgstr ""
+
+#: assets/states/IT.php:32
+msgid "Campobasso"
+msgstr ""
+
+#: assets/states/IT.php:33
+msgid "Carbonia-Iglesias"
+msgstr ""
+
+#: assets/states/IT.php:34
+msgid "Caserta"
+msgstr ""
+
+#: assets/states/IT.php:35
+msgid "Catania"
+msgstr ""
+
+#: assets/states/IT.php:36
+msgid "Catanzaro"
+msgstr ""
+
+#: assets/states/IT.php:37
+msgid "Chieti"
+msgstr ""
+
+#: assets/states/IT.php:38
+msgid "Como"
+msgstr ""
+
+#: assets/states/IT.php:39
+msgid "Cosenza"
+msgstr ""
+
+#: assets/states/IT.php:40
+msgid "Cremona"
+msgstr ""
+
+#: assets/states/IT.php:41
+msgid "Crotone"
+msgstr ""
+
+#: assets/states/IT.php:42
+msgid "Cuneo"
+msgstr ""
+
+#: assets/states/IT.php:43
+msgid "Enna"
+msgstr ""
+
+#: assets/states/IT.php:44
+msgid "Fermo"
+msgstr ""
+
+#: assets/states/IT.php:45
+msgid "Ferrara"
+msgstr ""
+
+#: assets/states/IT.php:46
+msgid "Firenze"
+msgstr ""
+
+#: assets/states/IT.php:47
+msgid "Foggia"
+msgstr ""
+
+#: assets/states/IT.php:48
+msgid "Forlì-Cesena"
+msgstr ""
+
+#: assets/states/IT.php:49
+msgid "Frosinone"
+msgstr ""
+
+#: assets/states/IT.php:50
+msgid "Genova"
+msgstr ""
+
+#: assets/states/IT.php:51
+msgid "Gorizia"
+msgstr ""
+
+#: assets/states/IT.php:52
+msgid "Grosseto"
+msgstr ""
+
+#: assets/states/IT.php:53
+msgid "Imperia"
+msgstr ""
+
+#: assets/states/IT.php:54
+msgid "Isernia"
+msgstr ""
+
+#: assets/states/IT.php:55
+msgid "La Spezia"
+msgstr ""
+
+#: assets/states/IT.php:56
+msgid "L'Aquila"
+msgstr ""
+
+#: assets/states/IT.php:57
+msgid "Latina"
+msgstr ""
+
+#: assets/states/IT.php:58
+msgid "Lecce"
+msgstr ""
+
+#: assets/states/IT.php:59
+msgid "Lecco"
+msgstr ""
+
+#: assets/states/IT.php:60
+msgid "Livorno"
+msgstr ""
+
+#: assets/states/IT.php:61
+msgid "Lodi"
+msgstr ""
+
+#: assets/states/IT.php:62
+msgid "Lucca"
+msgstr ""
+
+#: assets/states/IT.php:63
+msgid "Macerata"
+msgstr ""
+
+#: assets/states/IT.php:64
+msgid "Mantova"
+msgstr ""
+
+#: assets/states/IT.php:65
+msgid "Massa-Carrara"
+msgstr ""
+
+#: assets/states/IT.php:66
+msgid "Matera"
+msgstr ""
+
+#: assets/states/IT.php:67
+msgid "Messina"
+msgstr ""
+
+#: assets/states/IT.php:68
+msgid "Milano"
+msgstr ""
+
+#: assets/states/IT.php:69
+msgid "Modena"
+msgstr ""
+
+#: assets/states/IT.php:70
+msgid "Monza e della Brianza"
+msgstr ""
+
+#: assets/states/IT.php:71
+msgid "Napoli"
+msgstr ""
+
+#: assets/states/IT.php:72
+msgid "Novara"
+msgstr ""
+
+#: assets/states/IT.php:73
+msgid "Nuoro"
+msgstr ""
+
+#: assets/states/IT.php:74
+msgid "Olbia-Tempio"
+msgstr ""
+
+#: assets/states/IT.php:75
+msgid "Oristano"
+msgstr ""
+
+#: assets/states/IT.php:76
+msgid "Padova"
+msgstr ""
+
+#: assets/states/IT.php:77
+msgid "Palermo"
+msgstr ""
+
+#: assets/states/IT.php:78
+msgid "Parma"
+msgstr ""
+
+#: assets/states/IT.php:79
+msgid "Pavia"
+msgstr ""
+
+#: assets/states/IT.php:80
+msgid "Perugia"
+msgstr ""
+
+#: assets/states/IT.php:81
+msgid "Pesaro e Urbino"
+msgstr ""
+
+#: assets/states/IT.php:82
+msgid "Pescara"
+msgstr ""
+
+#: assets/states/IT.php:83
+msgid "Piacenza"
+msgstr ""
+
+#: assets/states/IT.php:84
+msgid "Pisa"
+msgstr ""
+
+#: assets/states/IT.php:85
+msgid "Pistoia"
+msgstr ""
+
+#: assets/states/IT.php:86
+msgid "Pordenone"
+msgstr ""
+
+#: assets/states/IT.php:87
+msgid "Potenza"
+msgstr ""
+
+#: assets/states/IT.php:88
+msgid "Prato"
+msgstr ""
+
+#: assets/states/IT.php:89
+msgid "Ragusa"
+msgstr ""
+
+#: assets/states/IT.php:90
+msgid "Ravenna"
+msgstr ""
+
+#: assets/states/IT.php:91
+msgid "Reggio Calabria"
+msgstr ""
+
+#: assets/states/IT.php:92
+msgid "Reggio Emilia"
+msgstr ""
+
+#: assets/states/IT.php:93
+msgid "Rieti"
+msgstr ""
+
+#: assets/states/IT.php:94
+msgid "Rimini"
+msgstr ""
+
+#: assets/states/IT.php:95
+msgid "Roma"
+msgstr ""
+
+#: assets/states/IT.php:96
+msgid "Rovigo"
+msgstr ""
+
+#: assets/states/IT.php:97
+msgid "Salerno"
+msgstr ""
+
+#: assets/states/IT.php:98
+msgid "Medio Campidano"
+msgstr ""
+
+#: assets/states/IT.php:99
+msgid "Sassari"
+msgstr ""
+
+#: assets/states/IT.php:100
+msgid "Savona"
+msgstr ""
+
+#: assets/states/IT.php:101
+msgid "Siena"
+msgstr ""
+
+#: assets/states/IT.php:102
+msgid "Siracusa"
+msgstr ""
+
+#: assets/states/IT.php:103
+msgid "Sondrio"
+msgstr ""
+
+#: assets/states/IT.php:104
+msgid "Taranto"
+msgstr ""
+
+#: assets/states/IT.php:105
+msgid "Teramo"
+msgstr ""
+
+#: assets/states/IT.php:106
+msgid "Terni"
+msgstr ""
+
+#: assets/states/IT.php:107
+msgid "Torino"
+msgstr ""
+
+#: assets/states/IT.php:108
+msgid "Ogliastra"
+msgstr ""
+
+#: assets/states/IT.php:109
+msgid "Trapani"
+msgstr ""
+
+#: assets/states/IT.php:110
+msgid "Trento"
+msgstr ""
+
+#: assets/states/IT.php:111
+msgid "Treviso"
+msgstr ""
+
+#: assets/states/IT.php:112
+msgid "Trieste"
+msgstr ""
+
+#: assets/states/IT.php:113
+msgid "Udine"
+msgstr ""
+
+#: assets/states/IT.php:114
+msgid "Varese"
+msgstr ""
+
+#: assets/states/IT.php:115
+msgid "Venezia"
+msgstr ""
+
+#: assets/states/IT.php:116
+msgid "Verbano-Cusio-Ossola"
+msgstr ""
+
+#: assets/states/IT.php:117
+msgid "Vercelli"
+msgstr ""
+
+#: assets/states/IT.php:118
+msgid "Verona"
+msgstr ""
+
+#: assets/states/IT.php:119
+msgid "Vibo Valentia"
+msgstr ""
+
+#: assets/states/IT.php:120
+msgid "Vicenza"
+msgstr ""
+
+#: assets/states/IT.php:121
+msgid "Viterbo"
+msgstr ""
+
+#: assets/states/JP.php:12
+msgid "Hokkaido"
+msgstr ""
+
+#: assets/states/JP.php:13
+msgid "Aomori"
+msgstr ""
+
+#: assets/states/JP.php:14
+msgid "Iwate"
+msgstr ""
+
+#: assets/states/JP.php:15
+msgid "Miyagi"
+msgstr ""
+
+#: assets/states/JP.php:16
+msgid "Akita"
+msgstr ""
+
+#: assets/states/JP.php:17
+msgid "Yamagata"
+msgstr ""
+
+#: assets/states/JP.php:18
+msgid "Fukushima"
+msgstr ""
+
+#: assets/states/JP.php:19
+msgid "Ibaraki"
+msgstr ""
+
+#: assets/states/JP.php:20
+msgid "Tochigi"
+msgstr ""
+
+#: assets/states/JP.php:21
+msgid "Gunma"
+msgstr ""
+
+#: assets/states/JP.php:22
+msgid "Saitama"
+msgstr ""
+
+#: assets/states/JP.php:23
+msgid "Chiba"
+msgstr ""
+
+#: assets/states/JP.php:24
+msgid "Tokyo"
+msgstr ""
+
+#: assets/states/JP.php:25
+msgid "Kanagawa"
+msgstr ""
+
+#: assets/states/JP.php:26
+msgid "Niigata"
+msgstr ""
+
+#: assets/states/JP.php:27
+msgid "Toyama"
+msgstr ""
+
+#: assets/states/JP.php:28
+msgid "Ishikawa"
+msgstr ""
+
+#: assets/states/JP.php:29
+msgid "Fukui"
+msgstr ""
+
+#: assets/states/JP.php:30
+msgid "Yamanashi"
+msgstr ""
+
+#: assets/states/JP.php:31
+msgid "Nagano"
+msgstr ""
+
+#: assets/states/JP.php:32
+msgid "Gifu"
+msgstr ""
+
+#: assets/states/JP.php:33
+msgid "Shizuoka"
+msgstr ""
+
+#: assets/states/JP.php:34
+msgid "Aichi"
+msgstr ""
+
+#: assets/states/JP.php:35
+msgid "Mie"
+msgstr ""
+
+#: assets/states/JP.php:36
+msgid "Shiga"
+msgstr ""
+
+#: assets/states/JP.php:37
+msgid "Kyoto"
+msgstr ""
+
+#: assets/states/JP.php:38
+msgid "Osaka"
+msgstr ""
+
+#: assets/states/JP.php:39
+msgid "Hyogo"
+msgstr ""
+
+#: assets/states/JP.php:40
+msgid "Nara"
+msgstr ""
+
+#: assets/states/JP.php:41
+msgid "Wakayama"
+msgstr ""
+
+#: assets/states/JP.php:42
+msgid "Tottori"
+msgstr ""
+
+#: assets/states/JP.php:43
+msgid "Shimane"
+msgstr ""
+
+#: assets/states/JP.php:44
+msgid "Okayama"
+msgstr ""
+
+#: assets/states/JP.php:45
+msgid "Hiroshima"
+msgstr ""
+
+#: assets/states/JP.php:46
+msgid "Yamaguchi"
+msgstr ""
+
+#: assets/states/JP.php:47
+msgid "Tokushima"
+msgstr ""
+
+#: assets/states/JP.php:48
+msgid "Kagawa"
+msgstr ""
+
+#: assets/states/JP.php:49
+msgid "Ehime"
+msgstr ""
+
+#: assets/states/JP.php:50
+msgid "Kochi"
+msgstr ""
+
+#: assets/states/JP.php:51
+msgid "Fukuoka"
+msgstr ""
+
+#: assets/states/JP.php:52
+msgid "Saga"
+msgstr ""
+
+#: assets/states/JP.php:53
+msgid "Nagasaki"
+msgstr ""
+
+#: assets/states/JP.php:54
+msgid "Kumamoto"
+msgstr ""
+
+#: assets/states/JP.php:55
+msgid "Oita"
+msgstr ""
+
+#: assets/states/JP.php:56
+msgid "Miyazaki"
+msgstr ""
+
+#: assets/states/JP.php:57
+msgid "Kagoshima"
+msgstr ""
+
+#: assets/states/JP.php:58
+msgid "Okinawa"
+msgstr ""
+
+#: assets/states/MD.php:12
+msgid "Chi&#537;in&#259;u"
+msgstr ""
+
+#: assets/states/MD.php:13
+msgid "B&#259;l&#539;i"
+msgstr ""
+
+#: assets/states/MD.php:14
+msgid "Anenii Noi"
+msgstr ""
+
+#: assets/states/MD.php:15
+msgid "Basarabeasca"
+msgstr ""
+
+#: assets/states/MD.php:16
+msgid "Briceni"
+msgstr ""
+
+#: assets/states/MD.php:17
+msgid "Cahul"
+msgstr ""
+
+#: assets/states/MD.php:18
+msgid "Cantemir"
+msgstr ""
+
+#: assets/states/MD.php:19 assets/states/RO.php:22
+msgid "C&#259;l&#259;ra&#537;i"
+msgstr ""
+
+#: assets/states/MD.php:20
+msgid "C&#259;u&#537;eni"
+msgstr ""
+
+#: assets/states/MD.php:21
+msgid "Cimi&#537;lia"
+msgstr ""
+
+#: assets/states/MD.php:22
+msgid "Criuleni"
+msgstr ""
+
+#: assets/states/MD.php:23
+msgid "Dondu&#537;eni"
+msgstr ""
+
+#: assets/states/MD.php:24
+msgid "Drochia"
+msgstr ""
+
+#: assets/states/MD.php:25
+msgid "Dub&#259;sari"
+msgstr ""
+
+#: assets/states/MD.php:26
+msgid "Edine&#539;"
+msgstr ""
+
+#: assets/states/MD.php:27
+msgid "F&#259;le&#537;ti"
+msgstr ""
+
+#: assets/states/MD.php:28
+msgid "Flore&#537;ti"
+msgstr ""
+
+#: assets/states/MD.php:29
+msgid "UTA G&#259;g&#259;uzia"
+msgstr ""
+
+#: assets/states/MD.php:30
+msgid "Glodeni"
+msgstr ""
+
+#: assets/states/MD.php:31
+msgid "H&icirc;nce&#537;ti"
+msgstr ""
+
+#: assets/states/MD.php:32
+msgid "Ialoveni"
+msgstr ""
+
+#: assets/states/MD.php:33
+msgid "Leova"
+msgstr ""
+
+#: assets/states/MD.php:34
+msgid "Nisporeni"
+msgstr ""
+
+#: assets/states/MD.php:35
+msgid "Ocni&#539;a"
+msgstr ""
+
+#: assets/states/MD.php:36
+msgid "Orhei"
+msgstr ""
+
+#: assets/states/MD.php:37
+msgid "Rezina"
+msgstr ""
+
+#: assets/states/MD.php:38
+msgid "R&icirc;&#537;cani"
+msgstr ""
+
+#: assets/states/MD.php:39
+msgid "S&icirc;ngerei"
+msgstr ""
+
+#: assets/states/MD.php:40
+msgid "Soroca"
+msgstr ""
+
+#: assets/states/MD.php:41
+msgid "Str&#259;&#537;eni"
+msgstr ""
+
+#: assets/states/MD.php:42
+msgid "&#536;old&#259;ne&#537;ti"
+msgstr ""
+
+#: assets/states/MD.php:43
+msgid "&#536;tefan Vod&#259;"
+msgstr ""
+
+#: assets/states/MD.php:44
+msgid "Taraclia"
+msgstr ""
+
+#: assets/states/MD.php:45
+msgid "Telene&#537;ti"
+msgstr ""
+
+#: assets/states/MD.php:46
+msgid "Ungheni"
+msgstr ""
+
+#: assets/states/MX.php:12
+msgid "Ciudad de M&eacute;xico"
+msgstr ""
+
+#: assets/states/MX.php:13
+msgid "Jalisco"
+msgstr ""
+
+#: assets/states/MX.php:14
+msgid "Nuevo Le&oacute;n"
+msgstr ""
+
+#: assets/states/MX.php:15
+msgid "Aguascalientes"
+msgstr ""
+
+#: assets/states/MX.php:16
+msgid "Baja California"
+msgstr ""
+
+#: assets/states/MX.php:17
+msgid "Baja California Sur"
+msgstr ""
+
+#: assets/states/MX.php:18
+msgid "Campeche"
+msgstr ""
+
+#: assets/states/MX.php:19
+msgid "Chiapas"
+msgstr ""
+
+#: assets/states/MX.php:20
+msgid "Chihuahua"
+msgstr ""
+
+#: assets/states/MX.php:21
+msgid "Coahuila"
+msgstr ""
+
+#: assets/states/MX.php:22
+msgid "Colima"
+msgstr ""
+
+#: assets/states/MX.php:23
+msgid "Durango"
+msgstr ""
+
+#: assets/states/MX.php:24
+msgid "Guanajuato"
+msgstr ""
+
+#: assets/states/MX.php:25
+msgid "Guerrero"
+msgstr ""
+
+#: assets/states/MX.php:26
+msgid "Hidalgo"
+msgstr ""
+
+#: assets/states/MX.php:27
+msgid "Estado de M&eacute;xico"
+msgstr ""
+
+#: assets/states/MX.php:28
+msgid "Michoac&aacute;n"
+msgstr ""
+
+#: assets/states/MX.php:29
+msgid "Morelos"
+msgstr ""
+
+#: assets/states/MX.php:30
+msgid "Nayarit"
+msgstr ""
+
+#: assets/states/MX.php:31
+msgid "Oaxaca"
+msgstr ""
+
+#: assets/states/MX.php:32
+msgid "Puebla"
+msgstr ""
+
+#: assets/states/MX.php:33
+msgid "Quer&eacute;taro"
+msgstr ""
+
+#: assets/states/MX.php:34
+msgid "Quintana Roo"
+msgstr ""
+
+#: assets/states/MX.php:35
+msgid "San Luis Potos&iacute;"
+msgstr ""
+
+#: assets/states/MX.php:36
+msgid "Sinaloa"
+msgstr ""
+
+#: assets/states/MX.php:37
+msgid "Sonora"
+msgstr ""
+
+#: assets/states/MX.php:38
+msgid "Tabasco"
+msgstr ""
+
+#: assets/states/MX.php:39
+msgid "Tamaulipas"
+msgstr ""
+
+#: assets/states/MX.php:40
+msgid "Tlaxcala"
+msgstr ""
+
+#: assets/states/MX.php:41
+msgid "Veracruz"
+msgstr ""
+
+#: assets/states/MX.php:42
+msgid "Yucat&aacute;n"
+msgstr ""
+
+#: assets/states/MX.php:43
+msgid "Zacatecas"
+msgstr ""
+
+#: assets/states/MY.php:11
+msgid "Johor"
+msgstr ""
+
+#: assets/states/MY.php:12
+msgid "Kedah"
+msgstr ""
+
+#: assets/states/MY.php:13
+msgid "Kelantan"
+msgstr ""
+
+#: assets/states/MY.php:14
+msgid "Labuan"
+msgstr ""
+
+#: assets/states/MY.php:15
+msgid "Malacca (Melaka)"
+msgstr ""
+
+#: assets/states/MY.php:16
+msgid "Negeri Sembilan"
+msgstr ""
+
+#: assets/states/MY.php:17
+msgid "Pahang"
+msgstr ""
+
+#: assets/states/MY.php:18
+msgid "Penang (Pulau Pinang)"
+msgstr ""
+
+#: assets/states/MY.php:19
+msgid "Perak"
+msgstr ""
+
+#: assets/states/MY.php:20
+msgid "Perlis"
+msgstr ""
+
+#: assets/states/MY.php:21
+msgid "Sabah"
+msgstr ""
+
+#: assets/states/MY.php:22
+msgid "Sarawak"
+msgstr ""
+
+#: assets/states/MY.php:23
+msgid "Selangor"
+msgstr ""
+
+#: assets/states/MY.php:24
+msgid "Terengganu"
+msgstr ""
+
+#: assets/states/MY.php:25
+msgid "Putrajaya"
+msgstr ""
+
+#: assets/states/MY.php:26
+msgid "Kuala Lumpur"
+msgstr ""
+
+#: assets/states/NG.php:11
+msgid "Abia"
+msgstr ""
+
+#: assets/states/NG.php:12
+msgid "Abuja"
+msgstr ""
+
+#: assets/states/NG.php:13
+msgid "Adamawa"
+msgstr ""
+
+#: assets/states/NG.php:14
+msgid "Akwa Ibom"
+msgstr ""
+
+#: assets/states/NG.php:15
+msgid "Anambra"
+msgstr ""
+
+#: assets/states/NG.php:16
+msgid "Bauchi"
+msgstr ""
+
+#: assets/states/NG.php:17
+msgid "Bayelsa"
+msgstr ""
+
+#: assets/states/NG.php:18
+msgid "Benue"
+msgstr ""
+
+#: assets/states/NG.php:19
+msgid "Borno"
+msgstr ""
+
+#: assets/states/NG.php:20
+msgid "Cross River"
+msgstr ""
+
+#: assets/states/NG.php:21
+msgid "Delta"
+msgstr ""
+
+#: assets/states/NG.php:22
+msgid "Ebonyi"
+msgstr ""
+
+#: assets/states/NG.php:23
+msgid "Edo"
+msgstr ""
+
+#: assets/states/NG.php:24
+msgid "Ekiti"
+msgstr ""
+
+#: assets/states/NG.php:25
+msgid "Enugu"
+msgstr ""
+
+#: assets/states/NG.php:26
+msgid "Gombe"
+msgstr ""
+
+#: assets/states/NG.php:27
+msgid "Imo"
+msgstr ""
+
+#: assets/states/NG.php:28
+msgid "Jigawa"
+msgstr ""
+
+#: assets/states/NG.php:29
+msgid "Kaduna"
+msgstr ""
+
+#: assets/states/NG.php:30
+msgid "Kano"
+msgstr ""
+
+#: assets/states/NG.php:31
+msgid "Katsina"
+msgstr ""
+
+#: assets/states/NG.php:32
+msgid "Kebbi"
+msgstr ""
+
+#: assets/states/NG.php:33
+msgid "Kogi"
+msgstr ""
+
+#: assets/states/NG.php:34
+msgid "Kwara"
+msgstr ""
+
+#: assets/states/NG.php:35
+msgid "Lagos"
+msgstr ""
+
+#: assets/states/NG.php:36
+msgid "Nasarawa"
+msgstr ""
+
+#: assets/states/NG.php:38
+msgid "Ogun"
+msgstr ""
+
+#: assets/states/NG.php:39
+msgid "Ondo"
+msgstr ""
+
+#: assets/states/NG.php:40
+msgid "Osun"
+msgstr ""
+
+#: assets/states/NG.php:41
+msgid "Oyo"
+msgstr ""
+
+#: assets/states/NG.php:42
+msgid "Plateau"
+msgstr ""
+
+#: assets/states/NG.php:43
+msgid "Rivers"
+msgstr ""
+
+#: assets/states/NG.php:44
+msgid "Sokoto"
+msgstr ""
+
+#: assets/states/NG.php:45
+msgid "Taraba"
+msgstr ""
+
+#: assets/states/NG.php:46
+msgid "Yobe"
+msgstr ""
+
+#: assets/states/NG.php:47
+msgid "Zamfara"
+msgstr ""
+
+#: assets/states/NP.php:11
+msgid "Bagmati"
+msgstr ""
+
+#: assets/states/NP.php:12
+msgid "Bheri"
+msgstr ""
+
+#: assets/states/NP.php:13
+msgid "Dhaulagiri"
+msgstr ""
+
+#: assets/states/NP.php:14
+msgid "Gandaki"
+msgstr ""
+
+#: assets/states/NP.php:15
+msgid "Janakpur"
+msgstr ""
+
+#: assets/states/NP.php:16
+msgid "Karnali"
+msgstr ""
+
+#: assets/states/NP.php:17
+msgid "Koshi"
+msgstr ""
+
+#: assets/states/NP.php:18
+msgid "Lumbini"
+msgstr ""
+
+#: assets/states/NP.php:19
+msgid "Mahakali"
+msgstr ""
+
+#: assets/states/NP.php:20
+msgid "Mechi"
+msgstr ""
+
+#: assets/states/NP.php:21
+msgid "Narayani"
+msgstr ""
+
+#: assets/states/NP.php:22
+msgid "Rapti"
+msgstr ""
+
+#: assets/states/NP.php:23
+msgid "Sagarmatha"
+msgstr ""
+
+#: assets/states/NP.php:24
+msgid "Seti"
+msgstr ""
+
+#: assets/states/NZ.php:11
+msgid "Northland"
+msgstr ""
+
+#: assets/states/NZ.php:12
+msgid "Auckland"
+msgstr ""
+
+#: assets/states/NZ.php:13
+msgid "Waikato"
+msgstr ""
+
+#: assets/states/NZ.php:14
+msgid "Bay of Plenty"
+msgstr ""
+
+#: assets/states/NZ.php:15
+msgid "Taranaki"
+msgstr ""
+
+#: assets/states/NZ.php:16
+msgid "Gisborne"
+msgstr ""
+
+#: assets/states/NZ.php:17
+msgid "Hawke&rsquo;s Bay"
+msgstr ""
+
+#: assets/states/NZ.php:18
+msgid "Manawatu-Wanganui"
+msgstr ""
+
+#: assets/states/NZ.php:19
+msgid "Wellington"
+msgstr ""
+
+#: assets/states/NZ.php:20
+msgid "Nelson"
+msgstr ""
+
+#: assets/states/NZ.php:21
+msgid "Marlborough"
+msgstr ""
+
+#: assets/states/NZ.php:22
+msgid "Tasman"
+msgstr ""
+
+#: assets/states/NZ.php:23
+msgid "West Coast"
+msgstr ""
+
+#: assets/states/NZ.php:24
+msgid "Canterbury"
+msgstr ""
+
+#: assets/states/NZ.php:25
+msgid "Otago"
+msgstr ""
+
+#: assets/states/NZ.php:26
+msgid "Southland"
+msgstr ""
+
+#: assets/states/PE.php:11
+msgid "El Callao"
+msgstr ""
+
+#: assets/states/PE.php:12
+msgid "Municipalidad Metropolitana de Lima"
+msgstr ""
+
+#: assets/states/PE.php:14
+msgid "Ancash"
+msgstr ""
+
+#: assets/states/PE.php:15
+msgid "Apur&iacute;mac"
+msgstr ""
+
+#: assets/states/PE.php:16
+msgid "Arequipa"
+msgstr ""
+
+#: assets/states/PE.php:17
+msgid "Ayacucho"
+msgstr ""
+
+#: assets/states/PE.php:18
+msgid "Cajamarca"
+msgstr ""
+
+#: assets/states/PE.php:19
+msgid "Cusco"
+msgstr ""
+
+#: assets/states/PE.php:20
+msgid "Huancavelica"
+msgstr ""
+
+#: assets/states/PE.php:21
+msgid "Hu&aacute;nuco"
+msgstr ""
+
+#: assets/states/PE.php:22
+msgid "Ica"
+msgstr ""
+
+#: assets/states/PE.php:23
+msgid "Jun&iacute;n"
+msgstr ""
+
+#: assets/states/PE.php:24
+msgid "La Libertad"
+msgstr ""
+
+#: assets/states/PE.php:25
+msgid "Lambayeque"
+msgstr ""
+
+#: assets/states/PE.php:26
+msgid "Lima"
+msgstr ""
+
+#: assets/states/PE.php:27
+msgid "Loreto"
+msgstr ""
+
+#: assets/states/PE.php:28
+msgid "Madre de Dios"
+msgstr ""
+
+#: assets/states/PE.php:29
+msgid "Moquegua"
+msgstr ""
+
+#: assets/states/PE.php:30
+msgid "Pasco"
+msgstr ""
+
+#: assets/states/PE.php:31
+msgid "Piura"
+msgstr ""
+
+#: assets/states/PE.php:32
+msgid "Puno"
+msgstr ""
+
+#: assets/states/PE.php:33
+msgid "San Mart&iacute;n"
+msgstr ""
+
+#: assets/states/PE.php:34
+msgid "Tacna"
+msgstr ""
+
+#: assets/states/PE.php:35
+msgid "Tumbes"
+msgstr ""
+
+#: assets/states/PE.php:36
+msgid "Ucayali"
+msgstr ""
+
+#: assets/states/PH.php:11
+msgid "Abra"
+msgstr ""
+
+#: assets/states/PH.php:12
+msgid "Agusan del Norte"
+msgstr ""
+
+#: assets/states/PH.php:13
+msgid "Agusan del Sur"
+msgstr ""
+
+#: assets/states/PH.php:14
+msgid "Aklan"
+msgstr ""
+
+#: assets/states/PH.php:15
+msgid "Albay"
+msgstr ""
+
+#: assets/states/PH.php:16
+msgid "Antique"
+msgstr ""
+
+#: assets/states/PH.php:17
+msgid "Apayao"
+msgstr ""
+
+#: assets/states/PH.php:18
+msgid "Aurora"
+msgstr ""
+
+#: assets/states/PH.php:19
+msgid "Basilan"
+msgstr ""
+
+#: assets/states/PH.php:20
+msgid "Bataan"
+msgstr ""
+
+#: assets/states/PH.php:21
+msgid "Batanes"
+msgstr ""
+
+#: assets/states/PH.php:22
+msgid "Batangas"
+msgstr ""
+
+#: assets/states/PH.php:23
+msgid "Benguet"
+msgstr ""
+
+#: assets/states/PH.php:24
+msgid "Biliran"
+msgstr ""
+
+#: assets/states/PH.php:25
+msgid "Bohol"
+msgstr ""
+
+#: assets/states/PH.php:26
+msgid "Bukidnon"
+msgstr ""
+
+#: assets/states/PH.php:27
+msgid "Bulacan"
+msgstr ""
+
+#: assets/states/PH.php:28
+msgid "Cagayan"
+msgstr ""
+
+#: assets/states/PH.php:29
+msgid "Camarines Norte"
+msgstr ""
+
+#: assets/states/PH.php:30
+msgid "Camarines Sur"
+msgstr ""
+
+#: assets/states/PH.php:31
+msgid "Camiguin"
+msgstr ""
+
+#: assets/states/PH.php:32
+msgid "Capiz"
+msgstr ""
+
+#: assets/states/PH.php:33
+msgid "Catanduanes"
+msgstr ""
+
+#: assets/states/PH.php:34
+msgid "Cavite"
+msgstr ""
+
+#: assets/states/PH.php:35
+msgid "Cebu"
+msgstr ""
+
+#: assets/states/PH.php:36
+msgid "Compostela Valley"
+msgstr ""
+
+#: assets/states/PH.php:37
+msgid "Cotabato"
+msgstr ""
+
+#: assets/states/PH.php:38
+msgid "Davao del Norte"
+msgstr ""
+
+#: assets/states/PH.php:39
+msgid "Davao del Sur"
+msgstr ""
+
+#: assets/states/PH.php:40
+msgid "Davao Occidental"
+msgstr ""
+
+#: assets/states/PH.php:41
+msgid "Davao Oriental"
+msgstr ""
+
+#: assets/states/PH.php:42
+msgid "Dinagat Islands"
+msgstr ""
+
+#: assets/states/PH.php:43
+msgid "Eastern Samar"
+msgstr ""
+
+#: assets/states/PH.php:44
+msgid "Guimaras"
+msgstr ""
+
+#: assets/states/PH.php:45
+msgid "Ifugao"
+msgstr ""
+
+#: assets/states/PH.php:46
+msgid "Ilocos Norte"
+msgstr ""
+
+#: assets/states/PH.php:47
+msgid "Ilocos Sur"
+msgstr ""
+
+#: assets/states/PH.php:48
+msgid "Iloilo"
+msgstr ""
+
+#: assets/states/PH.php:49
+msgid "Isabela"
+msgstr ""
+
+#: assets/states/PH.php:50
+msgid "Kalinga"
+msgstr ""
+
+#: assets/states/PH.php:51
+msgid "La Union"
+msgstr ""
+
+#: assets/states/PH.php:52
+msgid "Laguna"
+msgstr ""
+
+#: assets/states/PH.php:53
+msgid "Lanao del Norte"
+msgstr ""
+
+#: assets/states/PH.php:54
+msgid "Lanao del Sur"
+msgstr ""
+
+#: assets/states/PH.php:55
+msgid "Leyte"
+msgstr ""
+
+#: assets/states/PH.php:56
+msgid "Maguindanao"
+msgstr ""
+
+#: assets/states/PH.php:57
+msgid "Marinduque"
+msgstr ""
+
+#: assets/states/PH.php:58
+msgid "Masbate"
+msgstr ""
+
+#: assets/states/PH.php:59
+msgid "Misamis Occidental"
+msgstr ""
+
+#: assets/states/PH.php:60
+msgid "Misamis Oriental"
+msgstr ""
+
+#: assets/states/PH.php:61
+msgid "Mountain Province"
+msgstr ""
+
+#: assets/states/PH.php:62
+msgid "Negros Occidental"
+msgstr ""
+
+#: assets/states/PH.php:63
+msgid "Negros Oriental"
+msgstr ""
+
+#: assets/states/PH.php:64
+msgid "Northern Samar"
+msgstr ""
+
+#: assets/states/PH.php:65
+msgid "Nueva Ecija"
+msgstr ""
+
+#: assets/states/PH.php:66
+msgid "Nueva Vizcaya"
+msgstr ""
+
+#: assets/states/PH.php:67
+msgid "Occidental Mindoro"
+msgstr ""
+
+#: assets/states/PH.php:68
+msgid "Oriental Mindoro"
+msgstr ""
+
+#: assets/states/PH.php:69
+msgid "Palawan"
+msgstr ""
+
+#: assets/states/PH.php:70
+msgid "Pampanga"
+msgstr ""
+
+#: assets/states/PH.php:71
+msgid "Pangasinan"
+msgstr ""
+
+#: assets/states/PH.php:72
+msgid "Quezon"
+msgstr ""
+
+#: assets/states/PH.php:73
+msgid "Quirino"
+msgstr ""
+
+#: assets/states/PH.php:74
+msgid "Rizal"
+msgstr ""
+
+#: assets/states/PH.php:75
+msgid "Romblon"
+msgstr ""
+
+#: assets/states/PH.php:76
+msgid "Samar"
+msgstr ""
+
+#: assets/states/PH.php:77
+msgid "Sarangani"
+msgstr ""
+
+#: assets/states/PH.php:78
+msgid "Siquijor"
+msgstr ""
+
+#: assets/states/PH.php:79
+msgid "Sorsogon"
+msgstr ""
+
+#: assets/states/PH.php:80
+msgid "South Cotabato"
+msgstr ""
+
+#: assets/states/PH.php:81
+msgid "Southern Leyte"
+msgstr ""
+
+#: assets/states/PH.php:82
+msgid "Sultan Kudarat"
+msgstr ""
+
+#: assets/states/PH.php:83
+msgid "Sulu"
+msgstr ""
+
+#: assets/states/PH.php:84
+msgid "Surigao del Norte"
+msgstr ""
+
+#: assets/states/PH.php:85
+msgid "Surigao del Sur"
+msgstr ""
+
+#: assets/states/PH.php:86
+msgid "Tarlac"
+msgstr ""
+
+#: assets/states/PH.php:87
+msgid "Tawi-Tawi"
+msgstr ""
+
+#: assets/states/PH.php:88
+msgid "Zambales"
+msgstr ""
+
+#: assets/states/PH.php:89
+msgid "Zamboanga del Norte"
+msgstr ""
+
+#: assets/states/PH.php:90
+msgid "Zamboanga del Sur"
+msgstr ""
+
+#: assets/states/PH.php:91
+msgid "Zamboanga Sibugay"
+msgstr ""
+
+#: assets/states/PH.php:92
+msgid "Metro Manila"
+msgstr ""
+
+#: assets/states/PK.php:11
+msgid "Azad Kashmir"
+msgstr ""
+
+#: assets/states/PK.php:12
+msgid "Balochistan"
+msgstr ""
+
+#: assets/states/PK.php:13
+msgid "FATA"
+msgstr ""
+
+#: assets/states/PK.php:14
+msgid "Gilgit Baltistan"
+msgstr ""
+
+#: assets/states/PK.php:15
+msgid "Islamabad Capital Territory"
+msgstr ""
+
+#: assets/states/PK.php:16
+msgid "Khyber Pakhtunkhwa"
+msgstr ""
+
+#: assets/states/PK.php:18
+msgid "Sindh"
+msgstr ""
+
+#: assets/states/RO.php:11
+msgid "Alba"
+msgstr ""
+
+#: assets/states/RO.php:12
+msgid "Arad"
+msgstr ""
+
+#: assets/states/RO.php:13
+msgid "Arge&#537;"
+msgstr ""
+
+#: assets/states/RO.php:14
+msgid "Bac&#259;u"
+msgstr ""
+
+#: assets/states/RO.php:15
+msgid "Bihor"
+msgstr ""
+
+#: assets/states/RO.php:16
+msgid "Bistri&#539;a-N&#259;s&#259;ud"
+msgstr ""
+
+#: assets/states/RO.php:17
+msgid "Boto&#537;ani"
+msgstr ""
+
+#: assets/states/RO.php:18
+msgid "Br&#259;ila"
+msgstr ""
+
+#: assets/states/RO.php:19
+msgid "Bra&#537;ov"
+msgstr ""
+
+#: assets/states/RO.php:20
+msgid "Bucure&#537;ti"
+msgstr ""
+
+#: assets/states/RO.php:21
+msgid "Buz&#259;u"
+msgstr ""
+
+#: assets/states/RO.php:23
+msgid "Cara&#537;-Severin"
+msgstr ""
+
+#: assets/states/RO.php:24
+msgid "Cluj"
+msgstr ""
+
+#: assets/states/RO.php:25
+msgid "Constan&#539;a"
+msgstr ""
+
+#: assets/states/RO.php:26
+msgid "Covasna"
+msgstr ""
+
+#: assets/states/RO.php:27
+msgid "D&acirc;mbovi&#539;a"
+msgstr ""
+
+#: assets/states/RO.php:28
+msgid "Dolj"
+msgstr ""
+
+#: assets/states/RO.php:29
+msgid "Gala&#539;i"
+msgstr ""
+
+#: assets/states/RO.php:30
+msgid "Giurgiu"
+msgstr ""
+
+#: assets/states/RO.php:31
+msgid "Gorj"
+msgstr ""
+
+#: assets/states/RO.php:32
+msgid "Harghita"
+msgstr ""
+
+#: assets/states/RO.php:33
+msgid "Hunedoara"
+msgstr ""
+
+#: assets/states/RO.php:34
+msgid "Ialomi&#539;a"
+msgstr ""
+
+#: assets/states/RO.php:35
+msgid "Ia&#537;i"
+msgstr ""
+
+#: assets/states/RO.php:36
+msgid "Ilfov"
+msgstr ""
+
+#: assets/states/RO.php:37
+msgid "Maramure&#537;"
+msgstr ""
+
+#: assets/states/RO.php:38
+msgid "Mehedin&#539;i"
+msgstr ""
+
+#: assets/states/RO.php:39
+msgid "Mure&#537;"
+msgstr ""
+
+#: assets/states/RO.php:40
+msgid "Neam&#539;"
+msgstr ""
+
+#: assets/states/RO.php:41
+msgid "Olt"
+msgstr ""
+
+#: assets/states/RO.php:42
+msgid "Prahova"
+msgstr ""
+
+#: assets/states/RO.php:43
+msgid "S&#259;laj"
+msgstr ""
+
+#: assets/states/RO.php:44
+msgid "Satu Mare"
+msgstr ""
+
+#: assets/states/RO.php:45
+msgid "Sibiu"
+msgstr ""
+
+#: assets/states/RO.php:46
+msgid "Suceava"
+msgstr ""
+
+#: assets/states/RO.php:47
+msgid "Teleorman"
+msgstr ""
+
+#: assets/states/RO.php:48
+msgid "Timi&#537;"
+msgstr ""
+
+#: assets/states/RO.php:49
+msgid "Tulcea"
+msgstr ""
+
+#: assets/states/RO.php:50
+msgid "V&acirc;lcea"
+msgstr ""
+
+#: assets/states/RO.php:51
+msgid "Vaslui"
+msgstr ""
+
+#: assets/states/RO.php:52
+msgid "Vrancea"
+msgstr ""
+
+#: assets/states/TH.php:11
+msgid ""
+"Amnat Charoen (&#3629;&#3635;&#3609;&#3634;&#3592;&#3648;&#3592;&#3619;"
+"&#3636;&#3597;)"
+msgstr ""
+
+#: assets/states/TH.php:12
+msgid "Ang Thong (&#3629;&#3656;&#3634;&#3591;&#3607;&#3629;&#3591;)"
+msgstr ""
+
+#: assets/states/TH.php:13
+msgid ""
+"Ayutthaya (&#3614;&#3619;&#3632;&#3609;&#3588;&#3619;&#3624;&#3619;&#3637;"
+"&#3629;&#3618;&#3640;&#3608;&#3618;&#3634;)"
+msgstr ""
+
+#: assets/states/TH.php:14
+msgid ""
+"Bangkok (&#3585;&#3619;&#3640;&#3591;&#3648;&#3607;&#3614;&#3617;&#3627;"
+"&#3634;&#3609;&#3588;&#3619;)"
+msgstr ""
+
+#: assets/states/TH.php:15
+msgid "Bueng Kan (&#3610;&#3638;&#3591;&#3585;&#3634;&#3628;)"
+msgstr ""
+
+#: assets/states/TH.php:16
+msgid ""
+"Buri Ram (&#3610;&#3640;&#3619;&#3637;&#3619;&#3633;&#3617;&#3618;&#3660;)"
+msgstr ""
+
+#: assets/states/TH.php:17
+msgid ""
+"Chachoengsao (&#3593;&#3632;&#3648;&#3594;&#3636;&#3591;&#3648;&#3607;&#3619;"
+"&#3634;)"
+msgstr ""
+
+#: assets/states/TH.php:18
+msgid "Chai Nat (&#3594;&#3633;&#3618;&#3609;&#3634;&#3607;)"
+msgstr ""
+
+#: assets/states/TH.php:19
+msgid "Chaiyaphum (&#3594;&#3633;&#3618;&#3616;&#3641;&#3617;&#3636;)"
+msgstr ""
+
+#: assets/states/TH.php:20
+msgid "Chanthaburi (&#3592;&#3633;&#3609;&#3607;&#3610;&#3640;&#3619;&#3637;)"
+msgstr ""
+
+#: assets/states/TH.php:21
+msgid ""
+"Chiang Mai (&#3648;&#3594;&#3637;&#3618;&#3591;&#3651;&#3627;&#3617;&#3656;)"
+msgstr ""
+
+#: assets/states/TH.php:22
+msgid "Chiang Rai (&#3648;&#3594;&#3637;&#3618;&#3591;&#3619;&#3634;&#3618;)"
+msgstr ""
+
+#: assets/states/TH.php:23
+msgid "Chonburi (&#3594;&#3621;&#3610;&#3640;&#3619;&#3637;)"
+msgstr ""
+
+#: assets/states/TH.php:24
+msgid "Chumphon (&#3594;&#3640;&#3617;&#3614;&#3619;)"
+msgstr ""
+
+#: assets/states/TH.php:25
+msgid ""
+"Kalasin (&#3585;&#3634;&#3628;&#3626;&#3636;&#3609;&#3608;&#3640;&#3660;)"
+msgstr ""
+
+#: assets/states/TH.php:26
+msgid ""
+"Kamphaeng Phet (&#3585;&#3635;&#3649;&#3614;&#3591;&#3648;&#3614;&#3594;"
+"&#3619;)"
+msgstr ""
+
+#: assets/states/TH.php:27
+msgid ""
+"Kanchanaburi (&#3585;&#3634;&#3597;&#3592;&#3609;&#3610;&#3640;&#3619;&#3637;"
+")"
+msgstr ""
+
+#: assets/states/TH.php:28
+msgid "Khon Kaen (&#3586;&#3629;&#3609;&#3649;&#3585;&#3656;&#3609;)"
+msgstr ""
+
+#: assets/states/TH.php:29
+msgid "Krabi (&#3585;&#3619;&#3632;&#3610;&#3637;&#3656;)"
+msgstr ""
+
+#: assets/states/TH.php:30
+msgid "Lampang (&#3621;&#3635;&#3611;&#3634;&#3591;)"
+msgstr ""
+
+#: assets/states/TH.php:31
+msgid "Lamphun (&#3621;&#3635;&#3614;&#3641;&#3609;)"
+msgstr ""
+
+#: assets/states/TH.php:32
+msgid "Loei (&#3648;&#3621;&#3618;)"
+msgstr ""
+
+#: assets/states/TH.php:33
+msgid "Lopburi (&#3621;&#3614;&#3610;&#3640;&#3619;&#3637;)"
+msgstr ""
+
+#: assets/states/TH.php:34
+msgid ""
+"Mae Hong Son (&#3649;&#3617;&#3656;&#3630;&#3656;&#3629;&#3591;&#3626;&#3629;"
+"&#3609;)"
+msgstr ""
+
+#: assets/states/TH.php:35
+msgid ""
+"Maha Sarakham (&#3617;&#3627;&#3634;&#3626;&#3634;&#3619;&#3588;&#3634;"
+"&#3617;)"
+msgstr ""
+
+#: assets/states/TH.php:36
+msgid "Mukdahan (&#3617;&#3640;&#3585;&#3604;&#3634;&#3627;&#3634;&#3619;)"
+msgstr ""
+
+#: assets/states/TH.php:37
+msgid "Nakhon Nayok (&#3609;&#3588;&#3619;&#3609;&#3634;&#3618;&#3585;)"
+msgstr ""
+
+#: assets/states/TH.php:38
+msgid "Nakhon Pathom (&#3609;&#3588;&#3619;&#3611;&#3600;&#3617;)"
+msgstr ""
+
+#: assets/states/TH.php:39
+msgid "Nakhon Phanom (&#3609;&#3588;&#3619;&#3614;&#3609;&#3617;)"
+msgstr ""
+
+#: assets/states/TH.php:40
+msgid ""
+"Nakhon Ratchasima (&#3609;&#3588;&#3619;&#3619;&#3634;&#3594;&#3626;&#3637;"
+"&#3617;&#3634;)"
+msgstr ""
+
+#: assets/states/TH.php:41
+msgid ""
+"Nakhon Sawan (&#3609;&#3588;&#3619;&#3626;&#3623;&#3619;&#3619;&#3588;&#3660;"
+")"
+msgstr ""
+
+#: assets/states/TH.php:42
+msgid ""
+"Nakhon Si Thammarat (&#3609;&#3588;&#3619;&#3624;&#3619;&#3637;&#3608;&#3619;"
+"&#3619;&#3617;&#3619;&#3634;&#3594;)"
+msgstr ""
+
+#: assets/states/TH.php:43
+msgid "Nan (&#3609;&#3656;&#3634;&#3609;)"
+msgstr ""
+
+#: assets/states/TH.php:44
+msgid "Narathiwat (&#3609;&#3619;&#3634;&#3608;&#3636;&#3623;&#3634;&#3626;)"
+msgstr ""
+
+#: assets/states/TH.php:45
+msgid ""
+"Nong Bua Lam Phu (&#3627;&#3609;&#3629;&#3591;&#3610;&#3633;&#3623;&#3621;"
+"&#3635;&#3616;&#3641;)"
+msgstr ""
+
+#: assets/states/TH.php:46
+msgid "Nong Khai (&#3627;&#3609;&#3629;&#3591;&#3588;&#3634;&#3618;)"
+msgstr ""
+
+#: assets/states/TH.php:47
+msgid "Nonthaburi (&#3609;&#3609;&#3607;&#3610;&#3640;&#3619;&#3637;)"
+msgstr ""
+
+#: assets/states/TH.php:48
+msgid "Pathum Thani (&#3611;&#3607;&#3640;&#3617;&#3608;&#3634;&#3609;&#3637;)"
+msgstr ""
+
+#: assets/states/TH.php:49
+msgid "Pattani (&#3611;&#3633;&#3605;&#3605;&#3634;&#3609;&#3637;)"
+msgstr ""
+
+#: assets/states/TH.php:50
+msgid "Phang Nga (&#3614;&#3633;&#3591;&#3591;&#3634;)"
+msgstr ""
+
+#: assets/states/TH.php:51
+msgid "Phatthalung (&#3614;&#3633;&#3607;&#3621;&#3640;&#3591;)"
+msgstr ""
+
+#: assets/states/TH.php:52
+msgid "Phayao (&#3614;&#3632;&#3648;&#3618;&#3634;)"
+msgstr ""
+
+#: assets/states/TH.php:53
+msgid ""
+"Phetchabun (&#3648;&#3614;&#3594;&#3619;&#3610;&#3641;&#3619;&#3603;&#3660;)"
+msgstr ""
+
+#: assets/states/TH.php:54
+msgid "Phetchaburi (&#3648;&#3614;&#3594;&#3619;&#3610;&#3640;&#3619;&#3637;)"
+msgstr ""
+
+#: assets/states/TH.php:55
+msgid "Phichit (&#3614;&#3636;&#3592;&#3636;&#3605;&#3619;)"
+msgstr ""
+
+#: assets/states/TH.php:56
+msgid "Phitsanulok (&#3614;&#3636;&#3625;&#3603;&#3640;&#3650;&#3621;&#3585;)"
+msgstr ""
+
+#: assets/states/TH.php:57
+msgid "Phrae (&#3649;&#3614;&#3619;&#3656;)"
+msgstr ""
+
+#: assets/states/TH.php:58
+msgid "Phuket (&#3616;&#3641;&#3648;&#3585;&#3655;&#3605;)"
+msgstr ""
+
+#: assets/states/TH.php:59
+msgid ""
+"Prachin Buri (&#3611;&#3619;&#3634;&#3592;&#3637;&#3609;&#3610;&#3640;&#3619;"
+"&#3637;)"
+msgstr ""
+
+#: assets/states/TH.php:60
+msgid ""
+"Prachuap Khiri Khan (&#3611;&#3619;&#3632;&#3592;&#3623;&#3610;&#3588;&#3637;"
+"&#3619;&#3637;&#3586;&#3633;&#3609;&#3608;&#3660;)"
+msgstr ""
+
+#: assets/states/TH.php:61
+msgid "Ranong (&#3619;&#3632;&#3609;&#3629;&#3591;)"
+msgstr ""
+
+#: assets/states/TH.php:62
+msgid "Ratchaburi (&#3619;&#3634;&#3594;&#3610;&#3640;&#3619;&#3637;)"
+msgstr ""
+
+#: assets/states/TH.php:63
+msgid "Rayong (&#3619;&#3632;&#3618;&#3629;&#3591;)"
+msgstr ""
+
+#: assets/states/TH.php:64
+msgid "Roi Et (&#3619;&#3657;&#3629;&#3618;&#3648;&#3629;&#3655;&#3604;)"
+msgstr ""
+
+#: assets/states/TH.php:65
+msgid "Sa Kaeo (&#3626;&#3619;&#3632;&#3649;&#3585;&#3657;&#3623;)"
+msgstr ""
+
+#: assets/states/TH.php:66
+msgid "Sakon Nakhon (&#3626;&#3585;&#3621;&#3609;&#3588;&#3619;)"
+msgstr ""
+
+#: assets/states/TH.php:67
+msgid ""
+"Samut Prakan (&#3626;&#3617;&#3640;&#3607;&#3619;&#3611;&#3619;&#3634;&#3585;"
+"&#3634;&#3619;)"
+msgstr ""
+
+#: assets/states/TH.php:68
+msgid ""
+"Samut Sakhon (&#3626;&#3617;&#3640;&#3607;&#3619;&#3626;&#3634;&#3588;&#3619;"
+")"
+msgstr ""
+
+#: assets/states/TH.php:69
+msgid ""
+"Samut Songkhram (&#3626;&#3617;&#3640;&#3607;&#3619;&#3626;&#3591;&#3588;"
+"&#3619;&#3634;&#3617;)"
+msgstr ""
+
+#: assets/states/TH.php:70
+msgid "Saraburi (&#3626;&#3619;&#3632;&#3610;&#3640;&#3619;&#3637;)"
+msgstr ""
+
+#: assets/states/TH.php:71
+msgid "Satun (&#3626;&#3605;&#3641;&#3621;)"
+msgstr ""
+
+#: assets/states/TH.php:72
+msgid ""
+"Sing Buri (&#3626;&#3636;&#3591;&#3627;&#3660;&#3610;&#3640;&#3619;&#3637;)"
+msgstr ""
+
+#: assets/states/TH.php:73
+msgid "Sisaket (&#3624;&#3619;&#3637;&#3626;&#3632;&#3648;&#3585;&#3625;)"
+msgstr ""
+
+#: assets/states/TH.php:74
+msgid "Songkhla (&#3626;&#3591;&#3586;&#3621;&#3634;)"
+msgstr ""
+
+#: assets/states/TH.php:75
+msgid "Sukhothai (&#3626;&#3640;&#3650;&#3586;&#3607;&#3633;&#3618;)"
+msgstr ""
+
+#: assets/states/TH.php:76
+msgid ""
+"Suphan Buri (&#3626;&#3640;&#3614;&#3619;&#3619;&#3603;&#3610;&#3640;&#3619;"
+"&#3637;)"
+msgstr ""
+
+#: assets/states/TH.php:77
+msgid ""
+"Surat Thani (&#3626;&#3640;&#3619;&#3634;&#3625;&#3598;&#3619;&#3660;&#3608;"
+"&#3634;&#3609;&#3637;)"
+msgstr ""
+
+#: assets/states/TH.php:78
+msgid "Surin (&#3626;&#3640;&#3619;&#3636;&#3609;&#3607;&#3619;&#3660;)"
+msgstr ""
+
+#: assets/states/TH.php:79
+msgid "Tak (&#3605;&#3634;&#3585;)"
+msgstr ""
+
+#: assets/states/TH.php:80
+msgid "Trang (&#3605;&#3619;&#3633;&#3591;)"
+msgstr ""
+
+#: assets/states/TH.php:81
+msgid "Trat (&#3605;&#3619;&#3634;&#3604;)"
+msgstr ""
+
+#: assets/states/TH.php:82
+msgid ""
+"Ubon Ratchathani (&#3629;&#3640;&#3610;&#3621;&#3619;&#3634;&#3594;&#3608;"
+"&#3634;&#3609;&#3637;)"
+msgstr ""
+
+#: assets/states/TH.php:83
+msgid "Udon Thani (&#3629;&#3640;&#3604;&#3619;&#3608;&#3634;&#3609;&#3637;)"
+msgstr ""
+
+#: assets/states/TH.php:84
+msgid ""
+"Uthai Thani (&#3629;&#3640;&#3607;&#3633;&#3618;&#3608;&#3634;&#3609;&#3637;)"
+msgstr ""
+
+#: assets/states/TH.php:85
+msgid ""
+"Uttaradit (&#3629;&#3640;&#3605;&#3619;&#3604;&#3636;&#3605;&#3606;&#3660;)"
+msgstr ""
+
+#: assets/states/TH.php:86
+msgid "Yala (&#3618;&#3632;&#3621;&#3634;)"
+msgstr ""
+
+#: assets/states/TH.php:87
+msgid "Yasothon (&#3618;&#3650;&#3626;&#3608;&#3619;)"
+msgstr ""
+
+#: assets/states/TR.php:11
+msgid "Adana"
+msgstr ""
+
+#: assets/states/TR.php:12
+msgid "Ad&#305;yaman"
+msgstr ""
+
+#: assets/states/TR.php:13
+msgid "Afyon"
+msgstr ""
+
+#: assets/states/TR.php:14
+msgid "A&#287;r&#305;"
+msgstr ""
+
+#: assets/states/TR.php:15
+msgid "Amasya"
+msgstr ""
+
+#: assets/states/TR.php:16
+msgid "Ankara"
+msgstr ""
+
+#: assets/states/TR.php:17
+msgid "Antalya"
+msgstr ""
+
+#: assets/states/TR.php:18
+msgid "Artvin"
+msgstr ""
+
+#: assets/states/TR.php:19
+msgid "Ayd&#305;n"
+msgstr ""
+
+#: assets/states/TR.php:20
+msgid "Bal&#305;kesir"
+msgstr ""
+
+#: assets/states/TR.php:21
+msgid "Bilecik"
+msgstr ""
+
+#: assets/states/TR.php:22
+msgid "Bing&#246;l"
+msgstr ""
+
+#: assets/states/TR.php:23
+msgid "Bitlis"
+msgstr ""
+
+#: assets/states/TR.php:24
+msgid "Bolu"
+msgstr ""
+
+#: assets/states/TR.php:25
+msgid "Burdur"
+msgstr ""
+
+#: assets/states/TR.php:26
+msgid "Bursa"
+msgstr ""
+
+#: assets/states/TR.php:27
+msgid "&#199;anakkale"
+msgstr ""
+
+#: assets/states/TR.php:28
+msgid "&#199;ank&#305;r&#305;"
+msgstr ""
+
+#: assets/states/TR.php:29
+msgid "&#199;orum"
+msgstr ""
+
+#: assets/states/TR.php:30
+msgid "Denizli"
+msgstr ""
+
+#: assets/states/TR.php:31
+msgid "Diyarbak&#305;r"
+msgstr ""
+
+#: assets/states/TR.php:32
+msgid "Edirne"
+msgstr ""
+
+#: assets/states/TR.php:33
+msgid "Elaz&#305;&#287;"
+msgstr ""
+
+#: assets/states/TR.php:34
+msgid "Erzincan"
+msgstr ""
+
+#: assets/states/TR.php:35
+msgid "Erzurum"
+msgstr ""
+
+#: assets/states/TR.php:36
+msgid "Eski&#351;ehir"
+msgstr ""
+
+#: assets/states/TR.php:37
+msgid "Gaziantep"
+msgstr ""
+
+#: assets/states/TR.php:38
+msgid "Giresun"
+msgstr ""
+
+#: assets/states/TR.php:39
+msgid "G&#252;m&#252;&#351;hane"
+msgstr ""
+
+#: assets/states/TR.php:40
+msgid "Hakkari"
+msgstr ""
+
+#: assets/states/TR.php:41
+msgid "Hatay"
+msgstr ""
+
+#: assets/states/TR.php:42
+msgid "Isparta"
+msgstr ""
+
+#: assets/states/TR.php:43
+msgid "&#304;&#231;el"
+msgstr ""
+
+#: assets/states/TR.php:44
+msgid "&#304;stanbul"
+msgstr ""
+
+#: assets/states/TR.php:45
+msgid "&#304;zmir"
+msgstr ""
+
+#: assets/states/TR.php:46
+msgid "Kars"
+msgstr ""
+
+#: assets/states/TR.php:47
+msgid "Kastamonu"
+msgstr ""
+
+#: assets/states/TR.php:48
+msgid "Kayseri"
+msgstr ""
+
+#: assets/states/TR.php:49
+msgid "K&#305;rklareli"
+msgstr ""
+
+#: assets/states/TR.php:50
+msgid "K&#305;r&#351;ehir"
+msgstr ""
+
+#: assets/states/TR.php:51
+msgid "Kocaeli"
+msgstr ""
+
+#: assets/states/TR.php:52
+msgid "Konya"
+msgstr ""
+
+#: assets/states/TR.php:53
+msgid "K&#252;tahya"
+msgstr ""
+
+#: assets/states/TR.php:54
+msgid "Malatya"
+msgstr ""
+
+#: assets/states/TR.php:55
+msgid "Manisa"
+msgstr ""
+
+#: assets/states/TR.php:56
+msgid "Kahramanmara&#351;"
+msgstr ""
+
+#: assets/states/TR.php:57
+msgid "Mardin"
+msgstr ""
+
+#: assets/states/TR.php:58
+msgid "Mu&#287;la"
+msgstr ""
+
+#: assets/states/TR.php:59
+msgid "Mu&#351;"
+msgstr ""
+
+#: assets/states/TR.php:60
+msgid "Nev&#351;ehir"
+msgstr ""
+
+#: assets/states/TR.php:61
+msgid "Ni&#287;de"
+msgstr ""
+
+#: assets/states/TR.php:62
+msgid "Ordu"
+msgstr ""
+
+#: assets/states/TR.php:63
+msgid "Rize"
+msgstr ""
+
+#: assets/states/TR.php:64
+msgid "Sakarya"
+msgstr ""
+
+#: assets/states/TR.php:65
+msgid "Samsun"
+msgstr ""
+
+#: assets/states/TR.php:66
+msgid "Siirt"
+msgstr ""
+
+#: assets/states/TR.php:67
+msgid "Sinop"
+msgstr ""
+
+#: assets/states/TR.php:68
+msgid "Sivas"
+msgstr ""
+
+#: assets/states/TR.php:69
+msgid "Tekirda&#287;"
+msgstr ""
+
+#: assets/states/TR.php:70
+msgid "Tokat"
+msgstr ""
+
+#: assets/states/TR.php:71
+msgid "Trabzon"
+msgstr ""
+
+#: assets/states/TR.php:72
+msgid "Tunceli"
+msgstr ""
+
+#: assets/states/TR.php:73
+msgid "&#350;anl&#305;urfa"
+msgstr ""
+
+#: assets/states/TR.php:74
+msgid "U&#351;ak"
+msgstr ""
+
+#: assets/states/TR.php:75
+msgid "Van"
+msgstr ""
+
+#: assets/states/TR.php:76
+msgid "Yozgat"
+msgstr ""
+
+#: assets/states/TR.php:77
+msgid "Zonguldak"
+msgstr ""
+
+#: assets/states/TR.php:78
+msgid "Aksaray"
+msgstr ""
+
+#: assets/states/TR.php:79
+msgid "Bayburt"
+msgstr ""
+
+#: assets/states/TR.php:80
+msgid "Karaman"
+msgstr ""
+
+#: assets/states/TR.php:81
+msgid "K&#305;r&#305;kkale"
+msgstr ""
+
+#: assets/states/TR.php:82
+msgid "Batman"
+msgstr ""
+
+#: assets/states/TR.php:83
+msgid "&#350;&#305;rnak"
+msgstr ""
+
+#: assets/states/TR.php:84
+msgid "Bart&#305;n"
+msgstr ""
+
+#: assets/states/TR.php:85
+msgid "Ardahan"
+msgstr ""
+
+#: assets/states/TR.php:86
+msgid "I&#287;d&#305;r"
+msgstr ""
+
+#: assets/states/TR.php:87
+msgid "Yalova"
+msgstr ""
+
+#: assets/states/TR.php:88
+msgid "Karab&#252;k"
+msgstr ""
+
+#: assets/states/TR.php:89
+msgid "Kilis"
+msgstr ""
+
+#: assets/states/TR.php:90
+msgid "Osmaniye"
+msgstr ""
+
+#: assets/states/TR.php:91
+msgid "D&#252;zce"
+msgstr ""
+
+#: assets/states/TZ.php:7
+msgid "Arusha"
+msgstr ""
+
+#: assets/states/TZ.php:8
+msgid "Dar es Salaam"
+msgstr ""
+
+#: assets/states/TZ.php:9
+msgid "Dodoma"
+msgstr ""
+
+#: assets/states/TZ.php:10
+msgid "Iringa"
+msgstr ""
+
+#: assets/states/TZ.php:11
+msgid "Kagera"
+msgstr ""
+
+#: assets/states/TZ.php:12
+msgid "Pemba North"
+msgstr ""
+
+#: assets/states/TZ.php:13
+msgid "Zanzibar North"
+msgstr ""
+
+#: assets/states/TZ.php:14
+msgid "Kigoma"
+msgstr ""
+
+#: assets/states/TZ.php:15
+msgid "Kilimanjaro"
+msgstr ""
+
+#: assets/states/TZ.php:16
+msgid "Pemba South"
+msgstr ""
+
+#: assets/states/TZ.php:17
+msgid "Zanzibar South"
+msgstr ""
+
+#: assets/states/TZ.php:18
+msgid "Lindi"
+msgstr ""
+
+#: assets/states/TZ.php:19
+msgid "Mara"
+msgstr ""
+
+#: assets/states/TZ.php:20
+msgid "Mbeya"
+msgstr ""
+
+#: assets/states/TZ.php:21
+msgid "Zanzibar West"
+msgstr ""
+
+#: assets/states/TZ.php:22
+msgid "Morogoro"
+msgstr ""
+
+#: assets/states/TZ.php:23
+msgid "Mtwara"
+msgstr ""
+
+#: assets/states/TZ.php:24
+msgid "Mwanza"
+msgstr ""
+
+#: assets/states/TZ.php:25
+msgid "Coast"
+msgstr ""
+
+#: assets/states/TZ.php:26
+msgid "Rukwa"
+msgstr ""
+
+#: assets/states/TZ.php:27
+msgid "Ruvuma"
+msgstr ""
+
+#: assets/states/TZ.php:28
+msgid "Shinyanga"
+msgstr ""
+
+#: assets/states/TZ.php:29
+msgid "Singida"
+msgstr ""
+
+#: assets/states/TZ.php:30
+msgid "Tabora"
+msgstr ""
+
+#: assets/states/TZ.php:31
+msgid "Tanga"
+msgstr ""
+
+#: assets/states/TZ.php:32
+msgid "Manyara"
+msgstr ""
+
+#: assets/states/TZ.php:33
+msgid "Geita"
+msgstr ""
+
+#: assets/states/TZ.php:34
+msgid "Katavi"
+msgstr ""
+
+#: assets/states/TZ.php:35
+msgid "Njombe"
+msgstr ""
+
+#: assets/states/TZ.php:36
+msgid "Simiyu"
+msgstr ""
+
+#: assets/states/US.php:11
+msgid "Alabama"
+msgstr ""
+
+#: assets/states/US.php:12
+msgid "Alaska"
+msgstr ""
+
+#: assets/states/US.php:13
+msgid "Arizona"
+msgstr ""
+
+#: assets/states/US.php:14
+msgid "Arkansas"
+msgstr ""
+
+#: assets/states/US.php:15
+msgid "California"
+msgstr ""
+
+#: assets/states/US.php:16
+msgid "Colorado"
+msgstr ""
+
+#: assets/states/US.php:17
+msgid "Connecticut"
+msgstr ""
+
+#: assets/states/US.php:18
+msgid "Delaware"
+msgstr ""
+
+#: assets/states/US.php:19
+msgid "District Of Columbia"
+msgstr ""
+
+#: assets/states/US.php:20
+msgid "Florida"
+msgstr ""
+
+#: assets/states/US.php:21
+msgctxt "US state of Georgia"
+msgid "Georgia"
+msgstr ""
+
+#: assets/states/US.php:22
+msgid "Hawaii"
+msgstr ""
+
+#: assets/states/US.php:23
+msgid "Idaho"
+msgstr ""
+
+#: assets/states/US.php:24
+msgid "Illinois"
+msgstr ""
+
+#: assets/states/US.php:25
+msgid "Indiana"
+msgstr ""
+
+#: assets/states/US.php:26
+msgid "Iowa"
+msgstr ""
+
+#: assets/states/US.php:27
+msgid "Kansas"
+msgstr ""
+
+#: assets/states/US.php:28
+msgid "Kentucky"
+msgstr ""
+
+#: assets/states/US.php:29
+msgid "Louisiana"
+msgstr ""
+
+#: assets/states/US.php:30
+msgid "Maine"
+msgstr ""
+
+#: assets/states/US.php:31
+msgid "Maryland"
+msgstr ""
+
+#: assets/states/US.php:32
+msgid "Massachusetts"
+msgstr ""
+
+#: assets/states/US.php:33
+msgid "Michigan"
+msgstr ""
+
+#: assets/states/US.php:34
+msgid "Minnesota"
+msgstr ""
+
+#: assets/states/US.php:35
+msgid "Mississippi"
+msgstr ""
+
+#: assets/states/US.php:36
+msgid "Missouri"
+msgstr ""
+
+#: assets/states/US.php:38
+msgid "Nebraska"
+msgstr ""
+
+#: assets/states/US.php:39
+msgid "Nevada"
+msgstr ""
+
+#: assets/states/US.php:40
+msgid "New Hampshire"
+msgstr ""
+
+#: assets/states/US.php:41
+msgid "New Jersey"
+msgstr ""
+
+#: assets/states/US.php:42
+msgid "New Mexico"
+msgstr ""
+
+#: assets/states/US.php:43
+msgid "New York"
+msgstr ""
+
+#: assets/states/US.php:44
+msgid "North Carolina"
+msgstr ""
+
+#: assets/states/US.php:45
+msgid "North Dakota"
+msgstr ""
+
+#: assets/states/US.php:46
+msgid "Ohio"
+msgstr ""
+
+#: assets/states/US.php:47
+msgid "Oklahoma"
+msgstr ""
+
+#: assets/states/US.php:48
+msgid "Oregon"
+msgstr ""
+
+#: assets/states/US.php:49
+msgid "Pennsylvania"
+msgstr ""
+
+#: assets/states/US.php:50
+msgid "Rhode Island"
+msgstr ""
+
+#: assets/states/US.php:51
+msgid "South Carolina"
+msgstr ""
+
+#: assets/states/US.php:52
+msgid "South Dakota"
+msgstr ""
+
+#: assets/states/US.php:53
+msgid "Tennessee"
+msgstr ""
+
+#: assets/states/US.php:54
+msgid "Texas"
+msgstr ""
+
+#: assets/states/US.php:55
+msgid "Utah"
+msgstr ""
+
+#: assets/states/US.php:56
+msgid "Vermont"
+msgstr ""
+
+#: assets/states/US.php:57
+msgid "Virginia"
+msgstr ""
+
+#: assets/states/US.php:58
+msgid "Washington"
+msgstr ""
+
+#: assets/states/US.php:59
+msgid "West Virginia"
+msgstr ""
+
+#: assets/states/US.php:60
+msgid "Wisconsin"
+msgstr ""
+
+#: assets/states/US.php:61
+msgid "Wyoming"
+msgstr ""
+
+#: assets/states/US.php:62
+msgid "Armed Forces (AA)"
+msgstr ""
+
+#: assets/states/US.php:63
+msgid "Armed Forces (AE)"
+msgstr ""
+
+#: assets/states/US.php:64
+msgid "Armed Forces (AP)"
+msgstr ""
+
+#: assets/states/ZA.php:10
+msgid "Eastern Cape"
+msgstr ""
+
+#: assets/states/ZA.php:11
+msgid "Free State"
+msgstr ""
+
+#: assets/states/ZA.php:12
+msgid "Gauteng"
+msgstr ""
+
+#: assets/states/ZA.php:13
+msgid "KwaZulu-Natal"
+msgstr ""
+
+#: assets/states/ZA.php:14
+msgid "Limpopo"
+msgstr ""
+
+#: assets/states/ZA.php:15
+msgid "Mpumalanga"
+msgstr ""
+
+#: assets/states/ZA.php:16
+msgid "Northern Cape"
+msgstr ""
+
+#: assets/states/ZA.php:17
+msgid "North West"
+msgstr ""
+
+#: assets/states/ZA.php:18
+msgid "Western Cape"
+msgstr ""
+
+#: includes/admin/class-admin.php:70 includes/admin/class-admin.php:71
+#: includes/admin/class-admin.php:82
+msgid "ERForms"
+msgstr ""
+
+#: includes/admin/class-admin.php:83
+msgid "All Forms"
+msgstr ""
+
+#: includes/admin/class-admin.php:92
+msgid "ERForms Dashboard"
+msgstr ""
+
+#: includes/admin/class-admin.php:93
+#: includes/admin/overview/html/overview.php:24
+#: includes/admin/plan/html/plans.php:6
+msgid "Add New"
+msgstr ""
+
+#: includes/admin/class-admin.php:102
+msgid "Form Submissions"
+msgstr ""
+
+#: includes/admin/class-admin.php:111
+msgid "Form Submission"
+msgstr ""
+
+#: includes/admin/class-admin.php:112
+#: includes/admin/form/html/class-attachment-cards.php:156
+msgid "Submission"
+msgstr ""
+
+#: includes/admin/class-admin.php:120 includes/admin/class-admin.php:121
+msgid "Labels"
+msgstr ""
+
+#: includes/admin/class-admin.php:130
+msgid "ERForms Settings"
+msgstr ""
+
+#: includes/admin/class-admin.php:131
+#: includes/admin/settings/html/settings.php:12
+msgid "Global Settings"
+msgstr ""
+
+#: includes/admin/class-admin.php:140
+msgid "ERForms Analytics"
+msgstr ""
+
+#: includes/admin/class-admin.php:141
+msgid "Analytics"
+msgstr ""
+
+#: includes/admin/class-admin.php:171 includes/admin/class-admin.php:179
+msgid "ERForms Help"
+msgstr ""
+
+#: includes/admin/class-admin.php:172 includes/admin/help/html/help.php:7
+msgid "Shortcodes"
+msgstr ""
+
+#: includes/admin/class-admin.php:180
+msgid "Addons"
+msgstr ""
+
+#: includes/admin/class-list-cards.php:181
+msgid "No items found."
+msgstr ""
+
+#: includes/html/account_verification.php:10
+msgid "We are trying to log you in. Please wait...."
+msgstr ""
+
+#: includes/html/account_verification.php:23
+#: includes/html/account_verification.php:26
+msgid "Unable to login."
+msgstr ""
+
+#: includes/html/contact.php:25
+msgid ""
+"Only authenticated users are allowed to submit the form. If you are already "
+"registered, Please login and try again."
+msgstr ""
+
+#: includes/html/layout_options.php:4
+msgid "Change Form Layout"
+msgstr ""
+
+#: includes/html/layout_options.php:8
+#: includes/admin/form/html/configuration-type.php:626
+msgid "Layout"
+msgstr ""
+
+#: includes/html/layout_options.php:12
+#: includes/admin/form/html/configuration-type.php:630
+msgid "One Column"
+msgstr ""
+
+#: includes/html/layout_options.php:13
+#: includes/admin/form/html/configuration-type.php:631
+msgid "Two Column"
+msgstr ""
+
+#: includes/html/layout_options.php:20
+msgid "Label Position"
+msgstr ""
+
+#: includes/html/layout_options.php:24
+#: includes/admin/form/html/configuration-type.php:642
+msgid "Top"
+msgstr ""
+
+#: includes/html/layout_options.php:25
+#: includes/admin/form/html/configuration-type.php:643
+msgid "Inline"
+msgstr ""
+
+#: includes/html/layout_options.php:26
+#: includes/admin/form/html/configuration-type.php:644
+msgid "No Label"
+msgstr ""
+
+#: includes/html/login-form.php:21
+msgid "Username/Email"
+msgstr ""
+
+#: includes/html/login-form.php:29
+msgid "Password"
+msgstr ""
+
+#: includes/html/login-form.php:39
+msgid "Remember"
+msgstr ""
+
+#: includes/html/login-form.php:58
+msgid "Register"
+msgstr ""
+
+#: includes/html/login-form.php:59 includes/html/login-form.php:63
+msgid "Lost/Forgot Password?"
+msgstr ""
+
+#: includes/html/login-form.php:59 includes/html/login-form.php:63
+msgid "Lost Password?"
+msgstr ""
+
+#: includes/html/lost_password.php:5
+msgid "Forgot Your Password?"
+msgstr ""
+
+#: includes/html/lost_password.php:8
+msgid "Enter your email address"
+msgstr ""
+
+#: includes/html/lost_password.php:20
+msgid "Reset Password"
+msgstr ""
+
+#: includes/html/lost_password.php:25
+msgid "Back to Login"
+msgstr ""
+
+#: includes/html/my_account.php:7
+msgid "Profile"
+msgstr ""
+
+#: includes/html/my_account.php:13 includes/html/my_account.php:157
+#: includes/html/my_account.php:157
+msgid "Change Password"
+msgstr ""
+
+#: includes/html/my_account.php:19
+msgid "Welcome, "
+msgstr ""
+
+#: includes/html/my_account.php:28
+#: includes/admin/form/html/notifications.php:15
+msgid "Email"
+msgstr ""
+
+#: includes/html/my_account.php:32
+msgid "First Name"
+msgstr ""
+
+#: includes/html/my_account.php:36
+msgid "Last Name"
+msgstr ""
+
+#: includes/html/my_account.php:40
+msgid "Bio"
+msgstr ""
+
+#: includes/html/my_account.php:44
+msgid "Nick Name"
+msgstr ""
+
+#: includes/html/my_account.php:48
+msgid "Logout"
+msgstr ""
+
+#: includes/html/my_account.php:58 includes/html/wc_my_account.php:9
+msgid "#"
+msgstr ""
+
+#: includes/html/my_account.php:59 includes/html/wc_my_account.php:10
+msgid "Form"
+msgstr ""
+
+#: includes/html/my_account.php:60 includes/html/wc_my_account.php:11
+#: includes/admin/form/html/configuration-type.php:414
+#: includes/admin/form/html/configuration-type.php:422
+msgid "Date"
+msgstr ""
+
+#: includes/html/my_account.php:61
+msgid "Action(s)"
+msgstr ""
+
+#: includes/html/my_account.php:99 includes/html/wc_my_account.php:12
+#: includes/html/wc_my_account.php:50
+#: includes/admin/overview/class-form-cards.php:121
+#: includes/admin/plan/class-plan-table.php:152
+#: includes/admin/form/html/reports.php:78
+#: includes/admin/submission/html/submission.php:19
+msgid "Edit"
+msgstr ""
+
+#: includes/html/my_account.php:100 includes/html/wc_my_account.php:51
+#: includes/admin/overview/class-form-cards.php:143
+#: includes/admin/plan/class-plan-table.php:169
+#: includes/admin/plan/class-plan-table.php:188
+#: includes/admin/submission/class-submission-table.php:202
+#: includes/admin/submission/class-submission-table.php:220
+#: includes/admin/form/html/reports.php:79
+#: includes/admin/submission/html/submission.php:23
+msgid "Delete"
+msgstr ""
+
+#: includes/html/my_account.php:117 includes/html/wc_my_account.php:66
+msgid "No submission yet."
+msgstr ""
+
+#: includes/html/my_account.php:124 includes/html/wc_my_account.php:73
+msgid "Prev"
+msgstr ""
+
+#: includes/html/my_account.php:142
+msgid "Current password"
+msgstr ""
+
+#: includes/html/my_account.php:147
+msgid "New password"
+msgstr ""
+
+#: includes/html/my_account.php:151
+msgid "Confirm new password"
+msgstr ""
+
+#: includes/html/payment-part.php:6
+msgid "Choose"
+msgstr ""
+
+#: includes/html/payment-part.php:13 includes/html/payment-part.php:24
+msgid "Total"
+msgstr ""
+
+#: includes/html/register.php:37
+msgid "You are not allowed to submit the form as you are already registered."
+msgstr ""
+
+#: includes/html/register.php:102
+msgid "Already have an account?"
+msgstr ""
+
+#: includes/admin/form/class-form-dashboard.php:164
+msgid "Confirm Password"
+msgstr ""
+
+#: includes/admin/labels/class-label.php:73
+msgid "Both Label name and color are required fields."
+msgstr ""
+
+#: includes/admin/overview/class-form-cards.php:60
+msgid "Whoops, you haven't created a form yet."
+msgstr ""
+
+#: includes/admin/overview/class-form-cards.php:119
+msgid "Dashboard"
+msgstr ""
+
+#: includes/admin/overview/class-form-cards.php:120
+#: includes/admin/form/html/dashboard-header-menu.php:5
+msgid "Preview"
+msgstr ""
+
+#: includes/admin/overview/class-form-cards.php:132
+msgid "Duplicate"
+msgstr ""
+
+#: includes/admin/overview/class-form-cards.php:157
+msgid "Registration"
+msgstr ""
+
+#: includes/admin/overview/class-form-cards.php:157
+msgid "Contact/Other"
+msgstr ""
+
+#: includes/admin/overview/class-form-cards.php:159
+msgid "Form Type"
+msgstr ""
+
+#: includes/admin/overview/class-form-cards.php:198
+msgid "Form was successfully deleted."
+msgstr ""
+
+#: includes/admin/overview/class-form-cards.php:200
+msgid "Forms were successfully deleted."
+msgstr ""
+
+#: includes/admin/overview/class-form-cards.php:210
+#: includes/admin/overview/class-form-cards.php:241
+#: includes/admin/plan/class-plan-table.php:240
+#: includes/admin/plan/class-plan-table.php:271
+msgid "Security check failed. Please try again."
+msgstr ""
+
+#: includes/admin/overview/class-form-cards.php:229
+msgid "Form was successfully duplicated."
+msgstr ""
+
+#: includes/admin/overview/class-form-cards.php:231
+msgid "Forms were successfully duplicated."
+msgstr ""
+
+#: includes/admin/plan/class-plan-table.php:51
+#: includes/admin/submission/html/payment-part.php:31
+#: includes/admin/submission/html/payment-part.php:36
+msgid "Plan Name"
+msgstr ""
+
+#: includes/admin/plan/class-plan-table.php:52
+msgid "Type"
+msgstr ""
+
+#: includes/admin/plan/class-plan-table.php:53
+#: includes/admin/plan/html/plan.php:30
+msgid "Price"
+msgstr ""
+
+#: includes/admin/plan/class-plan-table.php:54
+#: includes/admin/submission/class-submission-table.php:77
+msgid "Created"
+msgstr ""
+
+#: includes/admin/plan/class-plan-table.php:97
+#: includes/admin/form/html/configuration-type.php:489
+#: includes/admin/plan/html/plan.php:13
+msgid "Fixed"
+msgstr ""
+
+#: includes/admin/plan/class-plan-table.php:97
+#: includes/admin/form/html/configuration-type.php:490
+#: includes/admin/plan/html/plan.php:14
+msgid "User Defined"
+msgstr ""
+
+#: includes/admin/plan/class-plan-table.php:134
+#: includes/admin/plan/class-plan-table.php:151
+msgid "Edit this Plan"
+msgstr ""
+
+#: includes/admin/plan/class-plan-table.php:168
+msgid "Delete this Plan"
+msgstr ""
+
+#: includes/admin/plan/class-plan-table.php:228
+msgid "Plan was successfully deleted."
+msgstr ""
+
+#: includes/admin/plan/class-plan-table.php:230
+msgid "Plan were successfully deleted."
+msgstr ""
+
+#: includes/admin/plan/class-plan-table.php:259
+msgid "Plan was successfully duplicated."
+msgstr ""
+
+#: includes/admin/plan/class-plan-table.php:261
+msgid "Plans were successfully duplicated."
+msgstr ""
+
+#: includes/admin/plan/class-plan-table.php:285
+msgid "Whoops, you haven't created a plan yet."
+msgstr ""
+
+#: includes/admin/submission/class-submission-table.php:166
+#: includes/admin/submission/class-submission-table.php:183
+msgid "Edit this form"
+msgstr ""
+
+#: includes/admin/submission/class-submission-table.php:184
+msgid "View"
+msgstr ""
+
+#: includes/admin/submission/class-submission-table.php:201
+msgid "Delete this submission"
+msgstr ""
+
+#: includes/admin/submission/class-submission-table.php:255
+msgid "Submission was successfully deleted."
+msgstr ""
+
+#: includes/admin/submission/class-submission-table.php:257
+msgid "Submission were successfully deleted."
+msgstr ""
+
+#: includes/admin/submission/class-submission-table.php:413
+#: includes/admin/overview/html/overview.php:28
+msgid "Search"
+msgstr ""
+
+#: includes/admin/submission/class-submission-table.php:420
+msgid "Select Label"
+msgstr ""
+
+#: includes/admin/submission/class-submission-table.php:428
+msgid "Filter"
+msgstr ""
+
+#: includes/admin/submission/class-submission-table.php:429
+msgid "Export"
+msgstr ""
+
+#: includes/admin/submission/class-submission-table.php:430
+msgid "Go to Form"
+msgstr ""
+
+#: includes/admin/submission/class-submission.php:150
+msgid "Payment status changed to"
+msgstr ""
+
+#: includes/admin/utils/uninstall_dialog.php:121
+msgid "Plugin Name"
+msgstr ""
+
+#: includes/admin/utils/uninstall_dialog.php:128
+msgid "Other"
+msgstr ""
+
+#: includes/admin/utils/uninstall_dialog.php:134
+msgid "Reason"
+msgstr ""
+
+#: includes/admin/utils/uninstall_dialog.php:142
+#: includes/admin/labels/html/labels.php:94
+msgid "Cancel"
+msgstr ""
+
+#: includes/admin/utils/uninstall_dialog.php:145
+msgid "Submit"
+msgstr ""
+
+#: includes/admin/addon/html/addon.php:2
+msgid "Easy Registration Form Add-on"
+msgstr ""
+
+#: includes/admin/addon/html/addon.php:11
+msgid "Conditional Logics"
+msgstr ""
+
+#: includes/admin/addon/html/addon.php:12
+msgid ""
+"Conditional Logic extension allows you to show/hide fields on the basis of "
+"desired conditions in addition mail can be sent to various recipients on the "
+"basis of selected."
+msgstr ""
+
+#: includes/admin/addon/html/addon.php:21
+msgid "Mailchimp Integration"
+msgstr ""
+
+#: includes/admin/addon/html/addon.php:22
+msgid "Create MailChimp signup forms in WordPress to grow your email list."
+msgstr ""
+
+#: includes/admin/addon/html/addon.php:32
+msgid "PayPal Integration"
+msgstr ""
+
+#: includes/admin/addon/html/addon.php:33
+msgid "Allows user to pay through PayPal"
+msgstr ""
+
+#: includes/admin/addon/html/addon.php:42
+msgid "Have a feature in mind, share with us "
+msgstr ""
+
+#: includes/admin/addon/html/addon.php:42
+msgid "here"
+msgstr ""
+
+#: includes/admin/analytics/html/analytics.php:9
+msgid "Last 7 Days"
+msgstr ""
+
+#: includes/admin/analytics/html/analytics.php:10
+msgid "Last 30 Days"
+msgstr ""
+
+#: includes/admin/analytics/html/analytics.php:11
+msgid "Last 60 Days"
+msgstr ""
+
+#: includes/admin/analytics/html/analytics.php:21
+msgid "No Data Available."
+msgstr ""
+
+#: includes/admin/form/html/build.php:16
+#: includes/admin/overview/html/overview.php:28
+msgid "Form Name"
+msgstr ""
+
+#: includes/admin/form/html/build.php:18
+msgid ""
+"To embed this form on your site, please paste the following shortcode inside "
+"a post or page."
+msgstr ""
+
+#: includes/admin/form/html/build.php:18
+msgid "Copied to Clipboard"
+msgstr ""
+
+#: includes/admin/form/html/build.php:27
+#: includes/admin/form/html/configuration-type.php:735
+#: includes/admin/form/html/notification-type.php:544
+#: includes/admin/form/html/report.php:252
+#: includes/admin/labels/html/labels.php:30
+#: includes/admin/labels/html/labels.php:93
+#: includes/admin/plan/html/plan.php:43
+#: includes/admin/settings/html/setting-tab.php:178
+msgid "Save"
+msgstr ""
+
+#: includes/admin/form/html/build.php:28
+#: includes/admin/form/html/configuration-type.php:736
+#: includes/admin/form/html/notification-type.php:545
+#: includes/admin/plan/html/plan.php:44
+#: includes/admin/settings/html/setting-tab.php:179
+msgid "Save & Close"
+msgstr ""
+
+#: includes/admin/form/html/build.php:32
+msgid "Rich Text Editor"
+msgstr ""
+
+#: includes/admin/form/html/class-attachment-cards.php:60
+msgid "Whoops, no attachments yet."
+msgstr ""
+
+#: includes/admin/form/html/class-attachment-cards.php:147
+#: includes/admin/submission/html/submission.php:29
+msgid "Submission From: "
+msgstr ""
+
+#: includes/admin/form/html/class-attachment-cards.php:153
+msgid "Submission From: Anonymous user"
+msgstr ""
+
+#: includes/admin/form/html/class-attachment-cards.php:157
+#, php-format
+msgid "Total Attachments: %d"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:22
+#: includes/admin/form/html/configuration-type.php:33
+msgid "Enable Recaptcha"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:27
+msgid "This will show Google Recaptcha at the bottom of form for guest users."
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:38
+#, php-format
+msgid ""
+"Recapctha can not be enabled. Please enable and configure keys from <a "
+"target=\"_blank\" href=\"%s\">here</a>."
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:46
+msgid "Enable Login Form"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:51
+msgid ""
+"This will show login option after registration form (Will not be visible to "
+"logged in users.)"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:58
+msgid "Unique ID"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:63
+msgid "Enable Unique token ID generation for each submission."
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:73
+msgid "Generation Method"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:88
+msgid "Current Index"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:97
+msgid "Prefix"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:106
+msgid "Number Padding"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:118
+msgid "Enable opt-in checkbox"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:123
+msgid "Allow users to opt-in for subscription."
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:130
+msgid "Checkbox Text"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:134
+msgid "Text will appear with checkbox."
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:140
+msgid "Default State"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:143
+msgid "Checked"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:144
+msgid "Unchecked"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:145
+msgid "Default state of the checkbox."
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:161
+msgid "User Account Settings"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:167
+msgid "Auto User Activation"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:172
+#, php-format
+msgid ""
+"User's account will be activated after submission. Notifications can be "
+"configured from <a target='_blank' href='%s'>here</a>."
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:179
+msgid "Log in user after Registration"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:185
+msgid ""
+"User will be logged in automatically in WordPress system. (It will work only "
+"if Auto User Activation is enabled)"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:194
+msgid "Send Verification Link"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:199
+#, php-format
+msgid ""
+"After successful form submission, user will receive an email with account "
+"verification link. Clicking the link will activate the account. Make sure <b>"
+"Auto User Activation</b> is disabled. Otherwise it won't work. To change the "
+"notification content, Please click <a target=\"_blank\" href=\"%s\">here</a>"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:207
+msgid "Activation Link Expiry"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:212
+msgid ""
+"Link expiry time in hours. For example, use 24 if you want to expire the "
+"link after a day from registration. Use 0 for no expiry limit."
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:219
+msgid "Account Activation Message"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:228
+msgid ""
+"Message will appear on successful account activation. Here you can add any "
+"plugin shortcode to show login box or any other elements."
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:234
+msgid "Account Verification Page"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:239
+#, php-format
+msgid ""
+"This Page's link will be sent to User for account re-verification. Make sure "
+"to add <code>%s</code> shortcode on the selected page."
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:245
+msgid "Auto login after verification"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:251
+msgid ""
+"Logs in User after successful verfication. In case <b>After Login "
+"Redirection</b> or <b>Role Based Login Redirection</b> (Under Global "
+"Settings) is enabled, User will be directed to corresponding page."
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:259
+msgid "Assign User Role"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:264
+msgid "Inherit from Form"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:267
+msgid ""
+"User Role that will be assigned to the user after successful registration. "
+"In case \"Inherit from Form\" options selected, Form has to provide role "
+"information. Role option can be allowed for Radio Group field by enabling "
+"\"User Role\" option."
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:278
+msgid "Submission/Form Restriction Settings"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:284
+msgid "Allowed User Roles"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:288
+msgid ""
+"Only users with above roles will be allowed to view form. By default it will "
+"allow all the users."
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:294
+msgid "Access Denied Note"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:298
+msgid ""
+"Users will see this message when they are not allowed to access the form."
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:305
+msgid "Allow submission from Logged in Users"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:310
+msgid ""
+"If checked form will be visible to logged in users. Helpful in case you want "
+"to re-register the users."
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:316
+msgid "Allow only logged in users "
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:321
+msgid "If checked only logged in users will be able to submit the form."
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:328
+msgid "Password based Form Restriction"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:333
+msgid "System will ask users to enter a password before accessing form."
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:341
+#: includes/admin/form/html/report.php:32 includes/admin/help/html/help.php:16
+#: includes/admin/labels/html/labels.php:20
+#: includes/admin/labels/html/labels.php:48
+#: includes/admin/labels/html/labels.php:78
+msgid "Description"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:346
+msgid "Description about the restriction. It will be displayed above the form."
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:352
+msgid "Question"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:357
+msgid "This question will be asked to user."
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:368
+msgid "Password/Answer that must be given by user to access the form."
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:379
+msgid "It will be displayed when user enters wrong password/answer."
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:391
+msgid ""
+"If enabled, Logged in users will have to answer the security question before "
+"accessing the form."
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:399
+msgid "Limit Submissions"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:404
+msgid ""
+"Removes the form after required number of submissions or a specific date. "
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:411
+msgid "By Date/ By Number"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:415
+msgid "Number"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:426
+msgid "Last date on which this form will appear for users."
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:435
+msgid "Number of Submissions"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:439
+msgid "Form will not be visible after this number is reached."
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:446
+msgid "Display message"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:450
+msgid "This message will be shown when accessing the form after limit expired."
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:465
+msgid "Plan Settings"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:474
+#: includes/admin/form/html/configuration-type.php:477
+msgid "Enable Plan"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:486
+msgid "Plan Type"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:497
+msgid "Fixed Plans"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:522
+msgid "User Defined Plans"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:544
+msgid "Required"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:566
+msgid "Enable Edit Submission"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:571
+msgid ""
+"This will allow users' to edit/delete their submissions from front end My "
+"Account area <code>[erforms_my_account]</code>"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:578
+msgid "Allowed Fields for Edit"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:593
+#, php-format
+msgid ""
+"Only above chosen fields will be allowed to edit. Notifications can be "
+"configured <a target='_blank' href='%s'>here</a>"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:599
+msgid "Allow Deletion from Front end"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:605
+#, php-format
+msgid ""
+"Allows users to delete their submission(s).  Notifications can be configured "
+"<a target='_blank' href='%s'>here</a>"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:651
+msgid "Content Above The Form"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:659
+msgid "This will be displayed above the form."
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:670
+msgid "Post Submission"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:676
+msgid "After Submission, Redirect User to"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:681
+msgid ""
+"URL where the user will be redirected after submission. Leave this blank and "
+"configure redirection from <b>Global Settings->Enable Role Based "
+"Redirection</b> (In case you want to implement role based redirection after "
+"auto login)."
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:683
+msgid "URL where the user will be redirected after submission."
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:690
+msgid "Success Message"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:698
+msgid "This will be displayed after successful submission."
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:704
+msgid "Post to External URL"
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:709
+msgid ""
+"Posts submission data to external API. Useful for synchronizing submission "
+"data on other applications."
+msgstr ""
+
+#: includes/admin/form/html/configuration-type.php:720
+msgid "API URL which handles submission data."
+msgstr ""
+
+#: includes/admin/form/html/dashboard-header-menu.php:4
+#: includes/admin/form/html/dashboard.php:9
+#: includes/admin/form/html/dashboard.php:26
+msgid "Build"
+msgstr ""
+
+#: includes/admin/form/html/dashboard-header-menu.php:6
+#: includes/admin/form/html/dashboard.php:10
+#: includes/admin/form/html/dashboard.php:27
+msgid "Configure"
+msgstr ""
+
+#: includes/admin/form/html/dashboard-header-menu.php:7
+#: includes/admin/form/html/dashboard.php:13
+#: includes/admin/form/html/dashboard.php:28
+msgid "Notifications"
+msgstr ""
+
+#: includes/admin/form/html/dashboard-header-menu.php:8
+#: includes/admin/form/html/dashboard.php:29
+msgid "Uploads"
+msgstr ""
+
+#: includes/admin/form/html/dashboard-header-menu.php:10
+#: includes/admin/form/html/dashboard.php:12
+#: includes/admin/form/html/dashboard.php:31
+msgid "Reports"
+msgstr ""
+
+#: includes/admin/form/html/dashboard.php:11
+msgid "Report"
+msgstr ""
+
+#: includes/admin/form/html/dashboard.php:14
+msgid "Form Dashboard"
+msgstr ""
+
+#: includes/admin/form/html/dashboard.php:26
+msgid "Create, edit and manage fields from this section."
+msgstr ""
+
+#: includes/admin/form/html/dashboard.php:27
+msgid ""
+"User Account Settings,Submission Restrictions,General Settings,Display "
+"Settings,Notifications,Post Submission actions"
+msgstr ""
+
+#: includes/admin/form/html/dashboard.php:28
+#: includes/admin/form/html/dashboard.php:29
+msgid ""
+"Enable email notifications. Modify email contents with mail merge feature."
+msgstr ""
+
+#: includes/admin/form/html/dashboard.php:31
+msgid ""
+"Reports allows you to relay information (Submissions) to interested parties "
+"in a periodic manner. You can create multiple reports to share different "
+"submitted information with people.For each report, System will generate a "
+"CSV file containing the submitted information (which is selected by you) and "
+"will send an email to all it's recipients. In short <b>Report</b> allows you "
+"to share selected information from the submission to multiple people."
+msgstr ""
+
+#: includes/admin/form/html/dashboard.php:33
+msgid ""
+"Shows list of all the submissions. Allows to filter/export submission "
+"records."
+msgstr ""
+
+#: includes/admin/form/html/notification-type.php:9
+msgid "Enable Auto Reply"
+msgstr ""
+
+#: includes/admin/form/html/notification-type.php:14
+msgid ""
+"Enable auto responder email. After successful submission email is sent to "
+"the user."
+msgstr ""
+
+#: includes/admin/form/html/notification-type.php:21
+#: includes/admin/form/html/notifications.php:17
+msgid "Recipient(s)"
+msgstr ""
+
+#: includes/admin/form/html/notification-type.php:26
+msgid ""
+"Email where you want to receive notification. Multiple emails can be given "
+"using comma(,) sepration. You can also choose any field shortcode given "
+"below to dynamicaly replace the values."
+msgstr ""
+
+#: includes/admin/form/html/notification-type.php:37
+#: includes/admin/form/html/notification-type.php:109
+#: includes/admin/form/html/notification-type.php:170
+#: includes/admin/form/html/notification-type.php:236
+#: includes/admin/form/html/notification-type.php:297
+#: includes/admin/form/html/notification-type.php:364
+#: includes/admin/form/html/notification-type.php:425
+#: includes/admin/form/html/notification-type.php:489
+#: includes/admin/settings/html/payment-settings.php:26
+msgid "From Email"
+msgstr ""
+
+#: includes/admin/form/html/notification-type.php:41
+#: includes/admin/form/html/notification-type.php:493
+#: includes/admin/settings/html/payment-settings.php:30
+msgid ""
+"This displays who the message is from, It is recommened to use Domain email "
+"address."
+msgstr ""
+
+#: includes/admin/form/html/notification-type.php:47
+#: includes/admin/form/html/notification-type.php:119
+#: includes/admin/form/html/notification-type.php:180
+#: includes/admin/form/html/notification-type.php:246
+#: includes/admin/form/html/notification-type.php:307
+#: includes/admin/form/html/notification-type.php:374
+#: includes/admin/form/html/notification-type.php:435
+#: includes/admin/form/html/notification-type.php:499
+#: includes/admin/settings/html/payment-settings.php:36
+msgid "From Name"
+msgstr ""
+
+#: includes/admin/form/html/notification-type.php:51
+#: includes/admin/form/html/notification-type.php:123
+#: includes/admin/form/html/notification-type.php:184
+#: includes/admin/form/html/notification-type.php:250
+#: includes/admin/form/html/notification-type.php:311
+#: includes/admin/form/html/notification-type.php:378
+#: includes/admin/form/html/notification-type.php:439
+#: includes/admin/form/html/notification-type.php:503
+#: includes/admin/settings/html/payment-settings.php:40
+msgid ""
+"When used together with the 'From Email', it creates a from address like "
+"Name \"&ltemail@address.com&gt\""
+msgstr ""
+
+#: includes/admin/form/html/notification-type.php:57
+#: includes/admin/form/html/notification-type.php:129
+#: includes/admin/form/html/notification-type.php:190
+#: includes/admin/form/html/notification-type.php:256
+#: includes/admin/form/html/notification-type.php:317
+#: includes/admin/form/html/notification-type.php:384
+#: includes/admin/form/html/notification-type.php:445
+#: includes/admin/form/html/notification-type.php:509
+#: includes/admin/form/html/notifications.php:16
+#: includes/admin/settings/html/payment-settings.php:46
+msgid "Subject"
+msgstr ""
+
+#: includes/admin/form/html/notification-type.php:61
+#: includes/admin/form/html/notification-type.php:513
+#: includes/admin/settings/html/payment-settings.php:50
+msgid "Subject of the mail sent to the user."
+msgstr ""
+
+#: includes/admin/form/html/notification-type.php:67
+#: includes/admin/form/html/notification-type.php:139
+#: includes/admin/form/html/notification-type.php:200
+#: includes/admin/form/html/notification-type.php:519
+#: includes/admin/settings/html/payment-settings.php:57
+#: includes/admin/submission/html/payment-part.php:68
+msgid "Message"
+msgstr ""
+
+#: includes/admin/form/html/notification-type.php:76
+msgid ""
+"Email content to be sent to the user. Create personalized message using <b>"
+"ERF Fields</b> dropwdown to place submission values."
+msgstr ""
+
+#: includes/admin/form/html/notification-type.php:85
+msgid "Enable Admin Notificaton"
+msgstr ""
+
+#: includes/admin/form/html/notification-type.php:90
+msgid "Enable email notification for every submission."
+msgstr ""
+
+#: includes/admin/form/html/notification-type.php:97
+#: includes/admin/form/html/notification-type.php:285
+#: includes/admin/form/html/notification-type.php:413
+msgid "Notification To"
+msgstr ""
+
+#: includes/admin/form/html/notification-type.php:102
+msgid ""
+"Email where you want to receive notifications for form submissions. Multiple "
+"emails can be given using comma(,) sepration. In case this value is empty, "
+"system will send the notification to site admin."
+msgstr ""
+
+#: includes/admin/form/html/notification-type.php:113
+#: includes/admin/form/html/notification-type.php:174
+#: includes/admin/form/html/notification-type.php:240
+#: includes/admin/form/html/notification-type.php:301
+#: includes/admin/form/html/notification-type.php:368
+#: includes/admin/form/html/notification-type.php:429
+msgid "It is recommened to use Domain email address."
+msgstr ""
+
+#: includes/admin/form/html/notification-type.php:133
+msgid "Subject of the mail sent to the recipient(s)."
+msgstr ""
+
+#: includes/admin/form/html/notification-type.php:148
+msgid ""
+"Email content to be sent to the user. Create personalized message using <b>"
+"ERF Fields</b> dropwdown to place submission values. Use <code>"
+"{{REGISTRATION_DATA}}</code> to dynamically place values of all the "
+"submission fields."
+msgstr ""
+
+#: includes/admin/form/html/notification-type.php:158
+msgid "Enable User Activation Email"
+msgstr ""
+
+#: includes/admin/form/html/notification-type.php:163
+msgid ""
+"Enable User Activation. Allows you to send emails to User on activation."
+msgstr ""
+
+#: includes/admin/form/html/notification-type.php:194
+msgid "Subject of the mail sent to the activated User."
+msgstr ""
+
+#: includes/admin/form/html/notification-type.php:209
+msgid "Email content to be sent to the user on activation."
+msgstr ""
+
+#: includes/admin/form/html/notification-type.php:220
+msgid "Enable Edit Submission Notifications"
+msgstr ""
+
+#: includes/admin/form/html/notification-type.php:225
+msgid "Allows to send email notifications on Edit Submission."
+msgstr ""
+
+#: includes/admin/form/html/notification-type.php:231
+#: includes/admin/form/html/notification-type.php:359
+msgid "User Auto Responder"
+msgstr ""
+
+#: includes/admin/form/html/notification-type.php:260
+#: includes/admin/form/html/notification-type.php:321
+msgid "Subject of the mail sent after edit submission."
+msgstr ""
+
+#: includes/admin/form/html/notification-type.php:266
+#: includes/admin/form/html/notification-type.php:394
+msgid "User Autoresponder"
+msgstr ""
+
+#: includes/admin/form/html/notification-type.php:275
+msgid "Email content to be sent to the user after editing submission."
+msgstr ""
+
+#: includes/admin/form/html/notification-type.php:290
+msgid ""
+"Email where you want to receive notifications on edit submission. Multiple "
+"emails can be given using comma(,) sepration. In case this value is empty, "
+"system will send the notification to site admin."
+msgstr ""
+
+#: includes/admin/form/html/notification-type.php:327
+#: includes/admin/form/html/notification-type.php:455
+msgid "Admin Notification Message"
+msgstr ""
+
+#: includes/admin/form/html/notification-type.php:336
+msgid "Email content to be sent to the user after edit submission."
+msgstr ""
+
+#: includes/admin/form/html/notification-type.php:348
+msgid "Enable Delete Submission Notifications"
+msgstr ""
+
+#: includes/admin/form/html/notification-type.php:353
+msgid "Allows to send email notifications on submission deletion."
+msgstr ""
+
+#: includes/admin/form/html/notification-type.php:388
+#: includes/admin/form/html/notification-type.php:449
+msgid "Subject of the mail sent after submission deletion."
+msgstr ""
+
+#: includes/admin/form/html/notification-type.php:403
+msgid "Email content to be sent to the user after submission deletion."
+msgstr ""
+
+#: includes/admin/form/html/notification-type.php:418
+msgid ""
+"Email where you want to receive notifications on submission delete. Multiple "
+"emails can be given using comma(,) sepration. In case this value is empty, "
+"system will send the notification to site admin."
+msgstr ""
+
+#: includes/admin/form/html/notification-type.php:464
+msgid "Email content to be sent to the user after submission delete."
+msgstr ""
+
+#: includes/admin/form/html/notification-type.php:476
+msgid "Enable User Verification"
+msgstr ""
+
+#: includes/admin/form/html/notification-type.php:481
+#, php-format
+msgid ""
+"Enables notification email for User verification. Make sure to enable <b>"
+"Send Verification Link</b> under <b><a target=\"_blank\" href=\"%s\">"
+"Configure</a></b>."
+msgstr ""
+
+#: includes/admin/form/html/notification-type.php:528
+msgid ""
+"Email content to be sent to the user. Create personalized message using <b>"
+"ERF Fields</b> dropwdown to place submission values. Use <code>"
+"{{verification_link}}</code> to dynamically place the link."
+msgstr ""
+
+#: includes/admin/form/html/notifications.php:18
+#: includes/admin/form/html/reports.php:40
+msgid "Action"
+msgstr ""
+
+#: includes/admin/form/html/notifications.php:32
+msgid "Manage"
+msgstr ""
+
+#: includes/admin/form/html/report.php:19
+msgid "Add/Edit Report"
+msgstr ""
+
+#: includes/admin/form/html/report.php:22
+#: includes/admin/form/html/reports.php:31 includes/admin/plan/html/plan.php:21
+msgid "Name"
+msgstr ""
+
+#: includes/admin/form/html/report.php:26
+msgid "Report Name."
+msgstr ""
+
+#: includes/admin/form/html/report.php:36
+msgid "Report Description."
+msgstr ""
+
+#: includes/admin/form/html/report.php:66
+#: includes/admin/form/html/report.php:95
+#: includes/admin/form/html/report.php:127
+msgid "Alias"
+msgstr ""
+
+#: includes/admin/form/html/report.php:75
+#: includes/admin/form/html/report.php:105
+#: includes/admin/form/html/report.php:136
+msgid "Include in report"
+msgstr ""
+
+#: includes/admin/form/html/report.php:154
+#: includes/admin/form/html/reports.php:37
+msgid "Receipents"
+msgstr ""
+
+#: includes/admin/form/html/report.php:158
+msgid ""
+"Email where you want to receive the report. Multiple emails can be given "
+"using comma(,) sepration. In case this value is empty, system will send the "
+"notification to site admin "
+msgstr ""
+
+#: includes/admin/form/html/report.php:164
+msgid "Email Subject"
+msgstr ""
+
+#: includes/admin/form/html/report.php:168
+msgid "Subject of the email."
+msgstr ""
+
+#: includes/admin/form/html/report.php:174
+msgid "Email Message"
+msgstr ""
+
+#: includes/admin/form/html/report.php:193
+msgid ""
+"Activate/Deactivate the report. Report will not be sent for Deactivated "
+"status."
+msgstr ""
+
+#: includes/admin/form/html/report.php:199
+msgid "Time Range (Days)"
+msgstr ""
+
+#: includes/admin/form/html/report.php:207
+msgid ""
+"Only those submissions will be included in report which are submitted during "
+"this time range."
+msgstr ""
+
+#: includes/admin/form/html/report.php:213
+msgid "Starting Time"
+msgstr ""
+
+#: includes/admin/form/html/report.php:217
+msgid "The first time that you want to send the report."
+msgstr ""
+
+#: includes/admin/form/html/report.php:224
+#: includes/admin/form/html/reports.php:35
+msgid "Recurrence"
+msgstr ""
+
+#: includes/admin/form/html/report.php:228
+msgid "Twice Daily"
+msgstr ""
+
+#: includes/admin/form/html/report.php:229
+msgid "Daily"
+msgstr ""
+
+#: includes/admin/form/html/report.php:231
+msgid "How often the report should send."
+msgstr ""
+
+#: includes/admin/form/html/reports.php:15
+msgid " Report(s)"
+msgstr ""
+
+#: includes/admin/form/html/reports.php:15
+msgid "No Reports"
+msgstr ""
+
+#: includes/admin/form/html/reports.php:38
+msgid "Next Run"
+msgstr ""
+
+#: includes/admin/form/html/reports.php:70
+msgid "Activate"
+msgstr ""
+
+#: includes/admin/form/html/reports.php:72
+msgid "Deactivate"
+msgstr ""
+
+#: includes/admin/form/html/reports.php:76
+msgid "Test Now"
+msgstr ""
+
+#: includes/admin/form/html/reports.php:85
+msgid "No report available."
+msgstr ""
+
+#: includes/admin/form/html/submission_attachments.php:9
+msgid "No Attachments available"
+msgstr ""
+
+#: includes/admin/form/html/submission_attachments.php:20
+msgid ""
+"Unable to fetch file.File might have deleted from from WordPress media "
+"section."
+msgstr ""
+
+#: includes/admin/help/html/help.php:14
+msgid "Shortcode"
+msgstr ""
+
+#: includes/admin/help/html/help.php:15
+msgid "Displays"
+msgstr ""
+
+#: includes/admin/help/html/help.php:23
+msgid "Display Forms"
+msgstr ""
+
+#: includes/admin/help/html/help.php:24
+msgid "It renders form in any page/post, 'X' denotes the ID of a form."
+msgstr ""
+
+#: includes/admin/help/html/help.php:30
+msgid "Display User Account section"
+msgstr ""
+
+#: includes/admin/help/html/help.php:31
+msgid ""
+"Shows listing of all the submissions done by logged in user. Allows to "
+"display, edit and print a submission)."
+msgstr ""
+
+#: includes/admin/help/html/help.php:37
+msgid "Login Form"
+msgstr ""
+
+#: includes/admin/help/html/help.php:38
+msgid "Shows login form with Lost Password option."
+msgstr ""
+
+#: includes/admin/labels/html/labels.php:15
+#: includes/admin/labels/html/labels.php:47
+#: includes/admin/labels/html/labels.php:71
+msgid "Label Name"
+msgstr ""
+
+#: includes/admin/labels/html/labels.php:25
+#: includes/admin/labels/html/labels.php:85
+msgid "Color"
+msgstr ""
+
+#: includes/admin/labels/html/labels.php:49
+msgid "Total Submissions"
+msgstr ""
+
+#: includes/admin/labels/html/labels.php:50
+msgid "Actions"
+msgstr ""
+
+#: includes/admin/labels/html/labels.php:105
+msgid "There is no label created."
+msgstr ""
+
+#: includes/admin/overview/html/overview.php:20
+msgid "Forms Overview"
+msgstr ""
+
+#: includes/admin/overview/html/overview.php:47
+msgid "NAME OF YOUR FORM"
+msgstr ""
+
+#: includes/admin/overview/html/overview.php:56
+msgid "Registration Form"
+msgstr ""
+
+#: includes/admin/overview/html/overview.php:65
+msgid "Contact/Other Form"
+msgstr ""
+
+#: includes/admin/overview/html/overview.php:74
+msgid "Are you sure you want to delete?"
+msgstr ""
+
+#: includes/admin/overview/html/overview.php:75
+msgid "Deletion of form will remove all the related submissions."
+msgstr ""
+
+#: includes/admin/plan/html/plan.php:2
+msgid "Plan"
+msgstr ""
+
+#: includes/admin/plan/html/plan.php:9
+msgid "Pricing Type"
+msgstr ""
+
+#: includes/admin/settings/html/payment-settings.php:3
+msgid "Configure Offline"
+msgstr ""
+
+#: includes/admin/settings/html/payment-settings.php:8
+msgid ""
+"It allow merchants to track payments made via cash, checks, bank transfers, "
+"at the desk, postal orders, or any other means besides online payment "
+"methods such as cards, PayPal, etc. Once you have received the payment, you "
+"will have to manually record it"
+msgstr ""
+
+#: includes/admin/settings/html/payment-settings.php:15
+msgid "Send Email"
+msgstr ""
+
+#: includes/admin/settings/html/payment-settings.php:20
+msgid "Sends email to users to let them know about the payment procedure."
+msgstr ""
+
+#: includes/admin/settings/html/setting-tab.php:13
+msgid "Default Registration Page"
+msgstr ""
+
+#: includes/admin/settings/html/setting-tab.php:17
+msgid "Replaces default WordPress registration page."
+msgstr ""
+
+#: includes/admin/settings/html/setting-tab.php:23
+msgid "Default Upload Directory"
+msgstr ""
+
+#: includes/admin/settings/html/setting-tab.php:27
+msgid ""
+"Upload directory name where all the file uploads will take place. Please do "
+"not use any special characters in directory name. (Only Alphabets,Hyphens(-) "
+"and Underscores(_) allowed.)"
+msgstr ""
+
+#: includes/admin/settings/html/setting-tab.php:33
+msgid "Configure Recaptcha"
+msgstr ""
+
+#: includes/admin/settings/html/setting-tab.php:38
+msgid ""
+"It helps protect websites from spam and abuse. A “CAPTCHA” is a test to tell "
+"human and bots apart. Also make sure to enable Recapctha setting in Form->"
+"Configure->General Settings."
+msgstr ""
+
+#: includes/admin/settings/html/setting-tab.php:45
+msgid "Site Key"
+msgstr ""
+
+#: includes/admin/settings/html/setting-tab.php:49
+#: includes/admin/settings/html/setting-tab.php:59
+msgid ""
+"Mandatory for reCAPTCHA. For more details, <a href=\"https://www.google."
+"com/recaptcha/intro/index.html\">Click Here</a>"
+msgstr ""
+
+#: includes/admin/settings/html/setting-tab.php:55
+msgid "Secret Key"
+msgstr ""
+
+#: includes/admin/settings/html/setting-tab.php:70
+msgid "Login Shortcode"
+msgstr ""
+
+#: includes/admin/settings/html/setting-tab.php:74
+msgid ""
+"Place any content (including shortcodes) after login button. Useful in case "
+"you want to integrate any other plugin's functionality with ERF Login."
+msgstr ""
+
+#: includes/admin/settings/html/setting-tab.php:80
+msgid "After Login Redirect To"
+msgstr ""
+
+#: includes/admin/settings/html/setting-tab.php:84
+msgid ""
+"URL of the page where user will be redirected after login to WordPress. This "
+"value will be overriden in case below role based redirection is enabled and "
+"configured."
+msgstr ""
+
+#: includes/admin/settings/html/setting-tab.php:90
+msgid "Enable Role Based Login Redirection"
+msgstr ""
+
+#: includes/admin/settings/html/setting-tab.php:95
+msgid "Enable login redirection per role."
+msgstr ""
+
+#: includes/admin/settings/html/setting-tab.php:108
+msgid " will be redirected to this URL after login."
+msgstr ""
+
+#: includes/admin/settings/html/setting-tab.php:124
+msgid ""
+"Adds a <b>Submissions</b> link in WooCommerce <b>My Account</b> area. Please "
+"resave Permalinks from WordPress settings."
+msgstr ""
+
+#: includes/admin/settings/html/setting-tab.php:136
+msgid "Currency"
+msgstr ""
+
+#: includes/admin/settings/html/setting-tab.php:158
+msgid "JavaScript Libraries"
+msgstr ""
+
+#: includes/admin/settings/html/setting-tab.php:161
+msgid "jQuery"
+msgstr ""
+
+#: includes/admin/settings/html/setting-tab.php:162
+msgid "Masking"
+msgstr ""
+
+#: includes/admin/settings/html/setting-tab.php:163
+msgid "Font Awesome"
+msgstr ""
+
+#: includes/admin/settings/html/setting-tab.php:164
+msgid "Validation"
+msgstr ""
+
+#: includes/admin/settings/html/setting-tab.php:165
+msgid "reCaptcha"
+msgstr ""
+
+#: includes/admin/settings/html/setting-tab.php:166
+msgid "jQuery UI"
+msgstr ""
+
+#: includes/admin/settings/html/setting-tab.php:167
+msgid ""
+"Note: Only for Advance Users. Helpful in detecting javascript conflicts. "
+msgstr ""
+
+#: includes/admin/submission/html/payment-part.php:45
+msgid "Change Status"
+msgstr ""
+
+#: includes/admin/submission/html/payment-part.php:61
+#: includes/admin/submission/html/submission.php:85
+msgid "Notify User"
+msgstr ""
+
+#: includes/admin/submission/html/payment-part.php:71
+msgid "Description goes here"
+msgstr ""
+
+#: includes/admin/submission/html/payment-part.php:78
+msgid "Add Internal Note"
+msgstr ""
+
+#: includes/admin/submission/html/payment-part.php:88
+msgid "Note Text"
+msgstr ""
+
+#: includes/admin/submission/html/submission.php:7
+msgid "Submission Details"
+msgstr ""
+
+#: includes/admin/submission/html/submission.php:12
+#: includes/admin/submission/html/submission.php:73
+msgid "Add Note"
+msgstr ""
+
+#: includes/admin/submission/html/submission.php:15
+msgid "Print"
+msgstr ""
+
+#: includes/admin/submission/html/submission.php:57
+msgid "Note(s)"
+msgstr ""
+
+#: includes/admin/submission/html/submission.php:63
+msgid "By"
+msgstr ""
+
+#: includes/admin/submission/html/submission.php:78
+msgid "Note"
+msgstr ""
+
+#: includes/admin/submission/html/submission.php:101
+msgid "Submissions History"
+msgstr ""
+
+#: includes/admin/submission/html/submission.php:128
+msgid "Assign Label"
+msgstr ""
+
+#: includes/admin/submission/html/submission.php:142
+#: includes/admin/submission/html/submission.php:157
+msgid "Unable to connect to server."
+msgstr ""
+
+#: includes/admin/submission/html/submissions.php:4
+msgid "Submissions Overview"
+msgstr ""
+
+#: includes/admin/submission/html/submissions.php:8
+msgid ""
+"Feature not available ? Request new features <a target=\"_blank\" "
+"href=\"http://www.easyregistrationforms.com/support/\">here</a>."
+msgstr ""
+
+#: includes/admin/submission/html/submissions.php:32
+msgid "Legends"
+msgstr ""
+
+#. Name of the plugin
+msgid "Easy Registration Forms"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"User friendly WordPress form plugin. Use Drag & Drop form builder to create "
+"your forms."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://easyregistrationforms.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "EasyRegistrationForms"
+msgstr ""
