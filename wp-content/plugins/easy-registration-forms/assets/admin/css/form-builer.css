@@ -1,0 +1,398 @@
+/*
+Builder theme
+	
+    Light : 
+    Dark : 
+    
+    text : 
+    button : 
+
+    hover : 
+---------------------
+
+*/
+.erforms-new-form .form-wrap.form-builder .frmb-control:before,
+.erforms-new-form .form-wrap.form-builder .frmb-control:after{
+    display: block;
+    clear: both;
+    content: "";
+}
+.erforms-new-form .form-wrap.form-builder .frmb-control{
+    padding: 10px;
+    background: #f0f0f0;
+}
+.erforms-new-form .form-wrap.form-builder .frmb li:first-child,
+.erforms-new-form .form-wrap.form-builder .frmb li:last-child,
+.erforms-new-form .form-wrap.form-builder .frmb-control,
+.erforms-new-form .form-wrap.form-builder .frmb-control li:first-child,
+.erforms-new-form .form-wrap.form-builder .frmb-control li:last-child,
+.erforms-new-form .form-wrap.form-builder .frmb .form-elements{
+	-webkit-border-radius: 0;
+	        border-radius: 0;
+	            border: none;
+}
+.erforms-new-form .form-wrap.form-builder .frmb .form-elements{
+	padding-bottom: 15px;	
+}
+
+/*Form background*/
+
+/*Form Elements*/
+.erforms-new-form .form-wrap.form-builder .frmb{
+    padding: 10px;
+    background: #f0f0f0;
+}
+.erforms-new-form .form-wrap.form-builder .frmb li{
+    background-color: #fff;
+    -webkit-transition: 0.25s;
+    transition: 0.25s;
+    box-shadow: 0 2px 4px rgba(0,0,0,.08) !important;
+}
+.erforms-new-form .form-wrap.form-builder .frmb>li:hover{
+    box-shadow: 0 2px 8px rgba(0,0,0,.3) !important;
+    background: #fff;
+}
+
+.erforms-new-form .form-wrap.form-builder .frmb-control li{
+    background-color: white;
+    box-shadow: 0 2px 4px rgba(0,0,0,.08) !important;
+    -webkit-transition: 0.25s;
+    transition: 0.25s;
+}
+.erforms-new-form .form-wrap.form-builder .frmb-control li:hover{
+    box-shadow: 0 2px 8px rgba(0,0,0,.3) !important;
+    background: #fff;
+}
+
+.erforms-new-form .form-wrap.form-builder .frmb li.editing{
+	background: #f9f9f9;
+}
+.erforms-new-form .form-wrap.form-builder .frmb .form-elements .form-element-help a{
+	color: #22A7F0;
+	font-weight: 500;
+	outline: none;
+}
+.erforms-new-form .form-wrap.form-builder .frmb .form-elements .form-element-help a:hover,
+.erforms-new-form .form-wrap.form-builder .frmb .form-elements .form-element-help a:focus{
+	color: #19B5FE;
+}
+.erforms-new-form .form-wrap.form-builder .frmb li.frmb-placeholder,
+.erforms-new-form .form-wrap.form-builder .frmb li.ui-state-highlight{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    height: 0;
+    padding: 24px;
+    background: transparent;
+    border: 0 none;
+    -webkit-clip-path: none;
+    clip-path: none;
+    visibility: visible;
+    overflow: hidden;
+    border-radius: 0;
+    border: 1px dashed #b4b9be;
+}
+
+.erforms-new-form .form-wrap.form-builder .frmb li.moving,
+.erforms-new-form .form-wrap.form-builder .frmb li.ui-sortable-helper{
+	-webkit-box-shadow: none;
+	        box-shadow: none;
+    -webkit-border-radius: 0;
+            border-radius: 0;
+	border-color: #ccc;
+}
+#erf_editor{width : 100%;}
+
+/*Text Colors*/
+.erforms-new-form .form-wrap.form-builder .frmb-control li{ color: #4c4c4c;}
+.erforms-new-form .form-wrap.form-builder .frmb li,
+.erforms-new-form .form-table th,
+.erforms-new-form .form-wrap label,
+.erforms-new-form .form-wrap.form-builder .frmb .field-label,
+.erforms-new-form .form-wrap.form-builder .frmb .legend{
+	color: #4c4c4c    ;
+}
+
+
+.erforms-new-form .form-wrap.form-builder .frmb li.delete:hover,
+.erforms-new-form .form-wrap.form-builder .frmb li.editing.delete:hover{
+	background: inherit;
+	-webkit-box-shadow: inset 0px 0px 1px 0px #e62114;
+	        box-shadow: inset 0px 0px 1px 0px #e62114;
+}
+.erforms-new-form .form-wrap.form-builder .frmb li.delete:hover .close-field,
+
+.erforms-new-form .form-wrap.form-builder .frmb li.deleting .close-field,
+.erforms-new-form .form-wrap.form-builder .frmb li:hover li.delete:hover,
+.erforms-new-form .form-wrap.form-builder .frmb li:hover li.delete:hover .close-field{
+	background-color: #c75875;
+}
+.erforms-new-form .form-wrap.form-builder .frmb li.deleting{
+    box-shadow: inset 0px 0px 0px 1px #e62114 !important;
+    background-color: #fdd;
+}
+.erforms-new-form .form-wrap.form-builder .frmb .field-actions .btn{
+	-webkit-border-radius: 50% !important;
+    border-radius: 50% !important;
+    margin: 8px 4px 0 0;
+	background-color: #757575;
+	color: #FFF;
+}
+.erforms-new-form .form-wrap.form-builder .frmb .field-actions .del-button:hover{
+	background-color: #c75875;
+}
+.erforms-new-form .form-wrap.form-builder .frmb .field-actions .toggle-form:hover{
+	background-color: #7bacdb;
+}
+
+/*From edit*/
+.erforms-new-form .form-wrap.form-builder .frmb .form-elements{
+	background: rgba(255,255,255,0.5);
+	margin-top: 10px;
+}
+
+.erforms-new-form .form-wrap.form-builder .frmb>li >.fa-arrows-v{
+	padding: 8px 10px;
+	border: 1px solid rgba(0,0,0,0.5);
+	margin-right: 10px;
+    color: rgba(0,0,0,0.5);
+}
+
+
+.erforms-new-form .form-wrap.form-builder .frmb .field-label,
+.erforms-new-form .form-wrap.form-builder .frmb .legend{
+    display: inline-block;
+}
+.erforms-new-form .form-wrap.form-builder .fb-required,
+.erforms-new-form .form-wrap.form-builder .required-asterisk{
+    font-weight: bold;
+    vertical-align: top;
+}
+.erforms-new-form .form-wrap.form-builder .field-subtype{
+	vertical-align: middle;
+	color: #FFF;
+	margin-left: 5px;
+	font-family: monospace;
+    color: #1ea9ea;
+    text-transform: uppercase;
+}
+.erforms-new-form .form-wrap.form-builder .radio-group .radio-inline input,
+.erforms-new-form .form-wrap.form-builder .radio-group .radio input,
+.erforms-new-form .form-wrap.form-builder .checkbox-group .checkbox-inline input,
+.erforms-new-form .form-wrap.form-builder .checkbox-group .checkbox input{
+    margin: 0 0 4px 0;
+}
+.erforms-new-form .form-wrap.form-builder .radio-group .radio-inline label,
+.erforms-new-form .form-wrap.form-builder .radio-group .radio label,
+.erforms-new-form .form-wrap.form-builder .checkbox-group .checkbox-inline label,
+.erforms-new-form .form-wrap.form-builder .checkbox-group .checkbox label{
+    min-height: 25px;
+    line-height: 25px;
+    display: inline-block;
+}
+
+.erforms-new-form .form-wrap.form-builder .prev-holder{display:none !important}
+
+.erforms-new-form .form-wrap.form-builder .frmb .field-label{
+    display: inline-block !important;
+    max-width: 150px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    vertical-align: middle;
+    height: 30px;
+    line-height: 30px;
+}
+
+.erforms-new-form .form-wrap.form-builder .frmb .form-elements input[type=color],
+.erforms-new-form .form-wrap.form-builder .frmb .form-elements input[type=date],
+.erforms-new-form .form-wrap.form-builder .frmb .form-elements input[type=number],
+.erforms-new-form .form-wrap.form-builder .frmb .form-elements input[type=text],
+.erforms-new-form .form-wrap.form-builder .frmb .form-elements select,
+.erforms-new-form .form-wrap.form-builder .frmb .form-elements textarea{
+	color: #666;	
+}
+
+.erforms-new-form .form-wrap.form-builder .frmb li .close-field {
+    border: none;
+    color: #FFF;
+    background: #c75875;
+    text-transform: uppercase;
+    padding: 3px 10px;
+    font-weight: 500;
+}
+.erforms-new-form .form-wrap.form-builder input.fld-advance {
+    display: inline-block;
+    width: auto;
+    border: none;
+    color: #22A7F0;
+    background: transparent;
+    box-shadow: none;
+    font-weight: bold;
+    cursor: pointer;
+}
+.erforms-new-form .form-wrap.form-builder input.fld-advance:hover{
+	color: #19B5FE;
+}
+.erforms-new-form .iconpicker .iconpicker-item{
+    padding: 0;
+    height: 24px;
+    width: 24px;
+    color: #666;
+}
+.erforms-new-form .iconpicker .iconpicker-item.iconpicker-selected{
+	color: #FFF;
+	background: #666;
+}
+.erforms-new-form .iconpicker .iconpicker-item .fa{
+    line-height: 24px;
+}
+
+/*element edits*/
+.erforms-new-form .form-wrap.form-builder .frmb .form-elements .input-wrap{
+    width: 51.33333333%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.erforms-new-form .form-wrap.form-builder .frmb .form-elements .form-element-help{
+    width: 28%;
+    float: left;
+    display: table;
+    vertical-align: middle;
+    padding-top: 7px;
+    font-size: 12px;
+}
+
+.erforms-new-form .iconpicker-container .iconpicker-input{
+    height: 34px;
+    display: block;
+    width: 100%;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    border-radius: 4px;
+}
+.erforms-new-form .iconpicker-container .iconpicker-input,
+.erforms-new-form div.form-control{
+    min-height: 34px;
+    height: auto !important;
+    border: 1px solid #ddd;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    background-color: #fff;
+    color: #666;
+    outline: 0;
+    -webkit-transition: 50ms border-color ease-in-out;
+    transition: 50ms border-color ease-in-out;
+}
+.erforms-new-form .iconpicker-container .iconpicker-input:focus,
+.erforms-new-form div.form-control:focus{
+    -webkit-box-shadow: none;
+            box-shadow: none;
+}
+.erforms-new-form .form-wrap.form-builder .frmb .sortable-options .option-selected{
+    width: auto;
+}
+.erforms-new-form .form-elements label{
+    display: inline-block;
+}
+.erforms-new-form .form-wrap.form-builder .frmb .form-elements .input-wrap{ padding-top: 7px;}
+.erforms-new-form .form-wrap.form-builder .frmb .form-elements .input-wrap>input[type=checkbox]{ margin-top: 0;}
+.erforms-new-form .form-wrap.form-builder .frmb .form-elements input[type=number]{ width: 100%; }
+
+.erforms-new-form .form-wrap.form-builder .btn-group>.btn:first-child:not(:last-child):not(.dropdown-toggle) {
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+
+.erforms-new-form .form-wrap.form-builder .frmb .sortable-options{ background: none; }
+
+.erforms-new-form .form-wrap.form-builder .cb-wrap.pull-left .form-actions{ margin-bottom: 5px;}
+
+.erforms-new-form .form-wrap.form-builder .frmb .option-actions a,
+.erforms-new-form .form-wrap.form-builder .frmb .option-actions button{
+	background: none;
+    color: #22A7F0;
+    border: none;
+    cursor: pointer;
+}
+.erforms-new-form .form-wrap.form-builder .frmb .option-actions a:hover,
+.erforms-new-form .form-wrap.form-builder .frmb .option-actions button:hover,
+.erforms-new-form .form-wrap.form-builder .frmb .option-actions a:hover,
+.erforms-new-form .form-wrap.form-builder .frmb .option-actions button:hover{
+	color: #19B5FE;
+}
+.form-wrap.form-builder .frmb .sortable-options>li .remove{
+	color: #e62114;
+}
+
+.form-wrap.form-builder .btn-group .btn,
+.form-wrap.form-builder .frmb .style-wrap button.selected{
+	border: none !important;
+    border-radius: 0 !important;
+    padding: 3px 10px !important;
+    outline: none;
+}
+
+
+/*Popup*/
+.form-builder-dialog.positioned{ 
+    left: 50% !important;
+    transform: translate(-50%,-80%) !important;
+    border-radius: 0;
+    overflow: unset;
+}
+.form-builder-dialog.positioned .button-wrap:before{
+        transform: translate(-50%,9px) !important;
+}
+.form-wrap.form-builder .frmb .field-actions a:before{
+    line-height: 32px;
+}
+.form-builder-dialog{ overflow-y: unset; }
+
+.form-builder-dialog .button-wrap .btn{
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0px;
+    color: #ffffff;
+    text-decoration: none;
+    border: none;
+    padding: 5px 10px;
+    outline: none;
+    cursor: pointer;
+    background: #bcbdbf;
+}
+
+.form-builder-dialog .button-wrap .no:hover{
+     background: #e62114;
+}
+.form-builder-dialog .button-wrap .yes:hover{
+    background:  #84cc1e
+}
+
+#erforms_fb_editor .form-wrap.form-builder .cb-wrap{
+    width: 30%;
+    top: 32px !important;
+    float: left;
+    position: sticky !important;
+}
+#erforms_fb_editor .form-wrap.form-builder .cb-wrap ul{
+        background: #f0f0f0;
+        margin-bottom: 8px;
+}
+#erforms_fb_editor .form-wrap.form-builder .stage-wrap{
+    width: 70%;
+    float: right;
+}
+#erforms_fb_editor .form-wrap.form-builder .frmb .form-elements .false-label:first-child,
+#erforms_fb_editor .form-wrap.form-builder .frmb .form-elements label:first-child{
+    width: 18%;
+    font-weight: 500;
+}
+.erforms-new-form .form-wrap.form-builder .frmb .form-elements .input-wrap{
+    width: 48%;
+}
+#erforms_fb_editor .erforms-new-form .form-wrap.form-builder .frmb .form-elements .form-element-help{
+    width: 30%;
+}
+#erforms_fb_editor .form-wrap.form-builder .frmb .sortable-options{ width: 98%;}
+.form-wrap.form-builder .stage-wrap.pull-right .frmb{ min-height: auto !important;  }

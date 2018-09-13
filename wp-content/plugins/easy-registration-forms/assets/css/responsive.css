@@ -1,0 +1,64 @@
+/* Form Responsive */
+
+@media all and (max-width: 1200px) {}
+@media all and (max-width: 979px) {
+    .erf-container .erf-my-account-nav,
+    .erf-container .erf-my-account-content{
+        width: 100%;
+        padding: 0 0 20px;
+    }
+    .erf-container .erf-my-account-col-sr{
+        width: 50px;
+    }
+    .erf-container .erf-my-account-col-date{
+        display: none;
+    }
+    .erf-container .erf-my-account-col-edit{
+        width: 75px;
+    }
+    .erf-container .erf-my-account-col-form-name{
+        width: calc(100% - 125px);
+    }
+    .erf-container .erf-profile-details-wrap .erf-profile-image{
+        width: 128px;
+        height: 128px;
+    }
+    .erf-container .erf-profile-details-wrap .erf-profile-image img{
+        width: 128px;
+        height: 128px;
+    }
+    .erf-container .erf-profile-details-wrap .erf-profile-details{
+        width: calc(100% - 128px);
+    }
+    .erf-container .erf-profile-detail-title{
+        width: 100px;
+    }
+    .erf-container .erf-profile-detail-content{
+        width: calc(100% - 100px);
+    }
+}
+@media all and (max-width: 767px) {
+	.erf-layout-two-column.erf-container .erf-two-columns .form-group{
+            width: 100%;
+        }
+        .erf-layout-two-column.erf-container .erf-two-columns .form-group:nth-child(odd),
+        .erf-layout-two-column.erf-container .erf-two-columns .form-group:nth-child(even){
+            float: none;
+            margin-right: 0;
+            margin-left: 0;
+        }
+        .erf-layout-two-column.erf-container .erf-form .checkbox-group,
+	.erf-layout-two-column.erf-container .erf-form .radio-group{
+	    width: 70%;
+	    display: inline-block;
+	}
+}
+@media all and (max-width: 479px) {
+    .erf-container .erf-profile-details-wrap .erf-profile-details{
+        width: 100%;
+        padding-left: 10px;
+    }
+    .erf-container .erf-profile-details-wrap .erf-profile-image{
+        margin: 0 auto;
+    }
+}
