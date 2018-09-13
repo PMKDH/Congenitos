@@ -43,7 +43,7 @@ jQuery(document).ready(function(){
             label:{}, 
             description:{},
             confirmPassword: { 
-                label: 'Confirm Password',
+                label: 'Confirmar contraseña',
                 type: 'checkbox',
                 },
             advance: {

@@ -218,7 +218,7 @@ function erforms_default_form_meta($form_type) {
         $meta_input['plan_required'] = 1;
         $meta_input['auto_reply_msg'] = 'Hello,<br>Thank you for registering with us.';
         $meta_input['admin_notification_subject'] = 'New Submission';
-        $meta_input['before_form'] = 'Register with us by filling out the form below.';
+        $meta_input['before_form'] = 'Completa el registro con el siguiente formulario.';
         $meta_input['role_choices'] = array();
         $meta_input['role_choice_position'] = '';
         $meta_input['reports'] = array();

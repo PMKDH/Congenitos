@@ -468,7 +468,7 @@ $new_user_ignore_pass = $creating && isset( $_POST['noconfirmation'] ) ? wp_unsl
 		</td>
 	</tr>
 	<tr class="pw-weak">
-		<th><?php _e( 'Confirm Password' ); ?></th>
+		<th><?php _e( 'Confirmar contraseña' ); ?></th>
 		<td>
 			<label>
 				<input type="checkbox" name="pw_weak" class="pw-checkbox" />
