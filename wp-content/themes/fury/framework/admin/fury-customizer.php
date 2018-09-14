@@ -852,6 +852,28 @@ Kirki::add_field( 'fury_option', array(
     'default'   => '#606975'
 ) );
 Kirki::add_field( 'fury_option', array(
+    'label'     => esc_attr__( 'Logo Width', 'fury' ),
+    'tooltip'   => esc_attr__( 'Set image logo width.', 'fury' ),
+    'settings'  => 'fury_header_logo_width',
+    'section'   => 'title_tagline',
+    'type'      => 'slider',
+    'choices'   => array(
+        'min'   => 1,
+        'max'   => 500,
+        'step'  => 1
+    ),
+    'transport' => 'auto',
+    'output'    => array(
+        array(
+            'element'   => 'a.custom-logo-link',
+            'property'  => 'width',
+            'suffix'    => 'px'
+        )
+    ),
+    'default'   => 154,
+    'priority'  => 9
+) );
+Kirki::add_field( 'fury_option', array(
     'label'     => esc_attr__( 'Site Title Hover Color', 'fury' ),
     'tooltip'   => esc_attr__( 'Set site title custom hover color.', 'fury' ),
     'settings'  => 'fury_header_logo_hover_color',

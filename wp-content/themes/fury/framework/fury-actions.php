@@ -80,7 +80,7 @@ if( ! function_exists( 'fury_logo' ) ) {
                 $logo .= '</a>';
                 echo $logo;
             }
-        }
+        } 
     }
 }
 add_action( 'fury_logo', 'fury_logo' );
@@ -297,7 +297,7 @@ if( ! function_exists( 'fury_content_wrapper' ) ) {
         }
         
         // If is not full width template.
-        if( ! is_page_template( 'templates/full-width.php' ) ) {
+        if( ! is_page_template( 'templates/full-width.php' )  && ! is_page_template( 'templates/for-page-builders.php' ) ) {
             echo '<!-- Content Wrapper -->';
             echo '<div class="content-wrapper container padding-bottom-3x clearfix">';
             
@@ -334,10 +334,13 @@ add_action( 'fury_content_wrapper_end', 'fury_content_wrapper_end' );
  */
 if( ! function_exists( 'fury_post_meta' ) ) {
     function fury_post_meta() {
+        $author_id          = get_the_author_meta( 'ID' );
         $meta['date']       = esc_attr( get_theme_mod( 'fury_blog_meta_date', true ) );
         $meta['author']     = esc_attr( get_theme_mod( 'fury_blog_meta_author', true ) );
         $meta['tags']       = esc_attr( get_theme_mod( 'fury_blog_meta_tags', true ) );
         $meta['comments']   = esc_attr( get_theme_mod( 'fury_blog_meta_comments', true ) );
+        
+        $author_posts_url   = get_author_posts_url( $author_id, get_the_author_meta( 'user_nicename' ) );
         
         $class = apply_filters( 'fury_post_meta_wrapper_class', 'col-md-3' );
         
@@ -347,7 +350,11 @@ if( ! function_exists( 'fury_post_meta' ) ) {
                     $html .= '<li><i class="icon-clock"></i> '. get_the_date() .'</li>';
                 }
                 if( $meta['author'] ) {
-                    $html .= '<li><i class="icon-head"></i> '. ucfirst( get_the_author() ) .'</li>';
+                    $html .= '<li>';
+                        $html .= '<a href="'. esc_url( $author_posts_url ) .'">';
+                            $html .= '<i class="icon-head"></i> '. ucfirst( get_the_author() );
+                        $html .= '</a>';
+                    $html .= '</li>';
                 }
                 if( $meta['tags'] ) {
                     $html .= Fury_Helper::get_tags();
@@ -465,6 +472,58 @@ if( ! function_exists( 'fury_post_nav' ) ) {
     }
 }
 add_action( 'fury_post_nav', 'fury_post_nav' );
+
+
+/**
+ * Author Biographical Info
+ *
+ * @since 1.1.8
+ */
+if( ! function_exists( 'fury_author_bio' ) ) {
+    function fury_author_bio() {
+        $html = '';
+        $id = get_the_author_meta( 'ID' );
+        if( get_the_author_meta( 'first_name') && get_the_author_meta( 'last_name' ) ) {
+            $name = get_the_author_meta( 'first_name' ) .' '. get_the_author_meta( 'last_name' );
+        } else {
+            $name = get_the_author_meta( 'display_name' );
+        }
+        $desc = nl2br( get_the_author_meta( 'description' ) );
+        $author_posts_url = get_author_posts_url( $id, get_the_author_meta( 'user_nicename' ) );
+        $website = esc_url( get_the_author_meta( 'user_url' ) );
+        if( $desc ) {
+            $html .= '<section class="padding-top-2x" id="author">';
+                $html .= '<h3 class="padding-bottom-1x">';
+                    $html .= esc_html__( 'About Author', 'fury' );
+                $html .= '</h3>';
+                $html .= '<div class="comment even thread-even depth-1">';
+                    $html .= '<div class="comment-author-ava">';
+                        $html .= get_avatar( $id, 50 );
+                    $html .= '</div>';
+                    $html .= '<div class="comment-body">';
+                        $html .= '<div class="comment-header">';
+                            $html .= '<h4 class="comment-title">';
+                                $html .= '<a href="'. $author_posts_url .'" title="'. esc_attr__( 'All posts by this author.', 'fury' ) .'">';
+                                    $html .= $name;
+                                $html .= '</a>';
+                                if( $website ) {
+                                    $html .= '<a href="'. $website .'" title="'. esc_attr__( 'Author Website', 'fury' ) .'" target="_blank" rel="nofollow">';
+                                        $html .= '<i class="icon-link"></i>';
+                                    $html .= '</a>';
+                                }
+                            $html .= '</h4>';
+                        $html .= '</div>';
+                        $html .= '<p class="comment-text">';
+                            $html .= $desc;
+                        $html .= '</p>';
+                    $html .= '</div>';
+                $html .= '</div>';
+            $html .= '</section>';
+        }
+        echo $html;
+    }
+}
+add_action( 'fury_author_bio', 'fury_author_bio' );
 
 
 /**
