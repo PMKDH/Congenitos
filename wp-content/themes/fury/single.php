@@ -24,6 +24,8 @@ if( ! defined( 'ABSPATH' ) ) {
     
     <?php do_action( 'fury_post_nav' ); ?>
     
+    <?php do_action( 'fury_author_bio' ); ?>
+    
     <?php do_action( 'fury_post_related_articles' ); ?>
     
     <?php comments_template(); ?>

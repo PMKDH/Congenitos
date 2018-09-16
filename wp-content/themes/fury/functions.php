@@ -49,7 +49,7 @@ final class Fury_Theme extends Fury_Core {
      */
     function __construct() {
         
-        parent::$version     = '1.1.7';
+        parent::$version     = '1.1.8';
         parent::$development = false;
         
         parent::__construct();

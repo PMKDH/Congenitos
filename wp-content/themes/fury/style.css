@@ -4,7 +4,7 @@
  Author: Theme Vision
  Author URI: http://theme-vision.com/
  Description: Fury is Multi-Purpose, responsive WordPress theme.
- Version: 1.1.7
+ Version: 1.1.8
  License: GNU General Public License V3
  License URI: http://www.gnu.org/licenses/gpl-3.0.html
  Tags: blog, buddypress, news, e-commerce, one-column, two-columns, right-sidebar, left-sidebar, custom-background, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-image-header, featured-images, flexible-header, footer-widgets, full-width-template, microformats, post-formats, sticky-post, theme-options, threaded-comments, translation-ready
@@ -3924,6 +3924,11 @@ button:focus {
     font-size: 1.4em;
 }
 
+/* About Author on single.php */
+.single-post #author .comment-title a:first-child {
+    padding-right: 10px;
+}
+
 .comment {
     display: block;
     position: relative;
@@ -7451,7 +7456,7 @@ video {
     position: relative;
     min-height: 100vh;
     background-color: #ffffff;
-    z-index: 10;
+    /*z-index: 10;*/
 }
 
 .offcanvas-container {
@@ -7463,7 +7468,7 @@ video {
     background-color: #374250;
     box-shadow: inset -4px 0 17px 0 rgba(0, 0, 0, 0.35);
     visibility: hidden;
-    z-index: 1;
+    /*z-index: 1;*/
     overflow-y: auto;
 }
 
@@ -7817,6 +7822,12 @@ video {
     margin-top: -2px;
     margin-right: 3px;
     color: #9da9b9;
+}
+
+.post-meta > li i.icon-clock,
+.post-meta > li i.icon-head,
+.post-meta > li i.icon-speech-bubble {
+    margin-top: -5px;
 }
 
 .post-meta > li > a {

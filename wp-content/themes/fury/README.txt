@@ -3,6 +3,11 @@ Fury is distributed under the terms of the GNU GPL3
 
 ####################### Changelog ######################
 
+= 1.1.8 - 14 September 2018 =
+* Added new page template (For Page Builders).
+* Added about author section on single.php.
+* Added logo width feature (Customize->Header->Logo).
+
 = 1.1.7 - 02 September 2018 =
 * Added header top bar styling features (Customize->Header->Top Bar).
 * Added header styling features (Customize->Header->General).
