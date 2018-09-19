@@ -56,21 +56,27 @@ html.fa-events-icons-ready{
 .erf-container .erf-form textarea{
     background-color: #fff;
     box-sizing: border-box;
-    border-radius: 2px;
     color: #333;
     -webkit-box-sizing:border-box;
     -moz-box-sizing:border-box;
     display: block;
     float: none;
-    box-shadow: none;
+    -webkit-box-shadow: none;
+            box-shadow: none;
     font-size: 16px;
-    border: 1px solid #ccc;
+    border: 1px solid #ced4da;
     padding: 6px 10px;
     height: 38px;
     width: 100%;
     line-height: 1.3;
     outline: none;
     max-width: 60%;    
+}
+.erf-container .erf-form select{
+     -webkit-appearance: none;
+      -moz-appearance: none;
+      appearance: none;
+      height: 42px;
 }
 .erf-container .erf-form .erf-price-total{ max-width: 60%; padding-top: 10px;}
 .erf-layout-two-column.erf-container .erf-form .erf-price-total{ max-width: 100%;}
@@ -179,6 +185,121 @@ html.fa-events-icons-ready{
     vertical-align: top;
 }
 
+/***********
+Border Style
+************/
+.erf-style-flat .erf-form input[type=date],
+.erf-style-flat .erf-form input[type=datetime],
+.erf-style-flat .erf-form input[type=datetime-local],
+.erf-style-flat .erf-form input[type=email],
+.erf-style-flat .erf-form input[type=month],
+.erf-style-flat .erf-form input[type=number],
+.erf-style-flat .erf-form input[type=password],
+.erf-style-flat .erf-form input[type=file],
+.erf-style-flat .erf-form input[type=range],
+.erf-style-flat .erf-form input[type=search],
+.erf-style-flat .erf-form input[type=tel],
+.erf-style-flat .erf-form input[type=text],
+.erf-style-flat .erf-form input[type=time],
+.erf-style-flat .erf-form input[type=url],
+.erf-style-flat .erf-form input[type=week],
+.erf-style-flat .erf-form input[type=user_email],
+.erf-style-flat .erf-form select,
+.erf-style-flat .erf-form textarea{
+    border-radius: 0px !important;
+}
+.erf-style-rounded .erf-form input[type=date],
+.erf-style-rounded .erf-form input[type=datetime],
+.erf-style-rounded .erf-form input[type=datetime-local],
+.erf-style-rounded .erf-form input[type=email],
+.erf-style-rounded .erf-form input[type=month],
+.erf-style-rounded .erf-form input[type=number],
+.erf-style-rounded .erf-form input[type=password],
+.erf-style-rounded .erf-form input[type=file],
+.erf-style-rounded .erf-form input[type=range],
+.erf-style-rounded .erf-form input[type=search],
+.erf-style-rounded .erf-form input[type=tel],
+.erf-style-rounded .erf-form input[type=text],
+.erf-style-rounded .erf-form input[type=time],
+.erf-style-rounded .erf-form input[type=url],
+.erf-style-rounded .erf-form input[type=week],
+.erf-style-rounded .erf-form input[type=user_email],
+.erf-style-rounded .erf-form select,
+.erf-style-rounded .erf-form textarea{
+    border-radius: 19px !important;
+    padding: 10px 15px !important;
+}
+.erf-style-rounded.erf-label-top.erf-container .erf-form label[class$="-label"]{
+    padding-left: 15px;
+}
+
+.erf-style-rounded-corner .erf-form input[type=date],
+.erf-style-rounded-corner .erf-form input[type=datetime],
+.erf-style-rounded-corner .erf-form input[type=datetime-local],
+.erf-style-rounded-corner .erf-form input[type=email],
+.erf-style-rounded-corner .erf-form input[type=month],
+.erf-style-rounded-corner .erf-form input[type=number],
+.erf-style-rounded-corner .erf-form input[type=password],
+.erf-style-rounded-corner .erf-form input[type=file],
+.erf-style-rounded-corner .erf-form input[type=range],
+.erf-style-rounded-corner .erf-form input[type=search],
+.erf-style-rounded-corner .erf-form input[type=tel],
+.erf-style-rounded-corner .erf-form input[type=text],
+.erf-style-rounded-corner .erf-form input[type=time],
+.erf-style-rounded-corner .erf-form input[type=url],
+.erf-style-rounded-corner .erf-form input[type=week],
+.erf-style-rounded-corner .erf-form input[type=user_email],
+.erf-style-rounded-corner .erf-form select,
+.erf-style-rounded-corner .erf-form textarea{
+    border-radius: 4px !important;
+}
+.erf-style-border-bottom .erf-form input[type=date],
+.erf-style-border-bottom .erf-form input[type=datetime],
+.erf-style-border-bottom .erf-form input[type=datetime-local],
+.erf-style-border-bottom .erf-form input[type=email],
+.erf-style-border-bottom .erf-form input[type=month],
+.erf-style-border-bottom .erf-form input[type=number],
+.erf-style-border-bottom .erf-form input[type=password],
+.erf-style-border-bottom .erf-form input[type=file],
+.erf-style-border-bottom .erf-form input[type=range],
+.erf-style-border-bottom .erf-form input[type=search],
+.erf-style-border-bottom .erf-form input[type=tel],
+.erf-style-border-bottom .erf-form input[type=text],
+.erf-style-border-bottom .erf-form input[type=time],
+.erf-style-border-bottom .erf-form input[type=url],
+.erf-style-border-bottom .erf-form input[type=week],
+.erf-style-border-bottom .erf-form input[type=user_email],
+.erf-style-border-bottom .erf-form select,
+.erf-style-border-bottom .erf-form textarea{
+    border-radius: 0px !important;
+ 	border-bottom: 2px solid #ced4da;
+ 	border-left: none !important;
+ 	border-right: none !important;
+ 	border-top: none !important;
+}
+
+.erf-style-flat .erf-form .fb-button .erf-submit-button,
+.erf-style-border-bottom .erf-form .fb-button .erf-submit-button{
+    border-radius: 0 !important;
+}
+
+.erf-style-rounded .erf-form .fb-button .erf-submit-button,
+.erf-style-rounded .erf-form .erf-form-nav .erf-submit-button{
+    border-top-right-radius: 1em;
+    border-top-left-radius: 1em;
+    border-bottom-left-radius: 1em;
+    border-bottom-right-radius: 1em;
+}
+
+.erf-style-rounded-corner .erf-form .fb-button .erf-submit-button,
+.erf-style-rounded-corner .erf-form .erf-form-nav .erf-submit-button{
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+/*Border Style Ends*/
+
 .erf-container .erf-form input:hover,
 .erf-container .erf-form textarea:hover,
 .erf-container .erf-form select:hover,
@@ -187,6 +308,15 @@ html.fa-events-icons-ready{
 .erf-container .erf-form select:focus {
     border: 1px solid #ccc;
 }
+.erf-style-border-bottom .erf-form input:hover,
+.erf-style-border-bottom .erf-form textarea:hover,
+.erf-style-border-bottom .erf-form select:hover,
+.erf-style-border-bottom .erf-form input:focus,
+.erf-style-border-bottom .erf-form textarea:focus,
+.erf-style-border-bottom .erf-form select:focus {
+    border: 2px solid #ccc;
+}
+
 .erf-container .erf-form input:focus,
 .erf-container .erf-form textarea:focus,
 .erf-container .erf-form select:focus{
@@ -197,7 +327,8 @@ html.fa-events-icons-ready{
 .erf-container .erf-form input[type=checkbox]:focus,
 .erf-container .erf-form input[type=radio]:hover,
 .erf-container .erf-form input[type=radio]:focus{
-    box-shadow: none;
+    -webkit-box-shadow: none;
+            box-shadow: none;
 }
 
 .erf-container .erf-form input[type=file],
@@ -225,36 +356,27 @@ html.fa-events-icons-ready{
 }
 .erf-loader{
   -webkit-animation: rotating 1s linear infinite;
-  -moz-animation: rotating 1s linear infinite;
-  -ms-animation: rotating 1s linear infinite;
-  -o-animation: rotating 1s linear infinite;
   animation: rotating 1s linear infinite;
 }
 @-webkit-keyframes rotating /* Safari and Chrome */ {
   from {
     -webkit-transform: rotate(0deg);
-    -o-transform: rotate(0deg);
     transform: rotate(0deg);
   }
   to {
     -webkit-transform: rotate(360deg);
-    -o-transform: rotate(360deg);
     transform: rotate(360deg);
   }
 }
 @keyframes rotating {
   from {
     -ms-transform: rotate(0deg);
-    -moz-transform: rotate(0deg);
     -webkit-transform: rotate(0deg);
-    -o-transform: rotate(0deg);
     transform: rotate(0deg);
   }
   to {
     -ms-transform: rotate(360deg);
-    -moz-transform: rotate(360deg);
     -webkit-transform: rotate(360deg);
-    -o-transform: rotate(360deg);
     transform: rotate(360deg);
   }
 }
@@ -386,10 +508,11 @@ html.fa-events-icons-ready{
 .erf-container .erf-form .erf-disabled,
 .erf-container .erf-form .form-control:disabled,
 .erf-container .erf-form .form-control[readonly]{
+    pointer-events: none;
     cursor: not-allowed;
     background-color: #eee !important;
     opacity: 1;
-    pointer-events: none;
+
 }
 .erf-link-disabled{
     cursor: not-allowed;
@@ -430,11 +553,6 @@ html.fa-events-icons-ready{
     padding-left: 0px;
 }
 
-.erf-container .erf-form select {
-    max-width: 100%;
-    text-transform: none;
-    white-space: nowrap;
-}
 .erf-container .erf-form select.erf-price,
 .erf-container .erf-form select[multiple="true"]{
     height: auto;
@@ -610,7 +728,8 @@ html.fa-events-icons-ready{
 .erf_form_layout_admin_dialog {
     display: block;
     width: 100% !important;
-    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
 }
 .erf_form_layout_admin_dialog .erf-control select{ width: 100%; }
 /*Loader*/
@@ -996,7 +1115,8 @@ html.fa-events-icons-ready{
     color: currentColor;
     border: none;
     margin-left: 10px;
-    box-shadow: 0px 0px 2px 0px rgba(0,0,0,0.2);
+    -webkit-box-shadow: 0px 0px 2px 0px rgba(0,0,0,0.2);
+            box-shadow: 0px 0px 2px 0px rgba(0,0,0,0.2);
 }
 /*Submission Popup table*/
 .erf-container .erf-submission-table{
@@ -1041,7 +1161,21 @@ html.fa-events-icons-ready{
             box-shadow: none;
     outline: none;
 }
-
+/*GDPR*/
+.erf-container .erf-gdpr-label{
+    margin: 0;
+    display: inline-block;
+    width: auto;
+}
+.erf-container .erf-gdpr-label *{
+    font-size: 16px;
+    margin: 0;
+    line-height: 1.3em;
+}
+.erf-container .erf-gdpr .parsley-errors-list li,
+.erf-container .erf-gdpr .parsley-errors-list li{
+    margin-left: 30px;
+}
 @media print {
     .erf-submission-table,
     .erf-submission-table tr,

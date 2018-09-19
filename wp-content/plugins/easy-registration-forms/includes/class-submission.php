@@ -443,7 +443,8 @@ class ERForms_Submission extends ERForms_Post {
 
         return $submissions;
     }
-
+    
+    // This does not update meta values. Only updates submission array in post_content.
     public function update($submission) {
         if (empty($submission))
             return false;
@@ -451,12 +452,11 @@ class ERForms_Submission extends ERForms_Post {
         $all_meta = $this->meta_keys();
         foreach ($all_meta as $meta) {
             if (isset($submission[$meta])) {
-                $this->update_meta($submission['id'], $meta, $submission[$meta]);
                 unset($submission[$meta]);
             }
         }
 
-        // Update post 37
+        // Update post
         $post = array(
             'ID' => $submission['id'],
             'post_content' => erforms_encode($submission),
@@ -923,14 +923,14 @@ class ERForms_Submission extends ERForms_Post {
         $this->add_note($sub_id, $msg);
     }
     
-    public function save_submission($submission){
-        if(empty($submission['id'])){
-            return false;
+    
+    /**
+     * Delete Submission(s) by Submission array object
+     */
+    public function delete_submissions($submissions=array()) {
+        foreach ($submissions as $submission ) {
+            wp_delete_post($submission['id'],true);
         }
-        $args = array(
-            'post_content' => erforms_encode($submission),
-            'ID'=>$submission['id']
-        );
-        return wp_update_post($args);
+        return true;
     }
 }

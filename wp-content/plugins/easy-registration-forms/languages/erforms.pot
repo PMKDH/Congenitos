@@ -7297,7 +7297,7 @@ msgstr ""
 
 #: includes/admin/form/class-form-dashboard.php:164
 msgid "Confirm Password"
-msgstr "Confirma contraseña"
+msgstr ""
 
 #: includes/admin/labels/class-label.php:73
 msgid "Both Label name and color are required fields."

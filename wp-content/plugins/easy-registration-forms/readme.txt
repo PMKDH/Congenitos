@@ -4,7 +4,7 @@ Tags: WordPress Registration, Registration Form, Contact Form, Registration, Use
 Requires at least: 4.8
 Tested up to: 4.9
 Requires PHP: 5.6
-Stable tag: 1.4.3
+Stable tag: 1.4.4
 License: GNU General Public License v2.0 or later
 License URI: https://www.gnu.org/licenses/license-list.html#GPLCompatibleLicenses
 
@@ -55,6 +55,8 @@ All the submissions can be viewed under submission manager area in WordPress adm
 * Available Add ons: 
     1. <a target="_blank" href="http://www.easyregistrationforms.com/product/conditional-field-extension/">Conditional Fields & Notifications</a>.
     2. <a target="_blank" href="http://www.easyregistrationforms.com/product/mailchimp-extension/">Mailchimp Integration</a>.
+    3. <a target="_blank" href="http://www.easyregistrationforms.com/product/gdpr-compliance/">GDPR</a>
+
 Want to request more features, request <a target="_blank" href="http://www.easyregistrationforms.com/support/">here</a>
 == Installation ==
 1. Download the plugin
@@ -63,6 +65,13 @@ Want to request more features, request <a target="_blank" href="http://www.easyr
 
 
 == Changelog ==
+= 1.4.4 =
+1. Multi page UI improvements. 
+2. Field styling options added under Form's display configuration.
+3. Submission deletion issue in backend.
+4. Hook changes.
+5. User meta update issue after external submission.
+
 = 1.4.3 =
 1. Global Settings and Form Configure UI improvements.
 2. Condition fields fix for Multipage forms.

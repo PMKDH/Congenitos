@@ -5,7 +5,7 @@
  * Plugin URI:  http://easyregistrationforms.com
  * Description: User friendly WordPress form plugin. Use Drag & Drop form builder to create your forms.
  * Author:      EasyRegistrationForms
- * Version:     1.4.3
+ * Version:     1.4.4
  * Text Domain: erforms
  * Domain Path: /languages
  *
@@ -47,7 +47,7 @@ if (!class_exists('ERForms')) {
          *
          * @var string
          */
-        public $version = '1.4.3';
+        public $version = '1.4.4';
 
         /**
          * The form data handler instance.

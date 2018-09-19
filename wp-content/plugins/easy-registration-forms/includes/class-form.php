@@ -95,6 +95,7 @@ class ERForms_Form extends ERForms_Post
                 return false;
             
             $form= $this->get_meta($post->ID,'form_data');
+            $form['title']= $post->post_title;
             $form['id']= $post->ID;
             $form['fields']= $form['fields'];
             $default_meta_values= erforms_default_form_meta($form['type']);

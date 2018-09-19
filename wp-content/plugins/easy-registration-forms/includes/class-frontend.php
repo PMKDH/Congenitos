@@ -31,7 +31,7 @@ class ERForms_Frontend {
         add_shortcode('erforms_preview', array($this, 'preview'));
         add_shortcode('erforms_my_account', array($this, 'my_account'));
 
-        add_filter('erf_form_validated', array($this, 'form_validated'), 10, 2);
+        add_filter('erf_form_validated', array($this, 'form_validated'), 10, 3);
         add_filter('erf_after_submission_insertion', array($this, 'after_submission_insertion'), 10, 3);
         add_filter('register_url', array($this, 'register_url'));
         add_filter('erf_form_render_allowed', array($this, 'form_render_allowed'), 10, 2);
@@ -125,11 +125,12 @@ class ERForms_Frontend {
                 ), $atts, 'output');
         ob_start();
 
-        $this->render_form($atts);
         $sub_id = isset($_GET['sub_id']) ? absint($_GET['sub_id']) : 0;
         if (!empty($sub_id) && erforms_edit_permission($atts['id'], $sub_id)) { // Edit submission allowed for only admin (Exception: My Account page allows to edit submission from user)
             $this->edit_submission($sub_id, $atts);
         }
+        
+        $this->render_form($atts);
         return ob_get_clean();
     }
 
@@ -246,7 +247,7 @@ class ERForms_Frontend {
         if (!empty($this->errors)) {
             return false;
         }
-        $errors = apply_filters('erf_form_validated', $form['id'], $request_data);
+        $errors = apply_filters('erf_form_validated', array(),$form['id'], $request_data);
         if (!empty($errors)) {
             $this->errors = $errors;
             return false;
@@ -329,7 +330,7 @@ class ERForms_Frontend {
      * Called after form validation.
      * Saves submission data
      */
-    public function form_validated($form_id, $data) {
+    public function form_validated($errors,$form_id, $data) {
         $submission_id = isset($data['submission_id']) ? absint($data['submission_id']) : 0;
         $data = apply_filters('erf_before_submission_save', $data, $form_id);
         if (!empty($submission_id)) // Edit submission
@@ -522,6 +523,7 @@ class ERForms_Frontend {
         if (empty($form))
             return;
         wp_enqueue_script('erf-edit-submission', ERFORMS_PLUGIN_URL . 'assets/js/erforms-edit-submission.js');
+        $this->edit_sub_status= true;
     }
 
     /*

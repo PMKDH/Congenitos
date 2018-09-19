@@ -155,8 +155,12 @@
 
             var pageBreaks = form.find('div[custom-type=page-break]');
             pageBreaks.addClass('page-break');
-            navContainer.attr('current-page-index', 0);   // Assigning current page index     
-
+            navContainer.attr('current-page-index', 0);   // Assigning current page index    
+            if(pageBreaks.length>1){
+                form.find('.erf-external-form-elements').hide(); // Hiding external form elements for multipage forms
+            }
+            
+            
             var goToPage = function (selectedIndex, next) {
                 var currentPageIndex = form.find('.active-page').attr('page-index');
                 var next = next || false;
@@ -173,6 +177,13 @@
                             pages[i].hide();
                     }
                     addNavButtons(selectedIndex);
+                }
+                
+                if((selectedIndex + 1)==pageBreaks.length){
+                    form.find('.erf-external-form-elements').show(); // Showing external form elements at last pagination
+                }
+                else{
+                    form.find('.erf-external-form-elements').hide();
                 }
                 // Scroll on top
                 $('html, body').animate({

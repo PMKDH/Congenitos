@@ -362,6 +362,8 @@ class ERForms_Dashboard {
             $form['en_edit_sub']= isset($_POST['en_edit_sub']) ? absint($_POST['en_edit_sub']) : 0;
             $form['allow_sub_deletion']= isset($_POST['allow_sub_deletion']) ? absint($_POST['allow_sub_deletion']) : 0;
             $form['edit_fields']= empty($_POST['edit_fields']) ? array() : $_POST['edit_fields'];
+            $form['field_style']= empty($_POST['field_style']) ? '' : sanitize_text_field($_POST['field_style']);
+            
             $form= apply_filters('erforms_save_configuration',$form);
             $form_model->update_form($form);
             if(isset($_POST['savec'])){// Save and Close

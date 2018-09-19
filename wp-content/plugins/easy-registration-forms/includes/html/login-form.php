@@ -18,7 +18,7 @@
         <form action="" method="post" class="erf-login-form erf-form">
             <div class="fb-text form-group">
                 <label for="erf_username" class="fb-text-label">
-    <?php _e('Usuario/Email', 'erforms') ?><span class="fb-required">*</span>
+    <?php _e('Username/Email', 'erforms') ?><span class="fb-required">*</span>
                 </label>
 
                 <input required="" value="<?php echo isset($_POST['erf_username']) ? $_POST['erf_username'] : ''; ?>" type="text" class="form-control" id="erf_username" name="erf_username">
@@ -26,7 +26,7 @@
 
             <div class="fb-text form-group">
                 <label for="erf_password" class="fb-text-label">
-    <?php _e('Contraseña', 'erforms') ?><span class="fb-required">*</span>
+    <?php _e('Password', 'erforms') ?><span class="fb-required">*</span>
                 </label>
 
                 <input type="password" value="<?php echo isset($_POST['erf_password']) ? $_POST['erf_password'] : ''; ?>" required="" class="form-control" id="erf_password" name="erf_password">
@@ -36,7 +36,7 @@
 
                 <label for="rememberme" class="fb-text-label">
                     <input name="rememberme" <?php echo isset($_POST['rememberme']) ? 'checked' : ''; ?> type="checkbox" id="erf_rememberme" value="forever">
-    <?php _e('Recuérdame', 'erforms') ?>
+    <?php _e('Remember', 'erforms') ?>
                 </label>
             </div>
 
@@ -50,17 +50,17 @@
             
             <div class="erf-submit-button">    
                 <div class="fb-button form-group">
-                    <button type="submit" class="btn btn-default" style="default">Entrar</button>
+                    <button type="submit" class="btn btn-default" style="default">Login</button>
                 </div>
             </div>
     <?php if (isset($attr['show_register_form']) && !empty($attr['show_register_form'])) : ?>
                 <div class="erf-account-switch">
                     <a class="erf-show-register" href="javascript:void(0)"><?php _e('Register', 'erforms') ?></a>
-                    <a class="erf-show-lost-password"  href="javascript:void(0)" title="<?php _e('Recuperar contraseña', 'erforms') ?>"><?php _e('¿Has olvidado tu contraseña?', 'erforms') ?></a>
+                    <a class="erf-show-lost-password"  href="javascript:void(0)" title="<?php _e('Lost/Forgot Password?', 'erforms') ?>"><?php _e('Lost Password?', 'erforms') ?></a>
                 </div>
     <?php else: ?>
                 <div class="erf-account-switch">
-                    <a class="erf-show-lost-password"  href="javascript:void(0)" title="<?php _e('Recuperar contraseña', 'erforms') ?>"><?php _e('¿Has olvidado tu contraseña?', 'erforms') ?></a>
+                    <a class="erf-show-lost-password"  href="javascript:void(0)" title="<?php _e('Lost/Forgot Password?', 'erforms') ?>"><?php _e('Lost Password?', 'erforms') ?></a>
                 </div>
     <?php endif; ?>
 

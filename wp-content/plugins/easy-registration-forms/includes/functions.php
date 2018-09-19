@@ -198,6 +198,7 @@ function erforms_default_form_meta($form_type) {
     $meta_input['redirect_to'] = '';
     $meta_input['label_position'] = 'top';
     $meta_input['layout'] = 'one-column';
+    $meta_input['field_style']= 'rounded-corner';
 //$meta_input['success_msg']= "Thank you for registering with us!"; // changing success msg
     $meta_input['access_denied_msg'] = 'You are not authorised to access this form.';
     $meta_input['plan_enabled'] = 0;
@@ -218,7 +219,7 @@ function erforms_default_form_meta($form_type) {
         $meta_input['plan_required'] = 1;
         $meta_input['auto_reply_msg'] = 'Hello,<br>Thank you for registering with us.';
         $meta_input['admin_notification_subject'] = 'New Submission';
-        $meta_input['before_form'] = 'Completa el registro con el siguiente formulario.';
+        $meta_input['before_form'] = 'Register with us by filling out the form below.';
         $meta_input['role_choices'] = array();
         $meta_input['role_choice_position'] = '';
         $meta_input['reports'] = array();
@@ -1426,8 +1427,45 @@ function erforms_front_submission_table($submission, $exclude = array()) {
                         '<td>'.$single['f_val'].'</td>'.    
                      '</tr>';
     }
+    if(!empty($submission['plan'])){
+        $plan_names= array();
+        if (is_array($submission['plan']) && !isset($submission['plan']['name']) && is_array($submission['plan']))
+        {
+            foreach($submission['plan'] as $plan){
+                  $plan_names[]= $plan['name'];
+             } 
+        }
+        else
+        {
+            $plan_names[]= $submission['plan']['name'];
 
-        $html .='</tbody></table>';
+        }
+        $html .= '<tr>'.
+                    '<th><label>'.__('Payment via','erforms').'</label></th>'.
+                    '<td>'.erforms_payment_method_title($submission['payment_method']).'</td>'.
+                 '</tr>'.
+                 '<tr>'. 
+                    '<th><label>'.__('Amount','erforms').'</label></th>'.
+                    '<td>'.erforms_currency_symbol($submission['currency'], false).$submission['amount'].'</td>'.
+                 '</tr>'.
+                 '<tr>'.   
+                    '<th><label>'.__('Payment Status','erforms').'</label></th>'.
+                    '<td>'.ucwords($submission['payment_status']).'</td>'.
+                 '</tr>'.
+                 '<tr>'.  
+                    '<th><label>'.__('Payment Invoice','erforms').'</label></th>'.
+                    '<td>'.$submission['payment_invoice'].'</td>'.
+                 '</tr>'.
+                 '<tr>'.   
+                    '<th><label>'.__('Plan Name','erforms').'</label></th>'.
+                    '<td>'.implode(', ', $plan_names).'</td>'.
+                 '</tr>'.
+                 '<tr>'.
+                    '<th><label>'.__('Date','erforms').'</label></th>'.
+                    '<td>'.$submission['modified_date'].'</td>'. 
+                 '</tr>';   
+    }
+    $html .='</tbody></table>';
     return $html;    
 
 }

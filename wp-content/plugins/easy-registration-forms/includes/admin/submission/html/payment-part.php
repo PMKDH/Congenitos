@@ -3,7 +3,7 @@
         <tbody>
             <tr>
                 <th colspan="2" class="erf-submission-title">
-                    <?php _e('Payment via '); ?> : 
+                    <?php _e('Payment via','erforms'); ?> : 
                     <?php echo erforms_payment_method_title($submission['payment_method']); ?>
                 </th>
             </tr>

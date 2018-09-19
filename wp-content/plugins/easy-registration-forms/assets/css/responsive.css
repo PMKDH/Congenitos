@@ -37,7 +37,10 @@
         width: calc(100% - 100px);
     }
 }
-@media all and (max-width: 767px) {
+@media all and (max-width: 768px) {
+    .erf-container .erf-form input[type=date], .erf-container .erf-form input[type=datetime], .erf-container .erf-form input[type=datetime-local], .erf-container .erf-form input[type=email], .erf-container .erf-form input[type=month], .erf-container .erf-form input[type=number], .erf-container .erf-form input[type=password], .erf-container .erf-form input[type=file], .erf-container .erf-form input[type=range], .erf-container .erf-form input[type=search], .erf-container .erf-form input[type=tel], .erf-container .erf-form input[type=text], .erf-container .erf-form input[type=time], .erf-container .erf-form input[type=url], .erf-container .erf-form input[type=week], .erf-container .erf-form input[type=user_email], .erf-container .erf-form select, .erf-container .erf-form textarea{
+        max-width: 80%;
+    }
 	.erf-layout-two-column.erf-container .erf-two-columns .form-group{
             width: 100%;
         }
@@ -53,7 +56,10 @@
 	    display: inline-block;
 	}
 }
-@media all and (max-width: 479px) {
+@media all and (max-width: 480px) {
+    .erf-container .erf-form input[type=date], .erf-container .erf-form input[type=datetime], .erf-container .erf-form input[type=datetime-local], .erf-container .erf-form input[type=email], .erf-container .erf-form input[type=month], .erf-container .erf-form input[type=number], .erf-container .erf-form input[type=password], .erf-container .erf-form input[type=file], .erf-container .erf-form input[type=range], .erf-container .erf-form input[type=search], .erf-container .erf-form input[type=tel], .erf-container .erf-form input[type=text], .erf-container .erf-form input[type=time], .erf-container .erf-form input[type=url], .erf-container .erf-form input[type=week], .erf-container .erf-form input[type=user_email], .erf-container .erf-form select, .erf-container .erf-form textarea{
+        max-width: 100%;
+    }
     .erf-container .erf-profile-details-wrap .erf-profile-details{
         width: 100%;
         padding-left: 10px;

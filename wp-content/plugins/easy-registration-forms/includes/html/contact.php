@@ -4,7 +4,7 @@
         $layout= $form['layout'];
         $sub_id= isset($_GET['sub_id']) ? absint($_GET['sub_id']) : 0;
 ?>
-<div class="erf-container erf-contact erf-label-<?php echo $label_position ?> erf-layout-<?php echo $layout ?>">
+<div class="erf-container erf-contact erf-label-<?php echo $label_position ?> erf-layout-<?php echo $layout ?> erf-style-<?php echo $form['field_style']; ?>">
     <?php include('layout_options.php'); ?>
     <?php if($success) : ?>
         <div class="erf-success">
@@ -38,23 +38,27 @@
             <div class="erf-form-html" id="erf_form_<?php echo $id; ?>">
                 <?php echo do_shortcode($form_html); ?>
             </div>    
-            <?php do_action('erf_before_submit_btn',$form); ?>
             
-            <!-- Opt in checkbox -->
-            <?php if(!empty($form['opt_in']) && empty($sub_id) && erforms_show_opt_in()): ?>
-                <div class="form-group">
-                  <input type='checkbox' name='opt_in' <?php echo !empty($form['opt_default_state']) ? 'checked': ''; ?> />
-                  <?php echo $form['opt_text']; ?>
-                </div>
-            <?php endif; ?>
-            <!-- Opt in ends here -->
-            
-            <!-- Show reCaptcha if configured -->
-            <?php if(!is_user_logged_in() &&  !empty($this->options['recaptcha_configured']) && !empty($this->options['rc_site_key']) && $captcha_enabled) : ?>
-                <div class="g-recaptcha erf-recaptcha clearfix" data-sitekey="<?php echo $this->options['rc_site_key']; ?>"></div>
-            <?php endif; ?>
-            <!-- reCaptcha ends here -->    
-            
+            <div class="erf-external-form-elements">
+                <?php do_action('erf_before_submit_btn',$form); ?>
+
+                <!-- Opt in checkbox -->
+                <?php if(!empty($form['opt_in']) && empty($sub_id) && erforms_show_opt_in()): ?>
+                    <div class="form-group">
+                      <input type='checkbox' name='opt_in' <?php echo !empty($form['opt_default_state']) ? 'checked': ''; ?> />
+                      <?php echo $form['opt_text']; ?>
+                    </div>
+                <?php endif; ?>
+                <!-- Opt in ends here -->
+
+                <!-- Show reCaptcha if configured -->
+                <?php if(!is_user_logged_in() &&  !empty($this->options['recaptcha_configured']) && !empty($this->options['rc_site_key']) && $captcha_enabled) : ?>
+                    <div class="g-recaptcha erf-recaptcha clearfix" data-sitekey="<?php echo $this->options['rc_site_key']; ?>"></div>
+                <?php endif; ?>
+                <!-- reCaptcha ends here -->    
+                
+                <?php do_action('erforms_form_end',$form); ?>
+            </div>
             <!-- Contains multipage Next,Previous buttons -->
             <div class="erf-form-nav clearfix"></div> 
             
@@ -64,7 +68,7 @@
             <input type="hidden" name="erform_id" value="<?php echo $form['id']; ?>" />
             <input type="hidden" name="erform_submission_nonce" value="<?php echo wp_create_nonce('erform_submission_nonce'); ?>" />
             <input type="hidden" name="action" value="erf_submit_form" />
-            <?php do_action('erforms_form_end',$form); ?>
+            
         </form>
     <?php endif; ?>
     

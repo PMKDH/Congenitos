@@ -1,9 +1,18 @@
 <div class="wrap about-wrap full-width-layout erf-addons">
     <h1><?php _e('Easy Registration Form Add-on', 'erforms'); ?></h1>
     <div class="erf-add-on-wrap">
+        <div class="erf-add-on">
+            <a target="_blank" href="http://www.easyregistrationforms.com/product/gdpr-compliance/">
+            <div class="add-on-img">
+                <img src="<?php echo ERFORMS_PLUGIN_URL.'/assets/admin/images/addons/gdpr-compliance.png' ?>">
+            </div>
+            <h3><?php _e('GDPR compliance', 'erforms'); ?></h3>
+            <p><?php _e('Allow to add GDPR/privacy compliance checkbox in the end of form. Also integrates with WordPress Export Personal Data and Erase Personal Data.', 'erforms'); ?></p>
+            </a>
+        </div>
         
         <div class="erf-add-on">
-            <a href="http://www.easyregistrationforms.com/product/conditional-field-extension/" target="_blank">
+            <a target="_blank" href="http://www.easyregistrationforms.com/product/conditional-field-extension/" target="_blank">
             <div class="add-on-img">
                         
                 <img src="<?php echo ERFORMS_PLUGIN_URL.'/assets/admin/images/addons/conditional-logics.png' ?>">
@@ -14,7 +23,7 @@
         </div>
         
         <div class="erf-add-on">
-            <a href="http://www.easyregistrationforms.com/product/mailchimp-extension/">
+            <a target="_blank" href="http://www.easyregistrationforms.com/product/mailchimp-extension/">
             <div class="add-on-img">
                 <img src="<?php echo ERFORMS_PLUGIN_URL.'/assets/admin/images/addons/mail-chimp.png' ?>">
             </div>
@@ -22,6 +31,7 @@
             <p><?php _e('Create MailChimp signup forms in WordPress to grow your email list.', 'erforms'); ?></p>
             </a>
         </div>
+        
         
         
         <div class="erf-add-on">

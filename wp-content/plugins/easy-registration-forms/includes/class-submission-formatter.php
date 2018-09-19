@@ -26,6 +26,10 @@ class ERForms_Submission_Formatter extends ERForms_Post
         else if($this->type=='report'){
             $this->report();
         }
+        
+        else if($this->type=='personal_data_export'){
+            $this->personal_data_export();
+        }
         return $this->submission;
     }
     
@@ -35,6 +39,39 @@ class ERForms_Submission_Formatter extends ERForms_Post
     
     public function set_type($type){
         $this->type= $type;
+    }
+    
+    protected function personal_data_export(){
+        
+        foreach ($this->submission['fields_data'] as $field_index=>$single) {
+            if ($single['f_type'] == 'file' && !empty($single['f_val'])) {
+                $url = wp_get_attachment_url($single['f_val']);
+                if(!empty($url)){
+                    $single['f_val']='<a target="_blank" href="' . $url . '">'.$url.'</a>';
+                }
+                else
+                {
+                    $single['f_val']= __('Unable to fetch file URL. Possible reasons: File might have deleted from WordPress media section.','erforms');
+                }
+            }
+            else
+            {  
+                if (is_array($single['f_val'])) {
+                    $single['f_val']= implode(', ', $single['f_val']);
+                } 
+                else{                                     // Handling scalar values
+                    if($single['f_type'] == 'url'){
+                         $single['f_val']= '<a target="_blank" href="'.$single['f_val'].'">'.$single['f_val'].'</a>';
+                    }
+                    if(!empty($single['f_entity']) && !empty($single['f_entity_property'])){
+                        $single['f_val']= apply_filters('erforms_'.$single['f_entity'].'_'.$single['f_entity_property'].'_formatter_html',$single['f_val'],$single['f_name'],$this->submission['id']);
+                    }
+                }
+            }
+            $this->submission['fields_data'][$field_index]=$single;
+        }
+        
+        $this->add_default_fields();
     }
     
     protected function html(){

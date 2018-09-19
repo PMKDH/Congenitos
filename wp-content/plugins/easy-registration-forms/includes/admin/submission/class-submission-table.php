@@ -241,9 +241,8 @@ class ERForms_Submission_Table extends ERForms_List_Table {
                
 		// Delete one or multiple forms - both delete links and bulk actions
 		if ( 'delete' === $this->current_action() ) {
-
                     foreach ( $ids as $id ) {
-                            erforms()->form->delete( $id );
+                            erforms()->submission->delete($id);
                     }
                     ?>
                     <div class="notice updated">

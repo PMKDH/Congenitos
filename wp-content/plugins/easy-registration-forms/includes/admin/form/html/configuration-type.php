@@ -201,19 +201,6 @@ $en_role_choices = empty($form['en_role_choices']) ? '' : 'checked';
                         </div>
 
                         <div class="erf-child-rows" style="display:none">
-                            <!-- Commenting Account Link Expiry 
-                            <div class="erf-row">
-                                <div class="erf-control-label">
-                                    <label><?php _e('Activation Link Expiry', 'erforms'); ?></label>
-                                </div>
-
-                                <div class="erf-control">
-                                    <input type="number" name="act_link_expiry" value="<?php echo $form['act_link_expiry'] ?>">
-                                    <p class="desription"><?php _e('Link expiry time in hours. For example, use 24 if you want to expire the link after a day from registration. Use 0 for no expiry limit.', 'erforms') ?></p>
-                                </div>
-                            </div>
-                            -->
-
                             <div class="erf-row">
                                 <div class="erf-control-label">
                                     <label><?php _e('Account Activation Message', 'erforms'); ?></label>
@@ -632,6 +619,20 @@ $en_role_choices = empty($form['en_role_choices']) ? '' : 'checked';
                             </select>    
                         </div>  
                     </div>
+                    
+                    <div class="erf-row">
+                        <div class="erf-control-label">
+                            <label><?php _e('Field Style', 'erforms'); ?></label>
+                        </div>
+                        <div class="erf-control">
+                            <select name="field_style">
+                                <option <?php echo $form['field_style'] == "flat" ? 'selected' : ''; ?> value="flat"><?php _e('Flat', 'erforms'); ?></option>
+                                <option <?php echo $form['field_style'] == "rounded" ? 'selected' : ''; ?> value="rounded"><?php _e('Rounded', 'erforms'); ?></option>
+                                <option <?php echo $form['field_style'] == "rounded-corner" ? 'selected' : ''; ?> value="rounded-corner"><?php _e('Rounded Corner', 'erforms'); ?></option>
+                                <option <?php echo $form['field_style'] == "border-bottom" ? 'selected' : ''; ?> value="border-bottom"><?php _e('Border Bottom', 'erforms'); ?></option>
+                            </select>    
+                        </div>  
+                    </div>
 
                     <div class="erf-row">
                         <div class="erf-control-label">
@@ -727,7 +728,7 @@ $en_role_choices = empty($form['en_role_choices']) ? '' : 'checked';
             </div>
 
 
-            <?php do_action('erforms_form_configuration', $form); ?>
+            <?php do_action('erf_form_configuration', $form,$type); ?>
         </fieldset>
 
         <p class="submit">
